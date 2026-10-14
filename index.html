@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Escolar Interativo - Tech Bonder</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+
+<body>
+
+  <div class="container">
+    <!-- TELA 1: Boas-vindas -->
+    <section id="screen-welcome" class="screen active">
+      <div class="welcome-content">
+        <h1>📚 Tech Bonder</h1>
+        <h2>Estuda que cola</h2>
+        <p>Teste seus conhecimentos em Matemática, Português, Ciências e História de forma divertida e interativa!</p>
+        <button id="btn-start" class="btn">Começar Quiz</button>
+      </div>
+    </section>
+
+    <!-- TELA 2: Seleção de Matérias -->
+    <section id="screen-subjects" class="screen">
+      <h2>Escolha uma Matéria</h2>
+      <p class="subtitle">Selecione o tema que deseja testar agora:</p>
+      <div class="subjects-grid">
+        <button class="subject-card" data-subject="matematica">
+          <span class="icon">📐</span>
+          <h3>Matemática</h3>
+        </button>
+        <button class="subject-card" data-subject="portugues">
+          <span class="icon">📖</span>
+          <h3>Português</h3>
+        </button>
+        <button class="subject-card" data-subject="ciencias">
+          <span class="icon">🔬</span>
+          <h3>Ciências</h3>
+        </button>
+        <button class="subject-card" data-subject="historia">
+          <span class="icon">🏛️</span>
+          <h3>História</h3>
+        </button>
+      </div>
+      <button id="btn-back-welcome" class="btn-secondary">Voltar ao Início</button>
+    </section>
+
+    <!-- TELA 3: Perguntas -->
+    <section id="screen-quiz" class="screen">
+      <div class="quiz-header">
+        <span id="quiz-subject-title" class="badge">Matéria</span>
+        <span id="question-counter">Pergunta 1 de 5</span>
+      </div>
+      <div class="question-box">
+        <h3 id="question-text">Carregando pergunta...</h3>
+        <div id="options-container" class="options-grid"></div>
+      </div>
+      <button id="btn-next" class="btn" style="display: none;">Próxima Pergunta</button>
+    </section>
+
+    <!-- TELA 4: Feedback / Resultado -->
+    <section id="screen-feedback" class="screen">
+      <div class="feedback-card">
+        <h2> Resultado Final</h2>
+        <h1 class="result"><span>🏆</span></h1>
+        <p id="feedback-message" class="feedback-msg">Parabéns por concluir o desafio!</p>
+
+        <div class="stats-box">
+          <div class="stat-item correct">
+            <span class="stat-num" id="correct-count">0</span>
+            <span class="stat-label">Corretas</span>
+          </div>
+          <div class="stat-item incorrect">
+            <span class="stat-num" id="incorrect-count">0</span>
+            <span class="stat-label">Incorretas</span>
+          </div>
+        </div>
+
+        <div class="feedback-actions">
+          <button id="btn-restart" class="btn">Escolher Outra Matéria</button>
+          <button id="btn-home" class="btn-secondary">Voltar ao Início</button>
+        </div>
+      </div>
+    </section>
+  </div>
+
+</body>
+
+</html>

@@ -1,0 +1,222 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background: linear-gradient(to bottom, white, lightblue);
+  color: #333;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+}
+
+.container {
+  width: 100%;
+  max-width: 600px;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  padding: 25px;
+}
+
+/* Sistema de Telas */
+.screen {
+  display: none;
+}
+.screen.active {
+  display: block;
+}
+
+/* Tipografia e Títulos */
+h1 {
+  font-size: 1.8rem;
+  color: darkblue;
+  margin-bottom: 10px;
+  text-align: center;
+  text-shadow: 0 1px 2px lightblue;
+}
+h2 {
+  font-size: 1.4rem;
+  color: transparent;
+  background: linear-gradient(blueviolet, lightblue);
+  -webkit-background-clip: text;
+  background-clip: text;
+  text-align: center;
+  margin-bottom: 15px;
+}
+p {
+  color: #666;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 0.95rem;
+}
+
+/* Botões */
+.btn,
+.btn-secondary {
+  width: 100%;
+  padding: 12px;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  transition: 0.2s;
+}
+
+.btn {
+  background: linear-gradient(#667eea, lightblue);
+  color: #fff;
+}
+
+.btn:hover {
+  background: linear-gradient(#667eea, blueviolet);
+}
+
+.btn-secondary {
+  background: transparent;
+  color: #666;
+  border: 1px solid #ccc;
+  margin-top: 10px;
+}
+
+.btn-secondary:hover {
+  background: #f0f0f0;
+}
+
+/* Tela 2: Matérias */
+.subjects-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+  margin-bottom: 15px;
+}
+
+.subject-card {
+  background: #f8f9fa;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 15px;
+  text-align: center;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.subject-card:hover {
+  border-color: #667eea;
+  background: #f0f4ff;
+}
+
+.subject-card .icon {
+  font-size: 1.8rem;
+  display: block;
+  margin-bottom: 5px;
+}
+
+/* Tela 3: Quiz */
+.quiz-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15px;
+  font-weight: 600;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.badge {
+  background: #e0e7ff;
+  color: #4c51bf;
+  padding: 4px 10px;
+  border-radius: 12px;
+}
+
+.options-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.option-btn {
+  background: #f8f9fa;
+  border: 1px solid #ddd;
+  padding: 12px;
+  border-radius: 8px;
+  text-align: left;
+  cursor: pointer;
+  font-size: 0.95rem;
+}
+
+.option-btn:hover:not(:disabled) {
+  background: #eee;
+}
+.option-btn.correct {
+  background: #d4edda !important;
+  border-color: #28a745 !important;
+  color: #155724;
+}
+.option-btn.incorrect {
+  background: #f8d7da !important;
+  border-color: #dc3545 !important;
+  color: #721c24;
+}
+
+/* Tela 4: Feedback */
+.stats-box {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.stat-item {
+  background: #f8f9fa;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 15px;
+  flex: 1;
+  text-align: center;
+}
+
+.stat-num {
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+.stat-item.correct .stat-num {
+  color: #28a745;
+}
+.stat-item.incorrect .stat-num {
+  color: #dc3545;
+}
+
+/* 📱 RESPONSIVIDADE (Ajustes para telas menores) */
+@media (max-width: 480px) {
+  .container {
+    padding: 18px; /* Menos espaçamento nas bordas do card */
+  }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+  h2 {
+    font-size: 1.2rem;
+  }
+
+  /* Transforma a grade das matérias em 1 coluna em telas muito pequenas */
+  .subjects-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .stat-num {
+    font-size: 1.5rem;
+  }
+}
+.result {
+  text-align: center;
+}
