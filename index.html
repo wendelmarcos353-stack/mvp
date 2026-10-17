@@ -12,12 +12,20 @@
 <body>
 
   <div class="container">
+    <!-- Botão do Modo Escuro -->
+    <button id="btn-theme-toggle" class="theme-toggle-btn" title="Alternar Modo Escuro">🌙</button>
+
     <!-- TELA 1: Boas-vindas -->
     <section id="screen-welcome" class="screen active">
       <div class="welcome-content">
         <h1>📚 Tech Bonder</h1>
         <h2>Estuda que cola</h2>
-        <p>Teste seus conhecimentos em Matemática, Português, Ciências e História de forma divertida e interativa!</p>
+        <p>Teste seus conhecimentos em Matemática, Português, Química, História, Filosofia, Sociologia, Física e Geografia!</p>
+
+        <div class="total-score-badge">
+          🏆 Pontuação Geral Acumulada: <strong id="global-score">0</strong> pts
+        </div>
+
         <button id="btn-start" class="btn">Começar Quiz</button>
       </div>
     </section>
@@ -35,13 +43,29 @@
           <span class="icon">📖</span>
           <h3>Português</h3>
         </button>
-        <button class="subject-card" data-subject="ciencias">
-          <span class="icon">🔬</span>
-          <h3>Ciências</h3>
+        <button class="subject-card" data-subject="quimica">
+          <span class="icon">🧪</span>
+          <h3>Química</h3>
         </button>
         <button class="subject-card" data-subject="historia">
           <span class="icon">🏛️</span>
           <h3>História</h3>
+        </button>
+        <button class="subject-card" data-subject="filosofia">
+          <span class="icon">📜</span>
+          <h3>Filosofia</h3>
+        </button>
+        <button class="subject-card" data-subject="sociologia">
+          <span class="icon">📢</span>
+          <h3>Sociologia</h3>
+        </button>
+        <button class="subject-card" data-subject="fisica">
+          <span class="icon">🍎</span>
+          <h3>Física</h3>
+        </button>
+        <button class="subject-card" data-subject="geografia">
+          <span class="icon">🌎</span>
+          <h3>Geografia</h3>
         </button>
       </div>
       <button id="btn-back-welcome" class="btn-secondary">Voltar ao Início</button>
@@ -51,11 +75,19 @@
     <section id="screen-quiz" class="screen">
       <div class="quiz-header">
         <span id="quiz-subject-title" class="badge">Matéria</span>
+        <span id="timer-display" class="timer">⏱️ 30s</span>
         <span id="question-counter">Pergunta 1 de 5</span>
       </div>
+
+      <!-- Barra de Progresso -->
+      <div class="progress-bar-container">
+        <div id="progress-bar" class="progress-bar"></div>
+      </div>
+
       <div class="question-box">
         <h3 id="question-text">Carregando pergunta...</h3>
         <div id="options-container" class="options-grid"></div>
+        <div id="explanation-box" class="explanation-box" style="display: none;"></div>
       </div>
       <button id="btn-next" class="btn" style="display: none;">Próxima Pergunta</button>
     </section>
@@ -63,8 +95,8 @@
     <!-- TELA 4: Feedback / Resultado -->
     <section id="screen-feedback" class="screen">
       <div class="feedback-card">
-        <h2> Resultado Final</h2>
-        <h1 class="result"><span>🏆</span></h1>
+        <h2>Resultado Final</h2>
+        <h1 class="result"><span id="trophy-icon">🏆</span></h1>
         <p id="feedback-message" class="feedback-msg">Parabéns por concluir o desafio!</p>
 
         <div class="stats-box">
