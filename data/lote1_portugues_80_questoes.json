@@ -1,0 +1,884 @@
+{
+    "portugues": [
+        {
+            "question": "A peça 'O Auto da Compadecida', do dramaturgo Ariano Suassuna, baseia-se fortemente em qual manifestação da cultura popular nordestina?",
+            "options": [
+                "Bossa Nova",
+                "Literatura de Cordel",
+                "Tropicália",
+                "Manguebeat"
+            ],
+            "answer": "Literatura de Cordel",
+            "explanation": "A obra une tradições do teatro popular, da literatura de cordel e do folclore nordestino."
+        },
+        {
+            "question": "No poema 'Morte e Vida Severina', de João Cabral de Melo Neto, o personagem principal faz uma jornada com qual destino?",
+            "options": [
+                "Saindo do Recife rumo ao Sertão.",
+                "Saindo do Sertão rumo ao Recife (litoral).",
+                "Saindo de Pernambuco rumo a São Paulo.",
+                "Saindo do Agreste rumo a Brasília."
+            ],
+            "answer": "Saindo do Sertão rumo ao Recife (litoral).",
+            "explanation": "O retirante Severino foge da seca e da morte no sertão, buscando melhores condições na capital."
+        },
+        {
+            "question": "O poema 'Evocação do Recife', que retrata com nostalgia a cidade através de versos livres, foi escrito por qual grande poeta modernista pernambucano?",
+            "options": [
+                "Carlos Drummond de Andrade",
+                "Machado de Assis",
+                "Manuel Bandeira",
+                "Castro Alves"
+            ],
+            "answer": "Manuel Bandeira",
+            "explanation": "Bandeira, recifense, é um dos principais nomes da primeira fase do Modernismo brasileiro."
+        },
+        {
+            "question": "O Movimento Armorial, criado na década de 1970 no Recife, tinha como principal objetivo:",
+            "options": [
+                "Criar uma arte brasileira erudita a partir das raízes populares do Nordeste.",
+                "Importar estilos musicais europeus clássicos para o Brasil.",
+                "Romper com todas as tradições folclóricas.",
+                "Focar exclusivamente na literatura estrangeira."
+            ],
+            "answer": "Criar uma arte brasileira erudita a partir das raízes populares do Nordeste.",
+            "explanation": "Liderado por Ariano Suassuna, o movimento buscava valorizar a cultura popular nordestina (cordel, xilogravura, pífano) na arte erudita."
+        },
+        {
+            "question": "A 'Carta de Achamento do Brasil', escrita por Pero Vaz de Caminha em 1500, pertence a qual período literário?",
+            "options": [
+                "Barroco",
+                "Quinhentismo",
+                "Arcadismo",
+                "Romantismo"
+            ],
+            "answer": "Quinhentismo",
+            "explanation": "O Quinhentismo engloba a literatura de informação e a literatura jesuítica nos primeiros anos do Brasil colônia."
+        },
+        {
+            "question": "Gregório de Matos, conhecido como 'Boca do Inferno' por suas sátiras, é o principal poeta de qual movimento literário?",
+            "options": [
+                "Modernismo",
+                "Romantismo",
+                "Barroco",
+                "Parnasianismo"
+            ],
+            "answer": "Barroco",
+            "explanation": "O Barroco brasileiro, no século XVII, foi marcado por fortes contrastes, religiosidade e pelas sátiras de Gregório de Matos."
+        },
+        {
+            "question": "O Arcadismo (ou Neoclassicismo) no Brasil, no século XVIII, exaltava:",
+            "options": [
+                "A vida simples no campo e a razão (fugere urbem).",
+                "A angústia, a morte e as trevas.",
+                "O desenvolvimento industrial das cidades.",
+                "As lutas de classes sociais."
+            ],
+            "answer": "A vida simples no campo e a razão (fugere urbem).",
+            "explanation": "Os árcades buscavam uma vida pastoril, simples e equilibrada, longe do caos urbano."
+        },
+        {
+            "question": "Qual é a obra que marca o início do Romantismo no Brasil, escrita por Gonçalves de Magalhães em 1836?",
+            "options": [
+                "Iracema",
+                "O Guarani",
+                "Suspiros Poéticos e Saudades",
+                "Memórias Póstumas de Brás Cubas"
+            ],
+            "answer": "Suspiros Poéticos e Saudades",
+            "explanation": "Esta obra foi o marco inicial do Romantismo no Brasil, movimento focado na emoção e no nacionalismo."
+        },
+        {
+            "question": "A obra 'Iracema', de José de Alencar, representa a primeira fase do Romantismo brasileiro, caracterizada pelo:",
+            "options": [
+                "Indianismo e nacionalismo.",
+                "Pessimismo e morbidez.",
+                "Crítica social e escravidão.",
+                "Objetivismo científico."
+            ],
+            "answer": "Indianismo e nacionalismo.",
+            "explanation": "O autor buscou criar heróis nacionais, exaltando o indígena e a natureza do Brasil."
+        },
+        {
+            "question": "A obra 'Memórias Póstumas de Brás Cubas' inaugurou qual movimento literário no Brasil em 1881?",
+            "options": [
+                "Romantismo",
+                "Realismo",
+                "Simbolismo",
+                "Modernismo"
+            ],
+            "answer": "Realismo",
+            "explanation": "Escrita por Machado de Assis, a obra rompe com o sentimentalismo romântico, focando na crítica social irônica."
+        },
+        {
+            "question": "O Naturalismo no Brasil, que analisa o comportamento humano sob forte influência do meio e dos instintos, tem como principal obra:",
+            "options": [
+                "Dom Casmurro",
+                "O Cortiço",
+                "A Moreninha",
+                "Os Lusíadas"
+            ],
+            "answer": "O Cortiço",
+            "explanation": "Escrito por Aluísio Azevedo, 'O Cortiço' mostra como o ambiente coletivo influencia o comportamento dos personagens."
+        },
+        {
+            "question": "O Parnasianismo foi um movimento poético focado na:",
+            "options": [
+                "Linguagem coloquial e versos livres.",
+                "Crítica às injustiças sociais.",
+                "Arte pela arte, com extremo rigor formal e vocabulário culto.",
+                "Religiosidade profunda."
+            ],
+            "answer": "Arte pela arte, com extremo rigor formal e vocabulário culto.",
+            "explanation": "Poetas como Olavo Bilac buscavam a perfeição técnica, rimas ricas e métrica exata."
+        },
+        {
+            "question": "A Semana de Arte Moderna de 1922, realizada em São Paulo, marcou o início de qual movimento literário?",
+            "options": [
+                "Simbolismo",
+                "Modernismo",
+                "Pré-Modernismo",
+                "Parnasianismo"
+            ],
+            "answer": "Modernismo",
+            "explanation": "A Semana de 22 buscou romper com os padrões europeus e criar uma arte genuinamente brasileira, livre de regras rígidas."
+        },
+        {
+            "question": "A segunda fase do Modernismo brasileiro (década de 1930) destacou-se pelo romance regionalista nordestino. Qual destas obras pertence a este período?",
+            "options": [
+                "Macunaíma",
+                "Vidas Secas",
+                "Iracema",
+                "Senhora"
+            ],
+            "answer": "Vidas Secas",
+            "explanation": "O livro de Graciliano Ramos retrata a dura realidade de uma família de retirantes no sertão nordestino."
+        },
+        {
+            "question": "Clarice Lispector, escritora ucraniana radicada em Pernambuco na infância, é um ícone da terceira fase do modernismo. Sua literatura é focada em:",
+            "options": [
+                "Aventuras épicas espaciais.",
+                "Crônicas esportivas.",
+                "Fluxo de consciência e introspecção psicológica.",
+                "Teatro de comédia de costumes."
+            ],
+            "answer": "Fluxo de consciência e introspecção psicológica.",
+            "explanation": "Suas obras (como 'A Hora da Estrela') exploram profundamente o íntimo e as reflexões existenciais dos personagens."
+        },
+        {
+            "question": "Na frase 'Chorei rios de lágrimas ao ler a notícia', a figura de linguagem presente é a:",
+            "options": [
+                "Metonímia",
+                "Hipérbole",
+                "Eufemismo",
+                "Antítese"
+            ],
+            "answer": "Hipérbole",
+            "explanation": "A hipérbole é caracterizada pelo exagero intencional para dar ênfase a uma ideia."
+        },
+        {
+            "question": "'A vida é um teatro'. Essa frase contém uma:",
+            "options": [
+                "Metáfora",
+                "Ironia",
+                "Onomatopeia",
+                "Prosopopeia"
+            ],
+            "answer": "Metáfora",
+            "explanation": "A metáfora é uma comparação implícita, sem o uso do conectivo 'como'."
+        },
+        {
+            "question": "Quando dizemos 'Li Machado de Assis no fim de semana' no lugar de 'Li o livro de Machado de Assis', usamos a figura chamada:",
+            "options": [
+                "Metáfora",
+                "Pleonasmo",
+                "Metonímia",
+                "Sinestesia"
+            ],
+            "answer": "Metonímia",
+            "explanation": "A metonímia ocorre quando substituímos uma palavra por outra que tenha relação de proximidade (o autor pela obra)."
+        },
+        {
+            "question": "'O prefeito faltou com a verdade'. Esta frase suaviza uma acusação de mentira através do:",
+            "options": [
+                "Paradoxo",
+                "Eufemismo",
+                "Pleonasmo",
+                "Catacrese"
+            ],
+            "answer": "Eufemismo",
+            "explanation": "O eufemismo é a troca de termos agressivos ou desagradáveis por expressões mais suaves."
+        },
+        {
+            "question": "O uso de 'Subir para cima' ou 'Entrar para dentro' é um vício de linguagem conhecido como:",
+            "options": [
+                "Pleonasmo vicioso",
+                "Ambiguidade",
+                "Barbarismo",
+                "Cacofonia"
+            ],
+            "answer": "Pleonasmo vicioso",
+            "explanation": "O pleonasmo vicioso é a repetição desnecessária de uma ideia já expressa nas palavras anteriores."
+        },
+        {
+            "question": "Na frase 'As árvores abraçavam o vento da tarde', foi atribuída uma ação humana a um ser inanimado. Isso é:",
+            "options": [
+                "Ironia",
+                "Personificação (ou Prosopopeia)",
+                "Antítese",
+                "Hipérbole"
+            ],
+            "answer": "Personificação (ou Prosopopeia)",
+            "explanation": "Dar características ou ações humanas a animais ou coisas inanimadas é a função da personificação."
+        },
+        {
+            "question": "'Que belo comportamento! Você quebrou meu celular novo!'. A figura presente aqui é:",
+            "options": [
+                "Eufemismo",
+                "Comparação",
+                "Ironia",
+                "Paradoxo"
+            ],
+            "answer": "Ironia",
+            "explanation": "A ironia consiste em afirmar exatamente o contrário do que se pensa, geralmente em tom de crítica."
+        },
+        {
+            "question": "'O som doce e aveludado daquela voz me acalmava'. Misturar sensações de sentidos diferentes (audição, paladar, tato) é:",
+            "options": [
+                "Sinestesia",
+                "Catacrese",
+                "Antítese",
+                "Aliteração"
+            ],
+            "answer": "Sinestesia",
+            "explanation": "A sinestesia ocorre pela mescla de sensações percebidas por diferentes órgãos dos sentidos."
+        },
+        {
+            "question": "A aproximação de palavras de sentidos opostos, como 'Luz e Escuridão', na mesma frase é chamada de:",
+            "options": [
+                "Paradoxo",
+                "Hipérbole",
+                "Antítese",
+                "Metonímia"
+            ],
+            "answer": "Antítese",
+            "explanation": "Antítese é a presença de termos contrários próximos um do outro, sem que um anule o outro (diferente do paradoxo)."
+        },
+        {
+            "question": "A figura presente em 'O tic-tac do relógio me enlouquecia' é a:",
+            "options": [
+                "Aliteração",
+                "Assonância",
+                "Onomatopeia",
+                "Metáfora"
+            ],
+            "answer": "Onomatopeia",
+            "explanation": "A onomatopeia tenta reproduzir na escrita os sons e ruídos reais."
+        },
+        {
+            "question": "Um manual de instruções de uma televisão, que foca na informação clara e objetiva sobre o uso do aparelho, utiliza predominantemente qual função da linguagem?",
+            "options": [
+                "Função Emotiva",
+                "Função Referencial",
+                "Função Poética",
+                "Função Fática"
+            ],
+            "answer": "Função Referencial",
+            "explanation": "Também chamada de denotativa, foca no contexto e em informar de maneira neutra e direta."
+        },
+        {
+            "question": "As propagandas e discursos políticos, que tentam convencer o receptor a comprar ou votar, utilizam a função:",
+            "options": [
+                "Conativa (ou Apelativa)",
+                "Metalinguística",
+                "Emotiva",
+                "Fática"
+            ],
+            "answer": "Conativa (ou Apelativa)",
+            "explanation": "Esta função é centrada no receptor e usa verbos no imperativo para persuadi-lo a fazer algo."
+        },
+        {
+            "question": "Quando um poeta escreve um poema que fala sobre como escrever poemas, a função da linguagem em destaque é a:",
+            "options": [
+                "Referencial",
+                "Poética",
+                "Metalinguística",
+                "Emotiva"
+            ],
+            "answer": "Metalinguística",
+            "explanation": "A metalinguagem ocorre quando o código (a língua) é usado para explicar ou falar do próprio código."
+        },
+        {
+            "question": "Um 'Alô, tá me ouvindo?' ao telefone, que serve apenas para testar o canal de comunicação, é um exemplo da função:",
+            "options": [
+                "Fática",
+                "Conativa",
+                "Metalinguística",
+                "Referencial"
+            ],
+            "answer": "Fática",
+            "explanation": "A função fática está centrada no canal, servindo para abrir, manter ou encerrar o contato com o ouvinte."
+        },
+        {
+            "question": "Textos escritos em primeira pessoa, como diários e cartas confessionais focados nos sentimentos do emissor, usam a função:",
+            "options": [
+                "Conativa",
+                "Fática",
+                "Emotiva (ou Expressiva)",
+                "Referencial"
+            ],
+            "answer": "Emotiva (ou Expressiva)",
+            "explanation": "É centrada no emissor e em seus sentimentos e emoções."
+        },
+        {
+            "question": "O fato de no Rio Grande do Sul se usar a palavra 'guri' e em Pernambuco se usar 'menino' ou 'pirraia' é um exemplo de variação:",
+            "options": [
+                "Diastrática (Social)",
+                "Diatópica (Regional/Geográfica)",
+                "Diacrônica (Histórica)",
+                "Diafásica (Situacional)"
+            ],
+            "answer": "Diatópica (Regional/Geográfica)",
+            "explanation": "Variação diatópica é aquela que ocorre devido às diferenças geográficas entre regiões."
+        },
+        {
+            "question": "A mudança da palavra 'Vossa Mercê' para 'Vosmicê' e, posteriormente, 'Você', exemplifica a variação:",
+            "options": [
+                "Histórica (Diacrônica)",
+                "Geográfica (Diatópica)",
+                "Social (Diastrática)",
+                "Jargão profissional"
+            ],
+            "answer": "Histórica (Diacrônica)",
+            "explanation": "A língua evolui com o passar do tempo, sofrendo alterações na escrita e pronúncia."
+        },
+        {
+            "question": "O jargão médico, os termos jurídicos de um advogado ou a gíria dos surfistas representam qual tipo de variação linguística?",
+            "options": [
+                "Geográfica",
+                "Histórica",
+                "Diafásica",
+                "Diastrática (Social/Grupos)"
+            ],
+            "answer": "Diastrática (Social/Grupos)",
+            "explanation": "Ocorre devido aos grupos sociais, níveis de escolaridade ou faixas etárias dos falantes."
+        },
+        {
+            "question": "Um texto que defende uma tese com argumentos lógicos para convencer o leitor pertence à tipologia:",
+            "options": [
+                "Narrativa",
+                "Descritiva",
+                "Dissertativa-Argumentativa",
+                "Injetiva"
+            ],
+            "answer": "Dissertativa-Argumentativa",
+            "explanation": "É o tipo de texto exigido no ENEM, que apresenta uma opinião (tese) sustentada por argumentos."
+        },
+        {
+            "question": "Receitas culinárias, bulas de remédios e manuais de instrução são classificados como textos do tipo:",
+            "options": [
+                "Injuntivo",
+                "Narrativo",
+                "Descritivo",
+                "Expositivo"
+            ],
+            "answer": "Injuntivo",
+            "explanation": "Textos injuntivos instruem, orientam e indicam como o leitor deve proceder, usando muitos verbos no imperativo."
+        },
+        {
+            "question": "Assinale a alternativa onde o uso da crase está INCORRETO:",
+            "options": [
+                "Vou à Bahia no verão.",
+                "Entreguei o prêmio à professora.",
+                "O projeto começou à partir de hoje.",
+                "Chegamos às duas horas da tarde."
+            ],
+            "answer": "O projeto começou à partir de hoje.",
+            "explanation": "Não se usa crase antes de verbos ('partir')."
+        },
+        {
+            "question": "Na frase 'Ele foi ___ festa e voltou ___ meia-noite', as lacunas devem ser preenchidas corretamente por:",
+            "options": [
+                "a / a",
+                "à / a",
+                "a / à",
+                "à / à"
+            ],
+            "answer": "à / à",
+            "explanation": "O verbo 'ir' pede a preposição 'a' + artigo 'a' de 'festa' (= à). E locuções adverbiais de tempo femininas exigem crase (= à meia-noite)."
+        },
+        {
+            "question": "Qual das frases apresenta erro de pontuação em relação ao sujeito e o predicado?",
+            "options": [
+                "Os alunos de Pernambuco, são muito dedicados.",
+                "Ontem, choveu bastante no sertão.",
+                "João, meu melhor amigo, chegou.",
+                "Na escola, todos aprenderam a lição."
+            ],
+            "answer": "Os alunos de Pernambuco, são muito dedicados.",
+            "explanation": "Não se separa o sujeito ('Os alunos de Pernambuco') do predicado ('são muito dedicados') com vírgula."
+        },
+        {
+            "question": "O termo isolado por vírgulas em 'Maria, traga o livro de Matemática' exerce a função sintática de:",
+            "options": [
+                "Aposto",
+                "Sujeito",
+                "Vocativo",
+                "Predicativo"
+            ],
+            "answer": "Vocativo",
+            "explanation": "O vocativo é um termo de chamamento, invocação, e sempre deve ser isolado por vírgula."
+        },
+        {
+            "question": "O termo sublinhado em 'Recife, capital de Pernambuco, é banhada pelo mar', que explica um termo anterior, é um:",
+            "options": [
+                "Aposto",
+                "Vocativo",
+                "Adjunto adnominal",
+                "Sujeito composto"
+            ],
+            "answer": "Aposto",
+            "explanation": "O aposto explicativo detalha ou esclarece um termo já mencionado na oração e vem entre vírgulas."
+        },
+        {
+            "question": "Segundo a regência do verbo 'assistir' no sentido de ver/presenciar, a frase correta é:",
+            "options": [
+                "Assistimos o filme ontem.",
+                "Assistimos ao filme ontem.",
+                "Assistimos no filme ontem.",
+                "Assistimos do filme ontem."
+            ],
+            "answer": "Assistimos ao filme ontem.",
+            "explanation": "No sentido de ver, 'assistir' é transitivo indireto e exige a preposição 'a' (ao filme)."
+        },
+        {
+            "question": "Na frase 'Chegamos ___ Recife de madrugada', a lacuna é preenchida corretamente por:",
+            "options": [
+                "a",
+                "à",
+                "em",
+                "para a"
+            ],
+            "answer": "a",
+            "explanation": "Quem chega, chega 'a' algum lugar. Como a cidade do Recife não aceita o artigo feminino ('a Recife' e não 'à Recife'), não há crase."
+        },
+        {
+            "question": "A concordância verbal está CORRETA em qual das frases?",
+            "options": [
+                "Houveram muitos problemas na reunião.",
+                "Haviam várias pessoas na rua.",
+                "Havia muitos alunos na quadra.",
+                "Vai haver muitas festas no feriado."
+            ],
+            "answer": "Havia muitos alunos na quadra.",
+            "explanation": "O verbo 'haver', no sentido de existir, é impessoal e deve ficar na 3ª pessoa do singular (Havia)."
+        },
+        {
+            "question": "Complete: Seguem _________ as fotos da excursão para Gravatá.",
+            "options": [
+                "anexo",
+                "em anexo",
+                "anexas",
+                "anexos"
+            ],
+            "answer": "anexas",
+            "explanation": "A palavra 'anexo' atua como adjetivo e concorda em gênero e número com o substantivo (as fotos anexas). A expressão 'em anexo' é invariável."
+        },
+        {
+            "question": "Na frase 'Ela estava ______ cansada, pois comprou ______ frutas na feira', as palavras corretas são:",
+            "options": [
+                "meia / bastantes",
+                "meio / bastantes",
+                "meia / bastante",
+                "meio / bastante"
+            ],
+            "answer": "meio / bastantes",
+            "explanation": "'Meio' atua como advérbio de intensidade (um pouco) e é invariável. 'Bastantes' é pronome adjetivo e concorda com o substantivo 'frutas'."
+        },
+        {
+            "question": "Em 'A entrada é _________ para menores', a palavra correta para preencher a lacuna é:",
+            "options": [
+                "proibida",
+                "proibido",
+                "proibidas",
+                "proibidos"
+            ],
+            "answer": "proibida",
+            "explanation": "A expressão 'é proibido' só varia se o substantivo for acompanhado de um determinante (O artigo 'A' em 'A entrada'). Logo, 'A entrada é proibida'."
+        },
+        {
+            "question": "A classe gramatical que substitui ou acompanha o substantivo é o:",
+            "options": [
+                "Adjetivo",
+                "Verbo",
+                "Pronome",
+                "Advérbio"
+            ],
+            "answer": "Pronome",
+            "explanation": "O pronome é usado para substituir (pronome substantivo) ou acompanhar (pronome adjetivo) o nome."
+        },
+        {
+            "question": "Qual das opções abaixo contém apenas substantivos compostos?",
+            "options": [
+                "Guarda-chuva, girassol, passatempo.",
+                "Casa, livro, carro.",
+                "Beija-flor, amor, paz.",
+                "Cachorro-quente, luz, sol."
+            ],
+            "answer": "Guarda-chuva, girassol, passatempo.",
+            "explanation": "Substantivos compostos são formados por mais de um radical, podendo ter hífen ou não (gira+sol, passa+tempo)."
+        },
+        {
+            "question": "O adjetivo derivado do estado de Pernambuco, que indica a origem da pessoa, é chamado de:",
+            "options": [
+                "Adjetivo composto",
+                "Adjetivo pátrio",
+                "Adjetivo primitivo",
+                "Locução adjetiva"
+            ],
+            "answer": "Adjetivo pátrio",
+            "explanation": "Os adjetivos pátrios (ou gentílicos) indicam a nacionalidade ou lugar de origem (ex: pernambucano)."
+        },
+        {
+            "question": "Na frase 'Os alunos estudaram para a prova', o termo destacado 'para' pertence a qual classe gramatical?",
+            "options": [
+                "Conjunção",
+                "Preposição",
+                "Artigo",
+                "Pronome"
+            ],
+            "answer": "Preposição",
+            "explanation": "A preposição é a palavra invariável que liga dois termos da oração, estabelecendo relação entre eles."
+        },
+        {
+            "question": "Na frase 'Estudou muito, MAS não passou no exame', a conjunção destacada introduz uma oração coordenada:",
+            "options": [
+                "Aditiva",
+                "Adversativa",
+                "Conclusiva",
+                "Explicativa"
+            ],
+            "answer": "Adversativa",
+            "explanation": "As conjunções adversativas (mas, porém, contudo, todavia) indicam oposição de ideias."
+        },
+        {
+            "question": "A conjunção 'portanto' em 'Choveu bastante, portanto as plantas estão verdes' tem sentido:",
+            "options": [
+                "Adversativo",
+                "Explicativo",
+                "Conclusivo",
+                "Aditivo"
+            ],
+            "answer": "Conclusivo",
+            "explanation": "'Portanto', 'logo' e 'por isso' introduzem uma conclusão do pensamento anterior."
+        },
+        {
+            "question": "Em 'Caso chova amanhã, não iremos ao parque', a oração subordinada exprime ideia de:",
+            "options": [
+                "Causa",
+                "Tempo",
+                "Condição",
+                "Proporção"
+            ],
+            "answer": "Condição",
+            "explanation": "A conjunção 'caso' (assim como 'se') introduz uma oração adverbial condicional."
+        },
+        {
+            "question": "Na frase 'João comprou um carro novo. ELE estava muito feliz', o pronome 'Ele' faz referência a um termo anterior, estabelecendo a coesão:",
+            "options": [
+                "Catafórica",
+                "Anafórica",
+                "Exofórica",
+                "Dêitica"
+            ],
+            "answer": "Anafórica",
+            "explanation": "A anáfora é o mecanismo coesivo onde uma palavra (como o pronome 'ele') retoma algo já dito no texto ('João')."
+        },
+        {
+            "question": "Na oração subordinada 'O fato é QUE a vida é dura', o 'que' atua como:",
+            "options": [
+                "Pronome relativo",
+                "Conjunção integrante",
+                "Preposição acidental",
+                "Advérbio de intensidade"
+            ],
+            "answer": "Conjunção integrante",
+            "explanation": "O 'que' (e o 'se') atuam como conjunções integrantes quando introduzem orações subordinadas substantivas."
+        },
+        {
+            "question": "A regra que determina a acentuação gráfica da palavra 'Cajá' é a mesma da palavra:",
+            "options": [
+                "Sofá",
+                "Mesa",
+                "Lápis",
+                "Lâmpada"
+            ],
+            "answer": "Sofá",
+            "explanation": "Ambas são oxítonas terminadas em 'a'. A sílaba tônica é a última."
+        },
+        {
+            "question": "Por que a palavra 'Fácil' recebe acento agudo?",
+            "options": [
+                "Porque é uma proparoxítona.",
+                "Porque é uma oxítona terminada em L.",
+                "Porque é uma paroxítona terminada em L.",
+                "Porque todos os adjetivos são acentuados."
+            ],
+            "answer": "Porque é uma paroxítona terminada em L.",
+            "explanation": "A regra dita que paroxítonas (penúltima sílaba tônica) terminadas em L, I, N, U, R, X, Ã (LINURXÃO) recebem acento."
+        },
+        {
+            "question": "Todas as palavras desta lista são obrigatoriamente acentuadas, EXCETO:",
+            "options": [
+                "Médico",
+                "Pântano",
+                "Pássaro",
+                "Item"
+            ],
+            "answer": "Item",
+            "explanation": "Todas as proparoxítonas (médico, pântano, pássaro) são acentuadas. 'Item' é uma paroxítona terminada em 'em', que não recebe acento."
+        },
+        {
+            "question": "Pelo Novo Acordo Ortográfico, os ditongos abertos (éi, ói) perderam o acento nas palavras:",
+            "options": [
+                "Oxítonas",
+                "Paroxítonas",
+                "Proparoxítonas",
+                "Monossílabos tônicos"
+            ],
+            "answer": "Paroxítonas",
+            "explanation": "Palavras como idei-a, joi-a, assem-blei-a (paroxítonas) perderam o acento. O acento continua em herói, papéis (oxítonas)."
+        },
+        {
+            "question": "A palavra 'Saúde' é acentuada graficamente devido à regra:",
+            "options": [
+                "Das proparoxítonas.",
+                "Dos ditongos abertos.",
+                "Dos hiatos.",
+                "Das oxítonas."
+            ],
+            "answer": "Dos hiatos.",
+            "explanation": "Acentuam-se o 'i' e o 'u' tônicos quando formam hiato com a vogal anterior, sozinhos na sílaba ou seguidos de 's' (Sa-ú-de)."
+        },
+        {
+            "question": "Qual destas palavras se escreve corretamente com 'Ç' e não com 'SS'?",
+            "options": [
+                "Exce__ão (Exceção)",
+                "Admi__ão (Admissão)",
+                "Progre__o (Progresso)",
+                "Discu__ão (Discussão)"
+            ],
+            "answer": "Exce__ão (Exceção)",
+            "explanation": "A palavra correta é 'Exceção', com C cedilha."
+        },
+        {
+            "question": "A palavra 'mal' com L é antônimo (contrário) de:",
+            "options": [
+                "Bom",
+                "Bem",
+                "Ruim",
+                "Ótimo"
+            ],
+            "answer": "Bem",
+            "explanation": "A regra clássica: Mal é contrário de Bem; Mau (com u) é o contrário de Bom."
+        },
+        {
+            "question": "Na oração 'Aquele político não merece meu voto', o verbo 'merece' é classificado como:",
+            "options": [
+                "Verbo Intransitivo",
+                "Verbo Transitivo Direto",
+                "Verbo de Ligação",
+                "Verbo Transitivo Indireto"
+            ],
+            "answer": "Verbo Transitivo Direto",
+            "explanation": "Quem merece, merece algo. 'Meu voto' atua como objeto direto (sem preposição)."
+        },
+        {
+            "question": "Em 'A rua estava silenciosa', a palavra 'silenciosa' atua sintaticamente como:",
+            "options": [
+                "Sujeito",
+                "Objeto Direto",
+                "Predicativo do Sujeito",
+                "Adjunto Adverbial"
+            ],
+            "answer": "Predicativo do Sujeito",
+            "explanation": "Atribui uma qualidade/estado ao sujeito 'A rua', ligado pelo verbo de ligação 'estava'."
+        },
+        {
+            "question": "Qual dos termos abaixo caracteriza uma 'Locução Adjetiva'?",
+            "options": [
+                "Com pressa",
+                "Amor de mãe",
+                "Cantarolar",
+                "Muito longe"
+            ],
+            "answer": "Amor de mãe",
+            "explanation": "'De mãe' é formado por preposição + substantivo, mas tem valor de adjetivo (materno)."
+        },
+        {
+            "question": "O plural de 'cidadão' e 'pão' são, respectivamente:",
+            "options": [
+                "cidadões / pães",
+                "cidadãos / pães",
+                "cidadões / pãos",
+                "cidadãos / pãos"
+            ],
+            "answer": "cidadãos / pães",
+            "explanation": "O plural correto na norma padrão é 'cidadãos' e 'pães'."
+        },
+        {
+            "question": "A palavra 'porquê' (junto e com acento) deve ser utilizada:",
+            "options": [
+                "No início de perguntas.",
+                "No final de perguntas antes do ponto de interrogação.",
+                "Como substantivo, significando 'o motivo, a razão'.",
+                "Para dar respostas e explicações longas."
+            ],
+            "answer": "Como substantivo, significando 'o motivo, a razão'.",
+            "explanation": "Exemplo: 'Gostaria de entender o porquê de tanto atraso'."
+        },
+        {
+            "question": "O termo 'a fim' separado, usado na frase 'Estudo muito a fim de passar', expressa:",
+            "options": [
+                "Afinidade",
+                "Oposição",
+                "Conclusão",
+                "Finalidade / Propósito"
+            ],
+            "answer": "Finalidade / Propósito",
+            "explanation": "A expressão 'a fim de' significa 'com o objetivo/finalidade de'."
+        },
+        {
+            "question": "Na análise sintática, 'Choveu durante a madrugada' possui qual tipo de sujeito?",
+            "options": [
+                "Sujeito Oculto",
+                "Sujeito Simples",
+                "Oração Sem Sujeito (Inexistente)",
+                "Sujeito Indeterminado"
+            ],
+            "answer": "Oração Sem Sujeito (Inexistente)",
+            "explanation": "Verbos que exprimem fenômenos meteorológicos (chover, ventar, nevar) não possuem sujeito."
+        },
+        {
+            "question": "A frase 'Fui eu QUE paguei a conta' contém qual figura sintática focada no realce?",
+            "options": [
+                "Elipse",
+                "Pleonasmo",
+                "Partícula expletiva ou de realce",
+                "Zeugma"
+            ],
+            "answer": "Partícula expletiva ou de realce",
+            "explanation": "A expressão 'é que' (ou só 'que') pode ser retirada sem prejuízo gramatical, servindo apenas para realçar."
+        },
+        {
+            "question": "A obra 'Os Lusíadas', maior poema épico da língua portuguesa que narra as viagens de Vasco da Gama, foi escrita por:",
+            "options": [
+                "Fernando Pessoa",
+                "Eça de Queirós",
+                "Luís Vaz de Camões",
+                "Gil Vicente"
+            ],
+            "answer": "Luís Vaz de Camões",
+            "explanation": "Camões foi o principal autor do Classicismo português e consolidou o idioma no século XVI."
+        },
+        {
+            "question": "O poema 'Canção do Exílio' ('Minha terra tem palmeiras, onde canta o Sabiá') aborda o saudosismo romântico. Quem é o autor?",
+            "options": [
+                "Gonçalves Dias",
+                "Álvares de Azevedo",
+                "Castro Alves",
+                "José de Alencar"
+            ],
+            "answer": "Gonçalves Dias",
+            "explanation": "O poema é o símbolo máximo da 1ª Geração do Romantismo no Brasil, escrito na época em que o autor estudava em Portugal."
+        },
+        {
+            "question": "Castro Alves, da 3ª Geração do Romantismo (Condoreira), ficou famoso por seus poemas abolicionistas, como:",
+            "options": [
+                "O Navio Negreiro",
+                "I-Juca-Pirama",
+                "Lira dos Vinte Anos",
+                "O Uraguai"
+            ],
+            "answer": "O Navio Negreiro",
+            "explanation": "Conhecido como 'o poeta dos escravos', Castro Alves denunciava ativamente os horrores da escravidão."
+        },
+        {
+            "question": "A palavra 'Pernambuco' é formada por qual processo de formação de palavras indígenas?",
+            "options": [
+                "Derivação sufixal.",
+                "Composição por justaposição (Paranã + Puka).",
+                "Neologismo digital.",
+                "Abreviação."
+            ],
+            "answer": "Composição por justaposição (Paranã + Puka).",
+            "explanation": "Acredita-se que a palavra venha do tupi guarani, significando 'mar que bate nas pedras' (Paranã = rio/mar, Puka = furar/bater)."
+        },
+        {
+            "question": "A frase 'Onde você mora?' utiliza o advérbio 'Onde' corretamente. A palavra 'Aonde' deve ser usada APENAS quando:",
+            "options": [
+                "Estiver no fim da frase.",
+                "Se referir a lugares estáticos.",
+                "Houver um verbo de movimento que exige a preposição 'A' (ex: Aonde você vai?).",
+                "Em situações informais."
+            ],
+            "answer": "Houver um verbo de movimento que exige a preposição 'A' (ex: Aonde você vai?).",
+            "explanation": "Usa-se 'aonde' apenas com verbos de movimento (ir, chegar, dirigir-se)."
+        },
+        {
+            "question": "A classe das Conjunções é responsável por:",
+            "options": [
+                "Nomear objetos e seres.",
+                "Ligar duas orações estabelecendo sentido entre elas.",
+                "Indicar qualidades do sujeito.",
+                "Determinar o tempo da ação verbal."
+            ],
+            "answer": "Ligar duas orações estabelecendo sentido entre elas.",
+            "explanation": "As conjunções (e, mas, porque, logo, embora) são os principais conectivos que dão fluidez e coerência ao texto."
+        },
+        {
+            "question": "Qual alternativa apresenta a grafia correta da palavra 'Salsicha' e 'Bandeja'?",
+            "options": [
+                "Salsicha / Bandeja",
+                "Salcicha / Bandeja",
+                "Salsicha / Bandeija",
+                "Salchicha / Bandeija"
+            ],
+            "answer": "Salsicha / Bandeja",
+            "explanation": "A grafia padrão de acordo com a norma culta dispensa o 'C' antes do S e não tem 'I' em bandeja."
+        },
+        {
+            "question": "A oração 'Quero QUE VOCÊ VENHA' atua sintaticamente como:",
+            "options": [
+                "Objeto Direto da oração principal.",
+                "Sujeito oculto.",
+                "Adjunto adverbial de tempo.",
+                "Aposto."
+            ],
+            "answer": "Objeto Direto da oração principal.",
+            "explanation": "O verbo 'Querer' é VTD. O que eu quero? (Que você venha). Trata-se de uma Oração Subordinada Substantiva Objetiva Direta."
+        },
+        {
+            "question": "Na palavra 'Infielmente', qual o prefixo e o sufixo utilizados na derivação parassintética ou prefixal e sufixal?",
+            "options": [
+                "Prefixo 'In', Sufixo 'mente'",
+                "Prefixo 'Infi', Sufixo 'el'",
+                "Apenas sufixo 'mente'",
+                "Não há prefixos."
+            ],
+            "answer": "Prefixo 'In', Sufixo 'mente'",
+            "explanation": "A partir da raiz 'fiel', adiciona-se o prefixo 'in' (negação) e o sufixo formador de advérbio 'mente'."
+        },
+        {
+            "question": "A coesão textual que utiliza conectivos como 'Em primeiro lugar', 'Além disso', 'Por fim', é classificada como coesão:",
+            "options": [
+                "Referencial",
+                "Lexical",
+                "Sequencial",
+                "Catafórica"
+            ],
+            "answer": "Sequencial",
+            "explanation": "A coesão sequencial garante o progresso e a progressão temporal/lógica do texto, criando links entre os parágrafos e ideias."
+        }
+    ]
+}

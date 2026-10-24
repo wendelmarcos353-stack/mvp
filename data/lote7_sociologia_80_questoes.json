@@ -1,0 +1,884 @@
+{
+    "sociologia": [
+        {
+            "question": "A Sociologia surgiu no século XIX para entender as profundas mudanças sociais na Europa. Quais eventos históricos foram os principais impulsionadores do surgimento dessa ciência?",
+            "options": [
+                "Revolução Francesa e Revolução Industrial",
+                "Revolução Russa e Primeira Guerra Mundial",
+                "Guerra Fria e Globalização",
+                "Descobrimento das Américas e Renascimento"
+            ],
+            "answer": "Revolução Francesa e Revolução Industrial",
+            "explanation": "Essas duas revoluções causaram uma enorme ruptura política, econômica e social (fim do absolutismo, urbanização desordenada, capitalismo), exigindo uma nova ciência para explicar o caos social."
+        },
+        {
+            "question": "Auguste Comte é considerado o 'pai' da Sociologia. Ele criou uma corrente filosófica que acreditava que a sociedade só progrediria através da ordem e da ciência (inspirando o lema da bandeira do Brasil). Qual é o nome dessa corrente?",
+            "options": [
+                "Marxismo",
+                "Positivismo",
+                "Anarquismo",
+                "Existencialismo"
+            ],
+            "answer": "Positivismo",
+            "explanation": "O Positivismo defendia que o conhecimento científico era a única forma de atingir a ordem e o progresso social."
+        },
+        {
+            "question": "Para Émile Durkheim, o objeto de estudo da Sociologia são os 'Fatos Sociais'. Uma das características do Fato Social é a 'Coercitividade', que significa:",
+            "options": [
+                "Nascer com o indivíduo de forma biológica.",
+                "A pressão ou punição que a sociedade exerce sobre o indivíduo para que ele siga as regras.",
+                "O desejo íntimo e pessoal de cada um.",
+                "A ausência de leis na sociedade."
+            ],
+            "answer": "A pressão ou punição que a sociedade exerce sobre o indivíduo para que ele siga as regras.",
+            "explanation": "A coercitividade é a força que os padrões sociais exercem (através de leis ou do riso/rejeição) contra quem age fora da norma."
+        },
+        {
+            "question": "Além da Coercitividade, os Fatos Sociais possuem a característica da 'Exterioridade'. O que isso quer dizer?",
+            "options": [
+                "Acontecem apenas em locais públicos e abertos.",
+                "Eles já existem na sociedade antes de nascermos e continuarão existindo depois de morrermos.",
+                "São baseados na aparência física das pessoas.",
+                "São exclusivos de países estrangeiros."
+            ],
+            "answer": "Eles já existem na sociedade antes de nascermos e continuarão existindo depois de morrermos.",
+            "explanation": "As regras, idiomas e costumes são exteriores às consciências individuais; eles preexistem ao indivíduo."
+        },
+        {
+            "question": "Durkheim utilizou o termo 'Anomia' para descrever um momento grave na sociedade. O que é a Anomia Social?",
+            "options": [
+                "A harmonia perfeita entre as classes sociais.",
+                "O excesso de regras rigorosas.",
+                "A ausência ou quebra das normas e regras que regulam o comportamento, gerando caos e desorientação.",
+                "Um tipo de festa popular no interior do Brasil."
+            ],
+            "answer": "A ausência ou quebra das normas e regras que regulam o comportamento, gerando caos e desorientação.",
+            "explanation": "Em estado de anomia (sem leis), as instituições falham em guiar a moral dos indivíduos, aumentando até mesmo as taxas de suicídio."
+        },
+        {
+            "question": "Em sua obra sobre a Divisão do Trabalho, Durkheim fala sobre a 'Solidariedade Mecânica', que é típica de:",
+            "options": [
+                "Sociedades modernas e industrializadas.",
+                "Grandes metrópoles capitalistas.",
+                "Sociedades tradicionais ou rurais, onde as pessoas têm funções semelhantes e forte crença religiosa comum.",
+                "Fábricas de montagem de automóveis."
+            ],
+            "answer": "Sociedades tradicionais ou rurais, onde as pessoas têm funções semelhantes e forte crença religiosa comum.",
+            "explanation": "Na solidariedade mecânica, a união se dá pela semelhança de funções e valores (ex: vilarejos indígenas ou comunidades rurais antigas)."
+        },
+        {
+            "question": "Por outro lado, a 'Solidariedade Orgânica' para Durkheim ocorre nas sociedades capitalistas modernas, onde a união das pessoas acontece pela:",
+            "options": [
+                "Igualdade de pensamentos e religião.",
+                "Interdependência gerada pela alta divisão do trabalho (um precisa da profissão do outro).",
+                "Força bruta do Estado policial.",
+                "Identificação com o mesmo time de futebol."
+            ],
+            "answer": "Interdependência gerada pela alta divisão do trabalho (um precisa da profissão do outro).",
+            "explanation": "Assim como os órgãos do corpo humano têm funções diferentes mas precisam um do outro para viver, na cidade moderna o padeiro precisa do médico, que precisa do motorista."
+        },
+        {
+            "question": "Qual é a visão de Durkheim sobre as instituições sociais, como a Família e a Escola?",
+            "options": [
+                "São inúteis e devem ser destruídas.",
+                "Elas servem para oprimir os mais fracos e proteger os ricos.",
+                "São fundamentais para o processo de socialização, ensinando os indivíduos a viverem em sociedade.",
+                "Servem apenas para ensinar as pessoas a ganhar dinheiro."
+            ],
+            "answer": "São fundamentais para o processo de socialização, ensinando os indivíduos a viverem em sociedade.",
+            "explanation": "As instituições moldam os comportamentos (fatos sociais) e transmitem a cultura de geração em geração."
+        },
+        {
+            "question": "No famoso estudo de Durkheim sobre o Suicídio, ele prova que esse ato, aparentemente individual, é fortemente influenciado por:",
+            "options": [
+                "Condições biológicas e genéticas apenas.",
+                "Fatores astronômicos (alinhamento dos astros).",
+                "Fatores sociais, como crises econômicas ou o grau de integração do indivíduo no grupo social.",
+                "A falta de inteligência emocional."
+            ],
+            "answer": "Fatores sociais, como crises econômicas ou o grau de integração do indivíduo no grupo social.",
+            "explanation": "Durkheim mostrou com estatísticas que solteiros, viúvos ou pessoas em sociedades em crise (anomia) tinham maiores taxas de suicídio do que pessoas fortemente integradas a uma comunidade."
+        },
+        {
+            "question": "Para a Sociologia Clássica (Durkheim, Marx, Weber), o foco central de estudo é a relação entre:",
+            "options": [
+                "O ser humano e a natureza selvagem.",
+                "Indivíduo e Sociedade.",
+                "Países desenvolvidos e extraterrestres.",
+                "O corpo físico e a mente."
+            ],
+            "answer": "Indivíduo e Sociedade.",
+            "explanation": "Toda a base da sociologia tenta responder se é o indivíduo que molda a sociedade ou se é a sociedade que molda o indivíduo."
+        },
+        {
+            "question": "Para Karl Marx, o 'motor da história' humana, aquilo que provoca as grandes mudanças e revoluções nas sociedades, é a:",
+            "options": [
+                "Vontade divina.",
+                "Harmonia entre patrões e empregados.",
+                "Luta de classes.",
+                "Evolução tecnológica natural."
+            ],
+            "answer": "Luta de classes.",
+            "explanation": "Marx afirmou que 'a história de toda sociedade até hoje é a história da luta de classes' (opressores vs oprimidos)."
+        },
+        {
+            "question": "No sistema capitalista, segundo Marx, a sociedade divide-se basicamente em duas classes antagônicas. Quais são?",
+            "options": [
+                "Nobreza e Clero.",
+                "Burguesia (donos dos meios de produção) e Proletariado (trabalhadores assalariados).",
+                "Militares e Civis.",
+                "Camponeses e Artesãos."
+            ],
+            "answer": "Burguesia (donos dos meios de produção) e Proletariado (trabalhadores assalariados).",
+            "explanation": "A burguesia possui as fábricas e terras, enquanto o proletariado só tem a sua força de trabalho para vender em troca de salário."
+        },
+        {
+            "question": "O conceito de 'Mais-Valia' em Karl Marx refere-se:",
+            "options": [
+                "Ao aumento do valor de um imóvel com o tempo.",
+                "Ao valor do trabalho não pago ao funcionário e que se transforma no lucro do patrão (exploração).",
+                "Aos impostos pagos ao Estado.",
+                "À doação de dinheiro para caridade."
+            ],
+            "answer": "Ao valor do trabalho não pago ao funcionário e que se transforma no lucro do patrão (exploração).",
+            "explanation": "O trabalhador produz riqueza muito além do que recebe como salário. A diferença (o trabalho não remunerado) fica com o dono da fábrica (mais-valia)."
+        },
+        {
+            "question": "O que Marx entende por 'Trabalho Alienado' na indústria capitalista?",
+            "options": [
+                "O trabalhador domina todas as etapas e ama o que faz.",
+                "O trabalhador é levado a trabalhar em outro país.",
+                "O trabalhador é separado do processo produtivo (fazendo só uma etapa repetitiva), do produto final e do lucro da sua produção.",
+                "O uso de trabalhadores alienígenas ou robôs."
+            ],
+            "answer": "O trabalhador é separado do processo produtivo (fazendo só uma etapa repetitiva), do produto final e do lucro da sua produção.",
+            "explanation": "Na alienação, o trabalhador não se reconhece na mercadoria que produz e perde a autonomia sobre o próprio trabalho (ex: linha de montagem)."
+        },
+        {
+            "question": "Segundo o Materialismo Histórico de Marx, a base da sociedade que determina como as leis, a cultura e a religião funcionam é a:",
+            "options": [
+                "Infraestrutura (modo de produção econômico).",
+                "Superestrutura (as leis e a religião).",
+                "A moralidade da época.",
+                "A vontade dos intelectuais."
+            ],
+            "answer": "Infraestrutura (modo de produção econômico).",
+            "explanation": "A economia (infraestrutura) é a base do prédio social. Ela molda a política, a lei e as crenças (superestrutura) para manter o sistema funcionando."
+        },
+        {
+            "question": "Para a sociologia marxista, a 'Ideologia' não é apenas um conjunto de ideias, mas atua como:",
+            "options": [
+                "A verdade absoluta do mundo.",
+                "Um mecanismo de ilusão e dominação para convencer a classe dominada de que as regras da sociedade são justas e naturais.",
+                "Uma disciplina escolar de artes.",
+                "A busca pela paz mundial."
+            ],
+            "answer": "Um mecanismo de ilusão e dominação para convencer a classe dominada de que as regras da sociedade são justas e naturais.",
+            "explanation": "A ideologia, para Marx, mascara as desigualdades sociais, fazendo os oprimidos aceitarem a exploração sem se revoltarem."
+        },
+        {
+            "question": "O 'Fetiche da Mercadoria' em Marx significa que, no capitalismo, nós passamos a:",
+            "options": [
+                "Adorar objetos e esquecer as relações humanas e a exploração do trabalhador que existe por trás daquela mercadoria.",
+                "Construir estátuas de produtos nas praças.",
+                "Vender produtos com feitiços mágicos.",
+                "Desprezar as mercadorias industriais."
+            ],
+            "answer": "Adorar objetos e esquecer as relações humanas e a exploração do trabalhador que existe por trás daquela mercadoria.",
+            "explanation": "A mercadoria parece ganhar vida própria (ex: idolatrar um celular caro), apagando todo o trabalho humano e sofrimento envolvidos na sua fabricação."
+        },
+        {
+            "question": "Qual é a visão de Karl Marx sobre o Estado Moderno (o governo)?",
+            "options": [
+                "É um órgão neutro que defende todos igualmente.",
+                "É o comitê administrativo dos interesses da classe burguesa (os ricos).",
+                "É controlado pelos trabalhadores sindicalizados.",
+                "Não tem poder nenhum sobre a economia."
+            ],
+            "answer": "É o comitê administrativo dos interesses da classe burguesa (os ricos).",
+            "explanation": "Marx via o Estado não como um juiz imparcial, mas como uma ferramenta da burguesia para manter seu domínio e reprimir as greves."
+        },
+        {
+            "question": "O objetivo final do pensamento marxista, após a conscientização da classe trabalhadora, seria a transição para o:",
+            "options": [
+                "Anarcocapitalismo (fim de todos os impostos).",
+                "Fascismo militar.",
+                "Comunismo (uma sociedade sem classes sociais e sem propriedade privada dos meios de produção).",
+                "Feudalismo moderno."
+            ],
+            "answer": "Comunismo (uma sociedade sem classes sociais e sem propriedade privada dos meios de produção).",
+            "explanation": "Marx propôs a revolução armada do proletariado, instaurando o socialismo como transição até alcançar a utopia comunista (sem Estado e sem classes)."
+        },
+        {
+            "question": "Como os sindicatos contemporâneos no Brasil se relacionam com as ideias marxistas?",
+            "options": [
+                "Eles rejeitam qualquer tipo de greve ou manifestação.",
+                "Apenas protegem os donos das empresas.",
+                "Utilizam o conceito de consciência de classe e luta de classes para reivindicar melhores salários e condições contra a exploração patronal.",
+                "São proibidos de ler Karl Marx pelas leis trabalhistas."
+            ],
+            "answer": "Utilizam o conceito de consciência de classe e luta de classes para reivindicar melhores salários e condições contra a exploração patronal.",
+            "explanation": "As pautas sindicais de redução de jornada e reajuste salarial são heranças da conscientização do proletariado pensada por Marx."
+        },
+        {
+            "question": "Diferente de Durkheim (que foca na sociedade pressionando o indivíduo), Max Weber criou a 'Sociologia Compreensiva', que foca no estudo da:",
+            "options": [
+                "Ação Social (a intenção do indivíduo orientada pelas outras pessoas).",
+                "Luta de classes.",
+                "Fisiologia humana.",
+                "Mais-valia absoluta."
+            ],
+            "answer": "Ação Social (a intenção do indivíduo orientada pelas outras pessoas).",
+            "explanation": "Para Weber, a sociologia deve compreender os motivos e os sentidos que os indivíduos dão às suas ações."
+        },
+        {
+            "question": "Para Weber, a Ação Social pode ser dividida em 4 tipos. Quando um jovem de Pernambuco decide fazer o Enem exclusivamente focado em se formar e conseguir um bom emprego, ele está realizando uma:",
+            "options": [
+                "Ação Social Afetiva",
+                "Ação Social Tradicional",
+                "Ação Social Racional com relação a fins (objetivos)",
+                "Ação Social Racional com relação a valores"
+            ],
+            "answer": "Ação Social Racional com relação a fins (objetivos)",
+            "explanation": "O indivíduo calcula os meios (estudar muito) para atingir um fim prático (passar na universidade e ter carreira)."
+        },
+        {
+            "question": "O costume de pular fogueira no São João no Nordeste, ou desejar 'saúde' quando alguém espirra, são exemplos de qual Ação Social em Weber?",
+            "options": [
+                "Ação Tradicional (baseada nos costumes e hábitos culturais).",
+                "Ação Afetiva (baseada em explosão de ódio).",
+                "Ação Racional com relação a fins.",
+                "Ação Ilegal."
+            ],
+            "answer": "Ação Tradicional (baseada nos costumes e hábitos culturais).",
+            "explanation": "São ações feitas 'porque sempre foi feito assim', guiadas pelas tradições passadas de geração em geração."
+        },
+        {
+            "question": "Max Weber identificou o 'Desencantamento do Mundo' como uma característica da modernidade. O que ele quis dizer com isso?",
+            "options": [
+                "A humanidade deixou de gostar de magia e filmes de fantasia.",
+                "A ciência, o cálculo e a razão substituíram as explicações mágicas, religiosas e místicas do universo.",
+                "As florestas encantadas foram destruídas pelo capitalismo.",
+                "A tristeza profunda (depressão) generalizada na sociedade."
+            ],
+            "answer": "A ciência, o cálculo e a razão substituíram as explicações mágicas, religiosas e místicas do universo.",
+            "explanation": "Com a Racionalização, o homem ocidental passou a explicar o mundo não mais pela vontade dos deuses, mas pela ciência e técnica."
+        },
+        {
+            "question": "Na obra 'A Ética Protestante e o Espírito do Capitalismo', Weber defende que o surgimento do capitalismo moderno foi fortemente impulsionado pela religião. Qual vertente religiosa ajudou nisso?",
+            "options": [
+                "O Budismo",
+                "O Catolicismo medieval",
+                "O Calvinismo (Protestantismo puritano)",
+                "O Hinduísmo"
+            ],
+            "answer": "O Calvinismo (Protestantismo puritano)",
+            "explanation": "O Calvinismo via o sucesso no trabalho duro e a acumulação de riquezas (sem ostentação) como um sinal de salvação divina, o que gerou acúmulo de capital."
+        },
+        {
+            "question": "Segundo Weber, o Estado Moderno é a única instituição na sociedade que possui o monopólio do uso legítimo da:",
+            "options": [
+                "Religião",
+                "Violência física (coerção através da polícia e exército)",
+                "Economia (todo o dinheiro)",
+                "Educação infantil"
+            ],
+            "answer": "Violência física (coerção através da polícia e exército)",
+            "explanation": "O Estado é quem detém a autoridade e o direito legal de usar a força para manter a ordem e aplicar a lei."
+        },
+        {
+            "question": "Weber dividiu a Dominação em três tipos legítimos. Um líder carismático (como Lampião no sertão ou um grande ídolo popular) exerce a Dominação:",
+            "options": [
+                "Tradicional",
+                "Carismática (baseada na devoção pessoal e qualidades excepcionais do líder)",
+                "Racional-Legal (Burocrática)",
+                "Hereditária"
+            ],
+            "answer": "Carismática (baseada na devoção pessoal e qualidades excepcionais do líder)",
+            "explanation": "As pessoas obedecem porque acreditam na força do caráter, heroísmo ou discurso cativante do líder."
+        },
+        {
+            "question": "A obediência que temos a um juiz, a um policial de trânsito ou às regras do colégio são exemplos da Dominação:",
+            "options": [
+                "Tradicional",
+                "Afetiva",
+                "Carismática",
+                "Racional-Legal (Burocrática)"
+            ],
+            "answer": "Racional-Legal (Burocrática)",
+            "explanation": "A obediência não se deve à pessoa em si, mas ao cargo que ela ocupa e às leis escritas (burocracia) que ela representa."
+        },
+        {
+            "question": "Para Weber, a Burocracia nas sociedades modernas (empresas, governo) não é vista como algo ruim, mas sim como:",
+            "options": [
+                "A forma mais atrasada de organização.",
+                "Um sistema racional, eficiente, impessoal e baseado em regras escritas e meritocracia.",
+                "Um sinônimo apenas de lentidão e filas em bancos.",
+                "Uma invenção dos comunistas."
+            ],
+            "answer": "Um sistema racional, eficiente, impessoal e baseado em regras escritas e meritocracia.",
+            "explanation": "A Burocracia ideal de Weber organiza a sociedade complexa focando na competência técnica e na impessoalidade (sem favoritismos)."
+        },
+        {
+            "question": "Quando um voluntário numa ONG no Recife decide ajudar os mais pobres, mesmo que não ganhe nada com isso, agindo apenas por seus princípios éticos e religiosos imperativos, qual é a Ação Social webereana?",
+            "options": [
+                "Racional com relação a valores.",
+                "Racional com relação a fins (lucro).",
+                "Tradicional.",
+                "Fato social anômico."
+            ],
+            "answer": "Racional com relação a valores.",
+            "explanation": "A ação é racional e consciente, mas o objetivo é ser fiel a um valor moral, ético ou religioso, não importando os custos."
+        },
+        {
+            "question": "Na obra 'Casa-Grande & Senzala', o sociólogo pernambucano Gilberto Freyre traz uma nova visão sobre a formação do Brasil Colônia. Qual foi o principal pilar dessa teoria?",
+            "options": [
+                "O Brasil só se desenvolveu graças à eliminação indígena.",
+                "A exaltação da miscigenação (mistura de raças) e do patriarcalismo como base da cultura brasileira, focada nos engenhos de açúcar do Nordeste.",
+                "A tese de que a região Sul construiu sozinha a identidade brasileira.",
+                "A defesa de que o clima tropical impedia a inteligência."
+            ],
+            "answer": "A exaltação da miscigenação (mistura de raças) e do patriarcalismo como base da cultura brasileira, focada nos engenhos de açúcar do Nordeste.",
+            "explanation": "Freyre tirou o estigma negativo da mistura de raças e mostrou como índios, negros e portugueses se fundiram na intimidade da Casa-Grande."
+        },
+        {
+            "question": "Gilberto Freyre foi muitas vezes criticado por sociólogos posteriores (como Florestan Fernandes) porque sua obra 'Casa-Grande & Senzala' acabou criando o 'Mito da:'",
+            "options": [
+                "Supremacia Branca",
+                "Democracia Racial (a ideia de que as três raças conviveram harmoniosamente e sem racismo profundo no Brasil).",
+                "Ditadura do Proletariado",
+                "Globalização Pacífica"
+            ],
+            "answer": "Democracia Racial (a ideia de que as três raças conviveram harmoniosamente e sem racismo profundo no Brasil).",
+            "explanation": "O mito da democracia racial mascarou a extrema violência e o racismo estrutural que acompanharam a miscigenação na escravidão."
+        },
+        {
+            "question": "No livro 'Raízes do Brasil', Sérgio Buarque de Holanda cria o conceito do 'Homem Cordial'. O que isso significa na Sociologia Brasileira?",
+            "options": [
+                "O brasileiro é sempre educado, pacífico e incapaz de cometer crimes.",
+                "O brasileiro age pelo 'coração' e pelas emoções, misturando o espaço público e o privado, o que leva ao jeitinho e ao nepotismo.",
+                "O brasileiro tem um coração fraco biologicamente.",
+                "A exclusividade do nordestino em receber bem os turistas."
+            ],
+            "answer": "O brasileiro age pelo 'coração' e pelas emoções, misturando o espaço público e o privado, o que leva ao jeitinho e ao nepotismo.",
+            "explanation": "Cordial vem de 'cor' (coração). O homem cordial não separa a amizade das leis do Estado, favorecendo amigos na política (patrimonialismo)."
+        },
+        {
+            "question": "O patrimonialismo é uma característica marcante da política brasileira (desde as capitanias). Qual das atitudes abaixo melhor define o Patrimonialismo no governo?",
+            "options": [
+                "A separação rígida entre o dinheiro do prefeito e o dinheiro da prefeitura.",
+                "O uso de bens e cargos públicos como se fossem propriedade particular ou de familiares dos governantes.",
+                "A devolução de terras aos indígenas.",
+                "O pagamento em dia dos impostos pela elite."
+            ],
+            "answer": "O uso de bens e cargos públicos como se fossem propriedade particular ou de familiares dos governantes.",
+            "explanation": "A herança patrimonialista faz políticos tratarem a máquina pública (cargos, verbas) como um patrimônio de suas famílias."
+        },
+        {
+            "question": "O movimento cultural Manguebeat, liderado por Chico Science em Pernambuco nos anos 1990, representou para a sociologia local:",
+            "options": [
+                "Um retorno à música clássica europeia, rejeitando ritmos populares.",
+                "O fim das tradições do Carnaval do Recife.",
+                "A fusão da cultura regional (maracatu, coco) com influências globais (rock, hip-hop), denunciando o caos urbano do Recife.",
+                "Uma campanha política de direita na capital."
+            ],
+            "answer": "A fusão da cultura regional (maracatu, coco) com influências globais (rock, hip-hop), denunciando o caos urbano do Recife.",
+            "explanation": "O Manguebeat conectou a lama do manguezebal (desigualdade e tradição) com a antena parabólica (globalização e tecnologia)."
+        },
+        {
+            "question": "Darcy Ribeiro, em sua obra 'O Povo Brasileiro', afirma que o brasileiro não é europeu, nem índio, nem africano, mas sim uma:",
+            "options": [
+                "Nação de mestiços originais, a 'Nova Roma', uma etnia nova e unificada pelo trauma da colonização.",
+                "Cópia exata dos colonizadores de Portugal.",
+                "Sociedade dividida legalmente em castas fechadas.",
+                "Comunidade que não possui língua própria."
+            ],
+            "answer": "Nação de mestiços originais, a 'Nova Roma', uma etnia nova e unificada pelo trauma da colonização.",
+            "explanation": "Darcy dizia que a dor da escravidão e o genocídio forjaram uma identidade única, resiliente e criativa no Brasil."
+        },
+        {
+            "question": "O 'Jeitinho Brasileiro' é estudado na Sociologia como um mecanismo de sobrevivência e de burla de regras. Sociologicamente, ele é um exemplo da ausência de:",
+            "options": [
+                "Simpatia.",
+                "Comida na mesa.",
+                "Racionalidade Legal e Burocrática de Weber, pois desrespeita a regra impessoal em troca de um favor pessoal.",
+                "Solidariedade mecânica de Durkheim."
+            ],
+            "answer": "Racionalidade Legal e Burocrática de Weber, pois desrespeita a regra impessoal em troca de um favor pessoal.",
+            "explanation": "O jeitinho ignora a fila ou a lei para obter vantagens através da simpatia ou conexões, provando que o brasileiro é 'cordial'."
+        },
+        {
+            "question": "O conceito de Coronelismo, muito forte na República Velha (e que deixou heranças na política do interior nordestino), baseava-se em:",
+            "options": [
+                "Eleições através do uso exclusivo de computadores.",
+                "Voto obrigatório e secreto de todos os cidadãos acima de 18 anos.",
+                "Troca de favores (clientelismo) e uso da força para controlar o voto dos camponeses (voto de cabresto).",
+                "Morte de todos os grandes fazendeiros."
+            ],
+            "answer": "Troca de favores (clientelismo) e uso da força para controlar o voto dos camponeses (voto de cabresto).",
+            "explanation": "O coronel garantia o voto do seu curral eleitoral através da proteção, favores pessoais ou ameaças diretas."
+        },
+        {
+            "question": "Florestan Fernandes, importante sociólogo brasileiro da 'Escola Paulista', estudou a inserção do negro na sociedade após a escravidão e concluiu que:",
+            "options": [
+                "O negro foi imediatamente absorvido pelo mercado de trabalho assalariado e tratado com igualdade.",
+                "A abolição foi um processo perfeito promovido pela Princesa Isabel.",
+                "O negro foi jogado na sociedade de classes sem acesso a terras, escolas ou empregos justos, marginalizando-o historicamente.",
+                "Não houve racismo no Brasil após 1888."
+            ],
+            "answer": "O negro foi jogado na sociedade de classes sem acesso a terras, escolas ou empregos justos, marginalizando-o historicamente.",
+            "explanation": "Florestan provou que a Lei Áurea foi uma 'abolição inacabada', pois não deu cidadania real à população negra."
+        },
+        {
+            "question": "As Feiras Livres no interior (como a grande Feira de Caruaru) são mais do que centros de comércio. Sociologicamente, elas representam:",
+            "options": [
+                "Espaços exclusivamente capitalistas sem relação humana.",
+                "Instituições vazias e sem cultura.",
+                "Importantes espaços de sociabilidade, preservação cultural, transmissão de cordéis e trocas de vivências do povo nordestino.",
+                "Bolsas de valores restritas a ricos."
+            ],
+            "answer": "Importantes espaços de sociabilidade, preservação cultural, transmissão de cordéis e trocas de vivências do povo nordestino.",
+            "explanation": "A feira é um ponto de encontro comunitário que fortalece a identidade, a música e as tradições rurais e urbanas."
+        },
+        {
+            "question": "O termo 'Cultura' para a Antropologia e Sociologia vai muito além de ter lido muitos livros. O conceito correto de Cultura é:",
+            "options": [
+                "Apenas o conhecimento científico e as belas artes de elite.",
+                "Somente aquilo que está nos museus e bibliotecas.",
+                "O conjunto de práticas, saberes, crenças, arte, moral, leis e costumes adquiridos pelo homem em sociedade.",
+                "Apenas o uso correto da gramática da língua portuguesa."
+            ],
+            "answer": "O conjunto de práticas, saberes, crenças, arte, moral, leis e costumes adquiridos pelo homem em sociedade.",
+            "explanation": "Cultura é toda a bagagem material e imaterial que um grupo social produz e repassa às próximas gerações."
+        },
+        {
+            "question": "Quando uma pessoa viaja para um país árabe e acha 'absurdo e primitivo' as mulheres usarem o véu (Hijab), julgando essa cultura pela visão da sua própria cultura ocidental, ela comete o:",
+            "options": [
+                "Relativismo cultural",
+                "Etnocentrismo",
+                "Mito da caverna",
+                "Culturalismo difusionista"
+            ],
+            "answer": "Etnocentrismo",
+            "explanation": "O Etnocentrismo é considerar a sua própria cultura (etnia) como o centro e medida para avaliar as demais, gerando preconceito."
+        },
+        {
+            "question": "Como contraponto ao etnocentrismo, a Antropologia defende o 'Relativismo Cultural', que significa:",
+            "options": [
+                "Aceitar que todas as culturas são iguais e não existem diferenças.",
+                "Julgar as outras culturas usando as leis do Brasil.",
+                "Entender cada cultura a partir dos valores, lógica e história dela mesma, sem julgá-la como 'superior' ou 'inferior'.",
+                "Tentar destruir culturas estrangeiras pacientemente."
+            ],
+            "answer": "Entender cada cultura a partir dos valores, lógica e história dela mesma, sem julgá-la como 'superior' ou 'inferior'.",
+            "explanation": "O relativismo nos ensina a respeitar e compreender o 'diferente' no seu próprio contexto."
+        },
+        {
+            "question": "Os filósofos da Escola de Frankfurt (Adorno e Horkheimer) criaram o conceito de 'Indústria Cultural' no século XX. Esse conceito critica a transformação da cultura e da arte em:",
+            "options": [
+                "Formas libertadoras do pensamento popular.",
+                "Mercadorias feitas em série (como produtos de fábrica) visando apenas o lucro, padronizando o gosto e anestesiando o senso crítico do público.",
+                "Estudos eruditos voltados às universidades.",
+                "Formas de revolução socialista pura."
+            ],
+            "answer": "Mercadorias feitas em série (como produtos de fábrica) visando apenas o lucro, padronizando o gosto e anestesiando o senso crítico do público.",
+            "explanation": "Músicas e filmes comerciais que seguem a mesma 'fórmula' apenas para venderem rápido, sem fazer o público pensar."
+        },
+        {
+            "question": "O 'Frevo', Patrimônio Cultural Imaterial da Humanidade pela UNESCO, é um exemplo clássico de:",
+            "options": [
+                "Cultura de Massa, fabricada em Los Angeles.",
+                "Cultura Erudita (de Elite), criada pela nobreza portuguesa.",
+                "Cultura Popular, originada organicamente das classes trabalhadoras, capoeiristas e ruas do Recife.",
+                "Cultura Estrangeira imposta pela televisão."
+            ],
+            "answer": "Cultura Popular, originada organicamente das classes trabalhadoras, capoeiristas e ruas do Recife.",
+            "explanation": "Nasceu do embate de capoeiras e bandas militares, sendo uma manifestação genuína do povo pernambucano."
+        },
+        {
+            "question": "Qual é a principal função dos 'Meios de Comunicação de Massa' (TV, Rádio, Internet) na visão dos sociólogos críticos?",
+            "options": [
+                "Apenas educar jovens para o vestibular.",
+                "Divulgar apenas a verdade científica absoluta e imparcial.",
+                "Atuar como poderosos agentes de socialização, capazes de ditar padrões de beleza, consumo e opiniões políticas.",
+                "Evitar a globalização e proteger culturas locais isoladas."
+            ],
+            "answer": "Atuar como poderosos agentes de socialização, capazes de ditar padrões de beleza, consumo e opiniões políticas.",
+            "explanation": "As mídias de massa modelam corações e mentes, ditando tendências ('o que vestir', 'o que pensar')."
+        },
+        {
+            "question": "Cultura 'Erudita' e Cultura 'Popular' costumavam ser rigidamente separadas. A Cultura Erudita é tipicamente caracterizada por:",
+            "options": [
+                "Ser anônima, transmitida oralmente de geração em geração pelas pessoas simples.",
+                "Ser financiada pela indústria cultural focada em dancinhas da internet.",
+                "Ser produzida e consumida pelas elites intelectuais e econômicas, muitas vezes exigindo estudo formal para ser compreendida (ex: óperas, música clássica).",
+                "Ser gratuita nas feiras livres do sertão."
+            ],
+            "answer": "Ser produzida e consumida pelas elites intelectuais e econômicas, muitas vezes exigindo estudo formal para ser compreendida (ex: óperas, música clássica).",
+            "explanation": "As artes eruditas historicamente pertenciam aos nobres e ricos, restritas a teatros e conservatórios."
+        },
+        {
+            "question": "O processo de 'Aculturação' (embora o termo seja debatido) é geralmente entendido na Sociologia como:",
+            "options": [
+                "Quando uma pessoa nunca vai à escola.",
+                "O processo de modificação cultural resultante do contato intenso entre duas sociedades diferentes, onde muitas vezes uma cultura domina e impõe hábitos à outra.",
+                "A perda completa da memória de um idoso.",
+                "O estudo de plantas medicinais em culturas indígenas."
+            ],
+            "answer": "O processo de modificação cultural resultante do contato intenso entre duas sociedades diferentes, onde muitas vezes uma cultura domina e impõe hábitos à outra.",
+            "explanation": "Exemplo clássico foi o choque entre europeus e indígenas, onde o europeu impôs religião e idioma pela força e contato."
+        },
+        {
+            "question": "O 'Algoritmo' das redes sociais (TikTok, Instagram) cria as chamadas 'Bolhas de Filtro' (Filter Bubbles). Qual o principal impacto social dessas bolhas?",
+            "options": [
+                "Faz com que os jovens conheçam todas as opiniões mundiais de forma democrática.",
+                "Reforça as opiniões que a pessoa já tem, ocultando ideias contrárias, o que aumenta a polarização e a intolerância política.",
+                "Estimula o debate pacífico entre partidos.",
+                "Desconecta automaticamente o usuário ao detectar fake news."
+            ],
+            "answer": "Reforça as opiniões que a pessoa já tem, ocultando ideias contrárias, o que aumenta a polarização e a intolerância política.",
+            "explanation": "Ao mostrar só o que o usuário quer ver para retê-lo na tela, as redes geram câmaras de eco, onde ninguém ouve a opinião do outro lado."
+        },
+        {
+            "question": "Na Sociologia, os bens imateriais (como as receitas de bolo de rolo de Pernambuco ou a ginga da capoeira) fazem parte do Patrimônio Histórico porque:",
+            "options": [
+                "Rendem milhões de reais em impostos para os governos.",
+                "Representam a memória, a identidade e as raízes formadoras do povo brasileiro, devendo ser preservados.",
+                "Devem ser esquecidos para o progresso do país avançar.",
+                "Foram inventados por europeus ricos."
+            ],
+            "answer": "Representam a memória, a identidade e as raízes formadoras do povo brasileiro, devendo ser preservados.",
+            "explanation": "Patrimônio imaterial é o saber-fazer, as festas e rituais que mantêm a cultura viva."
+        },
+        {
+            "question": "A Estratificação Social é a maneira como a sociedade divide os indivíduos em camadas (estratos). Nas sociedades capitalistas modernas, essa divisão é baseada principalmente nas:",
+            "options": [
+                "Castas hereditárias fechadas (como na Índia antiga).",
+                "Ordens religiosas e nobreza de sangue (como na Idade Média).",
+                "Classes Sociais, focadas na renda, poder aquisitivo e profissão.",
+                "Aparência física de nascimento exclusivamente."
+            ],
+            "answer": "Classes Sociais, focadas na renda, poder aquisitivo e profissão.",
+            "explanation": "No capitalismo, a estratificação por classes (baixa, média, alta) é teórica e permite mobilidade, baseada no fator financeiro e ocupacional."
+        },
+        {
+            "question": "O termo 'Mobilidade Social' refere-se:",
+            "options": [
+                "Aos carros e transporte público circulando na cidade.",
+                "À capacidade de um indivíduo mudar de posição ou classe na hierarquia social, como o filho de um agricultor pobre se tornar um médico rico (mobilidade ascendente).",
+                "À obrigatoriedade de viajar todos os anos para outro estado.",
+                "À migração do campo para a cidade (êxodo rural)."
+            ],
+            "answer": "À capacidade de um indivíduo mudar de posição ou classe na hierarquia social, como o filho de um agricultor pobre se tornar um médico rico (mobilidade ascendente).",
+            "explanation": "A mobilidade pode ser para cima (ascendente) ou para baixo (descendente) dentro da pirâmide de classes."
+        },
+        {
+            "question": "Diferentemente do modelo de Classes, o sistema de Castas (historicamente presente na Índia) é caracterizado por:",
+            "options": [
+                "Uma enorme facilidade em ficar rico trabalhando muito.",
+                "Ser determinado pelo nascimento, sendo a religião a justificativa, impedindo casamentos entre castas diferentes e não permitindo NENHUMA mobilidade social.",
+                "Eleições democráticas a cada quatro anos.",
+                "O status ser definido apenas pela quantidade de gado que a pessoa possui."
+            ],
+            "answer": "Ser determinado pelo nascimento, sendo a religião a justificativa, impedindo casamentos entre castas diferentes e não permitindo NENHUMA mobilidade social.",
+            "explanation": "Nas castas, você morre na mesma camada em que nasceu, é um sistema totalmente engessado."
+        },
+        {
+            "question": "O Índice de Gini é muito falado na sociologia e na economia. O que ele mede?",
+            "options": [
+                "A quantidade de carros produzidos.",
+                "O crescimento da indústria naval do Brasil.",
+                "O grau de desigualdade na distribuição de renda de um país (quanto mais perto de 1, mais desigual).",
+                "A altura média da população nordestina."
+            ],
+            "answer": "O grau de desigualdade na distribuição de renda de um país (quanto mais perto de 1, mais desigual).",
+            "explanation": "O Brasil frequentemente apresenta um alto coeficiente de Gini, figurando entre os países mais desiguais do mundo na distribuição de riqueza."
+        },
+        {
+            "question": "O conceito sociológico de 'Aporofobia' (termo da filósofa Adela Cortina) significa:",
+            "options": [
+                "O medo de aranhas enormes.",
+                "A rejeição, o preconceito e a aversão direcionada às pessoas pobres e sem recursos.",
+                "A aceitação e caridade com moradores de rua.",
+                "A fobia de viajar de avião nas férias."
+            ],
+            "answer": "A rejeição, o preconceito e a aversão direcionada às pessoas pobres e sem recursos.",
+            "explanation": "A aporofobia manifesta-se quando a sociedade exclui e hostiliza o mendigo ou o morador de rua por sua falta de recursos."
+        },
+        {
+            "question": "No Brasil, as mulheres frequentemente ganham salários menores que os homens, mesmo exercendo exatamente os mesmos cargos. Isso é uma evidência de desigualdade de:",
+            "options": [
+                "Religião",
+                "Gênero (Sexismo/Machismo estrutural)",
+                "Classe hereditária",
+                "Etnia pura"
+            ],
+            "answer": "Gênero (Sexismo/Machismo estrutural)",
+            "explanation": "A desigualdade de gênero reflete-se na disparidade salarial, tripla jornada e sub-representação feminina na política."
+        },
+        {
+            "question": "O conceito de 'Racismo Estrutural' aponta que o racismo no Brasil não é apenas o xingamento de um indivíduo isolado, mas sim:",
+            "options": [
+                "Uma fase passageira da adolescência.",
+                "Um conjunto de práticas, instituições e leis (formais ou informais) que reproduzem a exclusão de negros e indígenas em posições de poder e na economia ao longo da história.",
+                "Uma lenda inventada pela mídia moderna.",
+                "Uma política pública exclusiva do nordeste."
+            ],
+            "answer": "Um conjunto de práticas, instituições e leis (formais ou informais) que reproduzem a exclusão de negros e indígenas em posições de poder e na economia ao longo da história.",
+            "explanation": "Ele está enraizado no 'esqueleto' da sociedade, mantendo os privilégios da população branca nas engrenagens institucionais."
+        },
+        {
+            "question": "Políticas de 'Ação Afirmativa' (como as Cotas nas universidades federais e UPE para negros e alunos de escola pública) têm como objetivo sociológico e jurídico principal:",
+            "options": [
+                "Prejudicar os alunos mais inteligentes do país.",
+                "Reduzir rapidamente as desigualdades históricas, reparando injustiças e garantindo igualdade de oportunidades reais na competição pelo ensino superior.",
+                "Acabar com o estudo da matemática nas provas.",
+                "Lucrar financeiramente com os candidatos."
+            ],
+            "answer": "Reduzir rapidamente as desigualdades históricas, reparando injustiças e garantindo igualdade de oportunidades reais na competição pelo ensino superior.",
+            "explanation": "As cotas buscam a equidade, equilibrando uma corrida onde grupos marginalizados partiram de muito atrás devido à escravidão e pobreza."
+        },
+        {
+            "question": "Bourdieu, um sociólogo francês contemporâneo, criou o conceito de 'Capital Cultural'. O que ele argumenta?",
+            "options": [
+                "Que a única coisa que importa na vida é o dinheiro no banco (Capital Econômico).",
+                "Que a herança de livros, modo de falar, idas a museus e o vocabulário passado pela família rica ao filho contam tanto quanto dinheiro para garantir seu sucesso e manter a desigualdade.",
+                "Que cultura é apenas o que se aprende jogando videogame.",
+                "Que o capital cultural destrói as escolas."
+            ],
+            "answer": "Que a herança de livros, modo de falar, idas a museus e o vocabulário passado pela família rica ao filho contam tanto quanto dinheiro para garantir seu sucesso e manter a desigualdade.",
+            "explanation": "O sucesso escolar do filho do rico não é só porque ele é 'mais esperto', mas porque a família já o encheu de 'Capital Cultural' desde o berço."
+        },
+        {
+            "question": "O sistema de 'Meritocracia' pura, muito defendido pelo liberalismo, parte da ideia de que o sucesso vem apenas do esforço individual. A sociologia critica isso afirmando que:",
+            "options": [
+                "Ninguém nunca se esforça.",
+                "Sem igualdade de oportunidades e ponto de partida justo, o mérito vira apenas uma justificativa para mascarar os privilégios de quem já nasceu rico.",
+                "O talento sempre vence a riqueza herdada no Brasil.",
+                "As escolas públicas são estruturalmente melhores que as privadas."
+            ],
+            "answer": "Sem igualdade de oportunidades e ponto de partida justo, o mérito vira apenas uma justificativa para mascarar os privilégios de quem já nasceu rico.",
+            "explanation": "Cobrar o mesmo 'esforço' do aluno rico que viajou o mundo e do aluno pobre que trabalha à noite é ignorar o buraco da desigualdade brasileira."
+        },
+        {
+            "question": "Em Sociologia Política, o que define um 'Movimento Social' (como o Movimento dos Trabalhadores Sem Teto - MTST ou o Movimento Feminista)?",
+            "options": [
+                "Um partido político registrado em Brasília.",
+                "Uma ação coletiva organizada pela sociedade civil para manter, alterar ou transformar as leis, lutando por direitos ou reconhecimento.",
+                "Um encontro casual de pessoas num ponto de ônibus.",
+                "Um grupo de militares fazendo exercício nas ruas."
+            ],
+            "answer": "Uma ação coletiva organizada pela sociedade civil para manter, alterar ou transformar as leis, lutando por direitos ou reconhecimento.",
+            "explanation": "Eles não querem governar o Estado, mas sim pressioná-lo de fora para mudar as realidades sociais ou resistir à opressão."
+        },
+        {
+            "question": "O conceito de 'Cidadania', construído historicamente, baseia-se no sociólogo T.H. Marshall a partir da conquista de três gerações de direitos. Quais são eles, na ordem histórica?",
+            "options": [
+                "Direitos Naturais, Celulares e Cibernéticos.",
+                "Direitos Civis (liberdade), Direitos Políticos (votar) e Direitos Sociais (educação, saúde, trabalho).",
+                "Direitos Animais, Direitos Policiais e Direitos Militares.",
+                "Direitos da Criança, do Idoso e do Automóvel."
+            ],
+            "answer": "Direitos Civis (liberdade), Direitos Políticos (votar) e Direitos Sociais (educação, saúde, trabalho).",
+            "explanation": "Cidadão pleno é aquele que possui os 3 direitos: liberdade (séc 18), participação no poder (séc 19) e bem-estar garantido pelo Estado (séc 20)."
+        },
+        {
+            "question": "O 'Direito Civil', a primeira etapa da cidadania adquirida na Revolução Francesa, garante essencialmente:",
+            "options": [
+                "O direito a um salário mínimo governamental.",
+                "O direito de votar e ser eleito.",
+                "O direito à liberdade individual, à propriedade, à liberdade de ir e vir e de religião.",
+                "O direito de não pagar nenhuma passagem de ônibus."
+            ],
+            "answer": "O direito à liberdade individual, à propriedade, à liberdade de ir e vir e de religião.",
+            "explanation": "São as liberdades básicas do indivíduo perante a opressão do Estado absoluto."
+        },
+        {
+            "question": "Em 1948, após os horrores da Segunda Guerra Mundial e o Holocausto, a ONU promulgou um documento fundamental para a sociedade contemporânea. Que documento é esse?",
+            "options": [
+                "A Constituição do Brasil de 1988",
+                "A Declaração Universal dos Direitos Humanos (DUDH)",
+                "A Carta do Mercosul",
+                "O Tratado de Versalhes"
+            ],
+            "answer": "A Declaração Universal dos Direitos Humanos (DUDH)",
+            "explanation": "A DUDH estabelece que todo ser humano, pelo simples fato de existir, tem direito à vida, dignidade, liberdade e ausência de tortura."
+        },
+        {
+            "question": "O Brasil vive uma Democracia Representativa. Isso significa que:",
+            "options": [
+                "O povo decide todas as leis diretamente nas ruas todos os dias.",
+                "O Rei nomeia o Presidente.",
+                "O povo, através do voto, elege representantes (deputados, vereadores, prefeitos) para tomarem decisões políticas em seu nome.",
+                "As Forças Armadas definem o presidente por votação militar."
+            ],
+            "answer": "O povo, através do voto, elege representantes (deputados, vereadores, prefeitos) para tomarem decisões políticas em seu nome.",
+            "explanation": "A soberania emana do povo, mas é exercida indiretamente por meio dos políticos eleitos nas urnas."
+        },
+        {
+            "question": "Embora o Brasil tenha a Democracia Representativa, a Constituição permite mecanismos de 'Democracia Direta'. Qual das opções abaixo é um exemplo disso?",
+            "options": [
+                "As sessões fechadas do STF.",
+                "A eleição de prefeitos indiretamente.",
+                "A realização de Plebiscitos, Referendos e Projetos de Lei de Iniciativa Popular (onde o povo vota diretamente no assunto).",
+                "O voto obrigatório a partir dos 18 anos."
+            ],
+            "answer": "A realização de Plebiscitos, Referendos e Projetos de Lei de Iniciativa Popular (onde o povo vota diretamente no assunto).",
+            "explanation": "No Plebiscito (antes da lei) e Referendo (depois da lei), o cidadão decide 'Sim' ou 'Não' sobre a questão (ex: o Referendo do Desarmamento de 2005)."
+        },
+        {
+            "question": "O Estado de Bem-Estar Social (Welfare State), comum em países europeus e buscado pela Constituição brasileira de 1988, caracteriza-se por:",
+            "options": [
+                "Um governo que não cobra impostos e não dá nada ao cidadão.",
+                "Um Estado interventor que fornece forte proteção social, garantindo serviços públicos universais (saúde, escola, aposentadoria) para diminuir a pobreza capitalista.",
+                "Um regime que privatiza 100% dos hospitais e escolas públicas.",
+                "Um modelo fascista ditatorial de exclusão."
+            ],
+            "answer": "Um Estado interventor que fornece forte proteção social, garantindo serviços públicos universais (saúde, escola, aposentadoria) para diminuir a pobreza capitalista.",
+            "explanation": "O Estado age ativamente recolhendo impostos para redistribuir riqueza e garantir um colchão de segurança para os cidadãos (SUS no Brasil)."
+        },
+        {
+            "question": "O que é o fenômeno da 'Feminilização da Pobreza' nas ciências sociais?",
+            "options": [
+                "Apenas mulheres ricas podem ser pobres por um dia.",
+                "O fato de que, devido às mães solo, salários menores e falta de creches, as mulheres e suas crianças compõem a imensa maioria das camadas mais pobres do mundo.",
+                "As mulheres gastarem mais dinheiro em shoppings.",
+                "O crescimento das mulheres na política partidária."
+            ],
+            "answer": "O fato de que, devido às mães solo, salários menores e falta de creches, as mulheres e suas crianças compõem a imensa maioria das camadas mais pobres do mundo.",
+            "explanation": "A desigualdade de gênero cruza com a de classe, fazendo com que a face mais dura da pobreza moderna seja uma mulher cuidando de filhos sozinha."
+        },
+        {
+            "question": "No Brasil, o conceito de 'Minorias Sociais' refere-se estatisticamente a grupos com poucas pessoas ou tem outro significado sociológico?",
+            "options": [
+                "Significa apenas grupos com menos de 100 pessoas.",
+                "Significa exclusivamente estrangeiros no Brasil.",
+                "Não se refere ao número matemático, mas a grupos vulneráveis que sofrem exclusão social, preconceito e falta de acesso aos espaços de poder (como mulheres e negros, que são maioria matemática).",
+                "Refere-se a milionários e donos de terras no congresso."
+            ],
+            "answer": "Não se refere ao número matemático, mas a grupos vulneráveis que sofrem exclusão social, preconceito e falta de acesso aos espaços de poder (como mulheres e negros, que são maioria matemática).",
+            "explanation": "Mulheres são 51% da população, mas são minoria 'social e política' devido à sub-representação nos cargos de liderança."
+        },
+        {
+            "question": "Como podemos definir o 'Neoliberalismo', uma forte doutrina político-econômica que influencia o mundo desde a década de 1980?",
+            "options": [
+                "A defesa máxima da intervenção do Estado na economia e estatização de fábricas.",
+                "O Estado não faz nada, as empresas fecham e viramos uma monarquia.",
+                "A defesa do 'Estado Mínimo' e do livre mercado, promovendo privatizações de empresas estatais, corte de gastos públicos sociais e flexibilização de leis trabalhistas.",
+                "A união de todas as igrejas mundiais criando o mercado religioso comum."
+            ],
+            "answer": "A defesa do 'Estado Mínimo' e do livre mercado, promovendo privatizações de empresas estatais, corte de gastos públicos sociais e flexibilização de leis trabalhistas.",
+            "explanation": "Para os neoliberais, a economia deve ser gerida pelas regras puras do mercado financeiro e corporativo, sem regulação do Estado."
+        },
+        {
+            "question": "A 'Socialização' é o processo pelo qual aprendemos a viver no mundo. A Socialização Primária, a mais profunda e emocional, ocorre em qual instituição social?",
+            "options": [
+                "A Família.",
+                "A Universidade.",
+                "O Partido Político.",
+                "A Empresa."
+            ],
+            "answer": "A Família.",
+            "explanation": "É na família que a criança tem o primeiro contato com a linguagem, os valores morais básicos e as emoções."
+        },
+        {
+            "question": "A Socialização Secundária ocorre quando saímos do círculo íntimo para o mundo das regras formais e diversidade. Quais são os principais agentes dessa fase?",
+            "options": [
+                "Os irmãos e os pais apenas.",
+                "A Escola, os amigos, os Meios de Comunicação e o ambiente de trabalho.",
+                "O zoológico e o parque de diversões.",
+                "Os livros de biologia em formato digital."
+            ],
+            "answer": "A Escola, os amigos, os Meios de Comunicação e o ambiente de trabalho.",
+            "explanation": "Aqui, o indivíduo aprende a conviver com o diferente e com as burocracias e leis impessoais da sociedade."
+        },
+        {
+            "question": "A Escola e a Educação possuem o duplo papel de reprodução social (manter as coisas como estão) e transformação social. Para o sociólogo brasileiro Paulo Freire, a educação transformadora deve ser:",
+            "options": [
+                "'Educação Bancária', onde o aluno decora e repete calado.",
+                "Crítica e Libertadora, fazendo o aluno refletir sobre a opressão da sua realidade para modificá-la.",
+                "Voltada exclusivamente para o vestibular de engenharia espacial.",
+                "Militarizada e baseada em castigos físicos duros."
+            ],
+            "answer": "Crítica e Libertadora, fazendo o aluno refletir sobre a opressão da sua realidade para modificá-la.",
+            "explanation": "Para Freire, ensinar a ler a palavra é ensinar a 'ler o mundo', formando um cidadão consciente, não um robô."
+        },
+        {
+            "question": "O termo 'Patriarcado' na sociologia é utilizado para descrever um sistema onde:",
+            "options": [
+                "As mães têm todo o poder econômico e militar nas sociedades antigas.",
+                "Homens, socialmente e historicamente, detêm a primazia do poder, posições de liderança e privilégio moral sobre as mulheres.",
+                "A política é liderada apenas pelos padres.",
+                "Crianças mandam na estrutura familiar contemporânea."
+            ],
+            "answer": "Homens, socialmente e historicamente, detêm a primazia do poder, posições de liderança e privilégio moral sobre as mulheres.",
+            "explanation": "Essa estrutura legitima o domínio masculino na família, no trabalho e no Estado, gerando a violência baseada no gênero."
+        },
+        {
+            "question": "No Brasil, o conceito de 'Violência Simbólica' de Pierre Bourdieu é muito utilizado. Ele explica que a violência não é apenas bater fisicamente, mas também:",
+            "options": [
+                "Gritar e chutar objetos inanimados.",
+                "Impor sutilmente valores, padrões e preconceitos da classe dominante de forma que o próprio oprimido a aceite como natural e normal (ex: rir de piadas racistas/machistas).",
+                "Desligar a televisão em filmes violentos.",
+                "Andar armado por segurança em ruas centrais."
+            ],
+            "answer": "Impor sutilmente valores, padrões e preconceitos da classe dominante de forma que o próprio oprimido a aceite como natural e normal (ex: rir de piadas racistas/machistas).",
+            "explanation": "É a violência 'invisível' enraizada na cultura (mídia, piadas, livros escolares) que legitima a desigualdade sem usar a força física."
+        },
+        {
+            "question": "A sociologia criminal aponta que a sensação de insegurança e a alta violência urbana nas periferias brasileiras estão diretamente relacionadas a:",
+            "options": [
+                "Falta de iluminação nos postes da avenida apenas.",
+                "Excesso de viaturas policiais modernas patrulhando os bairros.",
+                "Desigualdade socioeconômica extrema, falta de acesso a escolas de qualidade e ausência dos serviços essenciais do Estado.",
+                "Ao clima muito quente do verão nordestino, que estressa os cidadãos."
+            ],
+            "answer": "Desigualdade socioeconômica extrema, falta de acesso a escolas de qualidade e ausência dos serviços essenciais do Estado.",
+            "explanation": "A pobreza em si não gera crime, mas a exclusão brutal, o racismo estrutural e a falta de perspectiva, cooptados pelo tráfico, elevam as taxas de violência."
+        },
+        {
+            "question": "O conceito de 'Lugar de Fala', amplamente discutido atualmente através de autoras como Djamila Ribeiro, destaca que:",
+            "options": [
+                "Pessoas oprimidas devem falar baixinho nos protestos.",
+                "Todas as pessoas, sem distinção de cor ou classe, sofrem a mesma opressão e têm a mesma visão de mundo.",
+                "Ninguém pode falar nada sobre nenhum assunto polêmico.",
+                "As experiências sociais das pessoas (ser negro, mulher, etc.) influenciam sua visão de mundo; logo, as vozes silenciadas historicamente devem ser o centro da denúncia de suas próprias opressões."
+            ],
+            "answer": "As experiências sociais das pessoas (ser negro, mulher, etc.) influenciam sua visão de mundo; logo, as vozes silenciadas historicamente devem ser o centro da denúncia de suas próprias opressões.",
+            "explanation": "O 'lugar de fala' combate o hábito de pessoas ricas/brancas explicarem a experiência do racismo ou machismo silenciando a própria vítima."
+        },
+        {
+            "question": "Para a Sociologia, o trabalho no Século XXI sofreu a chamada 'Uberização' ou 'Precarização'. O que isso significa?",
+            "options": [
+                "Todos os trabalhadores agora possuem carros de luxo e salários triplicados.",
+                "Os empregos com carteira assinada (CLT) cresceram 100% no mundo rural.",
+                "A relação de trabalho virou 'bico' mediado por plataformas digitais, sem direitos trabalhistas (férias, INSS) e com jornadas exaustivas e instáveis, travestido de empreendedorismo.",
+                "O Estado passou a pagar salário para todos que não querem trabalhar."
+            ],
+            "answer": "A relação de trabalho virou 'bico' mediado por plataformas digitais, sem direitos trabalhistas (férias, INSS) e com jornadas exaustivas e instáveis, travestido de empreendedorismo.",
+            "explanation": "O motorista de app ou entregador de delivery assume todos os riscos e custos sem a rede de proteção das leis trabalhistas antigas."
+        },
+        {
+            "question": "A Religião é uma importante instituição social. Na modernidade, observamos o fenômeno da 'Secularização'. O que isso indica?",
+            "options": [
+                "O fim de todas as igrejas mundiais.",
+                "O processo pelo qual a religião perde sua influência central sobre as esferas do Estado, das leis e do conhecimento (separação Igreja-Estado).",
+                "A criação de novos santos apenas para os séculos futuros.",
+                "A conversão forçada de cidadãos para religiões orientais em massa."
+            ],
+            "answer": "O processo pelo qual a religião perde sua influência central sobre as esferas do Estado, das leis e do conhecimento (separação Igreja-Estado).",
+            "explanation": "O Estado Laico e a ciência passam a guiar as leis da sociedade e não mais os textos ou líderes religiosos diretamente."
+        },
+        {
+            "question": "Nas sociedades indígenas do Brasil (como os Xukuru, em Pernambuco), a relação com a terra e o meio ambiente é radicalmente diferente da visão capitalista. Qual é a principal diferença?",
+            "options": [
+                "Para os indígenas, a terra é apenas um bem imóvel que deve ser rapidamente vendido e explorado por mineração pesada.",
+                "Os indígenas defendem a pavimentação completa da floresta para construção de shoppings.",
+                "Para os povos originários, a Terra não é mercadoria, mas parte sagrada de sua identidade, história ancestral e modo de vida sustentável.",
+                "As tribos indígenas não habitam a terra firme, vivendo exclusivamente sobre a água do mar."
+            ],
+            "answer": "Para os povos originários, a Terra não é mercadoria, mas parte sagrada de sua identidade, história ancestral e modo de vida sustentável.",
+            "explanation": "A luta pela demarcação de terras indígenas é uma resistência cultural contra o extrativismo predatório que destrói a vida na floresta e no campo."
+        }
+    ]
+}

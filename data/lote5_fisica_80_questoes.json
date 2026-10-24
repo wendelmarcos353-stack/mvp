@@ -1,0 +1,884 @@
+{
+    "fisica": [
+        {
+            "question": "Um ônibus viaja de Recife a Petrolina, uma distância de aproximadamente 720 km. Se a viagem dura 10 horas, qual é a velocidade média do ônibus?",
+            "options": [
+                "60 km/h",
+                "72 km/h",
+                "80 km/h",
+                "90 km/h"
+            ],
+            "answer": "72 km/h",
+            "explanation": "Velocidade média = Distância / Tempo. 720 km / 10 h = 72 km/h."
+        },
+        {
+            "question": "Para converter uma velocidade de 72 km/h para metros por segundo (m/s), devemos dividir por 3,6. O resultado é:",
+            "options": [
+                "10 m/s",
+                "15 m/s",
+                "20 m/s",
+                "25 m/s"
+            ],
+            "answer": "20 m/s",
+            "explanation": "72 / 3,6 = 20 m/s."
+        },
+        {
+            "question": "Um carro de Fórmula 1 acelera de 0 a 100 km/h em poucos segundos. A 'aceleração' na Física mede:",
+            "options": [
+                "A distância total percorrida.",
+                "A taxa de variação da velocidade em um intervalo de tempo.",
+                "A força do motor em cavalos.",
+                "O tempo gasto na viagem."
+            ],
+            "answer": "A taxa de variação da velocidade em um intervalo de tempo.",
+            "explanation": "Aceleração indica o quanto a velocidade aumenta ou diminui a cada segundo."
+        },
+        {
+            "question": "Se deixarmos cair uma bola do alto de um prédio em queda livre (sem resistência do ar), o que acontece com sua velocidade?",
+            "options": [
+                "Permanece constante em 9,8 m/s.",
+                "Diminui até chegar ao chão.",
+                "Aumenta constantemente devido à aceleração da gravidade.",
+                "É zero durante toda a queda."
+            ],
+            "answer": "Aumenta constantemente devido à aceleração da gravidade.",
+            "explanation": "Na queda livre, o corpo sofre aceleração constante da gravidade (g = 9,8 m/s²), logo sua velocidade aumenta a cada segundo."
+        },
+        {
+            "question": "Em um Movimento Retilíneo Uniforme (MRU), podemos afirmar que:",
+            "options": [
+                "A velocidade varia constantemente.",
+                "A aceleração é diferente de zero.",
+                "A trajetória é circular.",
+                "A velocidade é constante e a aceleração é zero."
+            ],
+            "answer": "A velocidade é constante e a aceleração é zero.",
+            "explanation": "No MRU, o móvel percorre distâncias iguais em intervalos de tempos iguais, sem acelerar ou frear."
+        },
+        {
+            "question": "O ventilador de teto girando na sala de aula realiza um Movimento Circular Uniforme (MCU). O tempo que uma pá do ventilador leva para dar uma volta completa é chamado de:",
+            "options": [
+                "Frequência",
+                "Período",
+                "Amplitude",
+                "Velocidade angular"
+            ],
+            "answer": "Período",
+            "explanation": "O Período (T) é o tempo necessário para completar um ciclo ou volta. A frequência é o número de voltas em um segundo."
+        },
+        {
+            "question": "Se um motor realiza 600 rotações por minuto (RPM), qual é a sua frequência em Hertz (Hz)?",
+            "options": [
+                "10 Hz",
+                "60 Hz",
+                "100 Hz",
+                "600 Hz"
+            ],
+            "answer": "10 Hz",
+            "explanation": "Hertz significa ciclos por segundo. Como 1 minuto tem 60 segundos, dividimos 600 por 60 = 10 Hz."
+        },
+        {
+            "question": "O gráfico de Posição (S) x Tempo (t) de um Movimento Retilíneo Uniformemente Variado (MRUV) tem a forma de:",
+            "options": [
+                "Uma reta horizontal.",
+                "Uma reta inclinada.",
+                "Uma parábola.",
+                "Um círculo."
+            ],
+            "answer": "Uma parábola.",
+            "explanation": "A equação horária da posição no MRUV é do 2º grau (S = So + Vo.t + a.t²/2), cujo gráfico é uma parábola."
+        },
+        {
+            "question": "Lançamento oblíquo: Ao chutar uma bola de futebol para o alto, a trajetória descrita por ela é:",
+            "options": [
+                "Retilínea",
+                "Circular",
+                "Parabólica",
+                "Elíptica"
+            ],
+            "answer": "Parabólica",
+            "explanation": "O lançamento oblíquo é a composição de um MRU na horizontal e um MRUV na vertical, gerando uma parábola."
+        },
+        {
+            "question": "No ponto mais alto da trajetória de um lançamento vertical para cima, a velocidade da bola é:",
+            "options": [
+                "A máxima possível.",
+                "Igual à velocidade de lançamento.",
+                "Zero.",
+                "Infinita."
+            ],
+            "answer": "Zero.",
+            "explanation": "No ponto de altura máxima, o objeto para momentaneamente antes de inverter o sentido e começar a cair."
+        },
+        {
+            "question": "Um atleta corre a 5 m/s. Quantos metros ele percorrerá em 1 minuto?",
+            "options": [
+                "300 m",
+                "5 m",
+                "60 m",
+                "500 m"
+            ],
+            "answer": "300 m",
+            "explanation": "1 minuto = 60 segundos. Distância = Velocidade * Tempo = 5 * 60 = 300 metros."
+        },
+        {
+            "question": "Dois carros viajam na mesma direção e sentido. O carro A a 100 km/h e o B a 80 km/h. Qual a velocidade relativa do carro A em relação ao B?",
+            "options": [
+                "180 km/h",
+                "80 km/h",
+                "20 km/h",
+                "100 km/h"
+            ],
+            "answer": "20 km/h",
+            "explanation": "Como estão no mesmo sentido, subtrai-se as velocidades: 100 - 80 = 20 km/h de aproximação/afastamento."
+        },
+        {
+            "question": "Em um cruzamento, um carro vai para o norte a 30 km/h e outro para o leste a 40 km/h. Pelo Teorema de Pitágoras, a velocidade relativa entre eles é:",
+            "options": [
+                "70 km/h",
+                "50 km/h",
+                "10 km/h",
+                "1200 km/h"
+            ],
+            "answer": "50 km/h",
+            "explanation": "A velocidade relativa é a hipotenusa: V² = 30² + 40² => V² = 900 + 1600 = 2500 => V = 50 km/h."
+        },
+        {
+            "question": "A distância da Terra ao Sol é de cerca de 150 milhões de km. A luz viaja a 300.000 km/s. Quanto tempo a luz do Sol leva para chegar aqui?",
+            "options": [
+                "8 minutos e 20 segundos",
+                "1 hora",
+                "24 horas",
+                "1 segundo"
+            ],
+            "answer": "8 minutos e 20 segundos",
+            "explanation": "Tempo = Distância / Velocidade = 150.000.000 / 300.000 = 500 segundos. 500 / 60 = 8 min e 20 seg."
+        },
+        {
+            "question": "Uma lebre muito rápida e uma tartaruga apostam corrida. A tartaruga mantém velocidade constante e não para. A lebre corre, mas dorme no meio. Em Física, a vitória da tartaruga prova que:",
+            "options": [
+                "A tartaruga teve maior aceleração.",
+                "A velocidade média da tartaruga na viagem inteira foi maior que a da lebre.",
+                "A lebre perdeu massa.",
+                "A tartaruga quebrou a inércia."
+            ],
+            "answer": "A velocidade média da tartaruga na viagem inteira foi maior que a da lebre.",
+            "explanation": "A velocidade média considera o tempo total gasto na viagem. O tempo que a lebre dormiu aumentou seu tempo total, derrubando sua média."
+        },
+        {
+            "question": "Qual Lei de Newton afirma que um corpo em repouso tende a continuar em repouso até que uma força atue sobre ele?",
+            "options": [
+                "Primeira Lei (Inércia)",
+                "Segunda Lei (Princípio Fundamental da Dinâmica)",
+                "Terceira Lei (Ação e Reação)",
+                "Lei da Gravitação Universal"
+            ],
+            "answer": "Primeira Lei (Inércia)",
+            "explanation": "A Lei da Inércia diz que todo corpo tende a manter seu estado de movimento ou repouso se a força resultante for nula."
+        },
+        {
+            "question": "Ao empurrar um carro quebrado, você aplica a Segunda Lei de Newton, cuja fórmula principal é:",
+            "options": [
+                "E = mc²",
+                "V = d/t",
+                "F = m * a",
+                "P = m * g"
+            ],
+            "answer": "F = m * a",
+            "explanation": "A Força Resultante (F) é o produto da massa (m) pela aceleração (a)."
+        },
+        {
+            "question": "Quando um nadador empurra a água para trás com os braços, a água o empurra para frente. Isso exemplifica a:",
+            "options": [
+                "1ª Lei de Newton",
+                "Lei de Hooke",
+                "3ª Lei de Newton (Ação e Reação)",
+                "Lei de Conservação da Massa"
+            ],
+            "answer": "3ª Lei de Newton (Ação e Reação)",
+            "explanation": "Para toda ação (força), há uma reação de mesma intensidade e direção, mas em sentido oposto."
+        },
+        {
+            "question": "Se um astronauta for à Lua, o que acontecerá com sua massa e seu peso?",
+            "options": [
+                "Ambos diminuem.",
+                "A massa diminui e o peso continua o mesmo.",
+                "A massa continua a mesma, mas o peso diminui.",
+                "Ambos aumentam."
+            ],
+            "answer": "A massa continua a mesma, mas o peso diminui.",
+            "explanation": "A massa é a quantidade de matéria (não muda). O peso depende da gravidade local, que na Lua é menor."
+        },
+        {
+            "question": "A força que se opõe ao deslizamento entre duas superfícies em contato, dificultando o movimento, chama-se:",
+            "options": [
+                "Força Elástica",
+                "Força Normal",
+                "Força de Atrito",
+                "Força Centrípeta"
+            ],
+            "answer": "Força de Atrito",
+            "explanation": "O atrito atua paralelamente às superfícies, em sentido contrário à tendência de movimento."
+        },
+        {
+            "question": "Em Física, 'Trabalho' é realizado quando:",
+            "options": [
+                "Uma pessoa pensa muito para resolver uma questão.",
+                "Uma força é aplicada a um corpo e ele sofre um deslocamento.",
+                "Um peso é segurado no ar sem se mover.",
+                "Um corpo permanece em repouso."
+            ],
+            "answer": "Uma força é aplicada a um corpo e ele sofre um deslocamento.",
+            "explanation": "Se não houver deslocamento na direção da força, o Trabalho físico (W = F * d) é zero."
+        },
+        {
+            "question": "Um objeto de 2 kg é erguido a 5 metros de altura. Considerando a gravidade g = 10 m/s², o trabalho da força peso é:",
+            "options": [
+                "10 Joules",
+                "20 Joules",
+                "50 Joules",
+                "100 Joules"
+            ],
+            "answer": "100 Joules",
+            "explanation": "O trabalho da força peso é T = m * g * h = 2 * 10 * 5 = 100 Joules."
+        },
+        {
+            "question": "A energia associada à altura (posição) de um corpo em relação ao solo é chamada de energia:",
+            "options": [
+                "Cinética",
+                "Potencial Gravitacional",
+                "Térmica",
+                "Elétrica"
+            ],
+            "answer": "Potencial Gravitacional",
+            "explanation": "Essa energia (E = mgh) é 'armazenada' e pode se converter em movimento ao cair."
+        },
+        {
+            "question": "Um carro em movimento possui qual tipo principal de energia mecânica?",
+            "options": [
+                "Potencial Elástica",
+                "Potencial Gravitacional",
+                "Cinética",
+                "Magnética"
+            ],
+            "answer": "Cinética",
+            "explanation": "A Energia Cinética (E = mv²/2) é a energia relacionada ao movimento."
+        },
+        {
+            "question": "O Princípio da Conservação da Energia Mecânica diz que em um sistema isolado (sem atrito):",
+            "options": [
+                "A energia cinética sempre zera.",
+                "A energia total é dissipada como calor.",
+                "A soma das energias cinética e potencial permanece constante.",
+                "A energia só aumenta."
+            ],
+            "answer": "A soma das energias cinética e potencial permanece constante.",
+            "explanation": "A energia não se perde nem é criada, apenas se transforma de potencial para cinética e vice-versa."
+        },
+        {
+            "question": "Potência é a grandeza física que mede:",
+            "options": [
+                "A força máxima de um motor.",
+                "A rapidez com que um trabalho é realizado ou a energia é transformada.",
+                "O tamanho de um objeto.",
+                "A quantidade de atrito no solo."
+            ],
+            "answer": "A rapidez com que um trabalho é realizado ou a energia é transformada.",
+            "explanation": "Potência = Trabalho / Tempo. É medida em Watts (Joule por segundo)."
+        },
+        {
+            "question": "Qual o nome da força que atua como uma 'fuga' em curvas, puxando o carro para o centro da trajetória circular?",
+            "options": [
+                "Força Centrífuga",
+                "Força Centrípeta",
+                "Força Peso",
+                "Empuxo"
+            ],
+            "answer": "Força Centrípeta",
+            "explanation": "A força centrípeta aponta para o centro da curva e é responsável por manter o corpo no movimento circular."
+        },
+        {
+            "question": "A 'Quantidade de Movimento' (ou Momento Linear) de um corpo é calculada multiplicando sua massa pela sua:",
+            "options": [
+                "Aceleração",
+                "Força",
+                "Velocidade",
+                "Altura"
+            ],
+            "answer": "Velocidade",
+            "explanation": "Q = m * v. Um caminhão devagar pode ter o mesmo momento que um carro muito rápido devido à grande massa."
+        },
+        {
+            "question": "Ao batermos um carro contra um muro macio ao invés de concreto, o dano é menor pois aumenta-se o tempo de colisão. Isso se relaciona ao conceito de:",
+            "options": [
+                "Dilatação",
+                "Impulso",
+                "Empuxo",
+                "Pressão Atmosférica"
+            ],
+            "answer": "Impulso",
+            "explanation": "O Impulso (I = F * t) iguala a variação da quantidade de movimento. Se o tempo da batida aumenta, a força da pancada diminui."
+        },
+        {
+            "question": "A Lei de Hooke (F = k * x) calcula a força elástica exercida por uma:",
+            "options": [
+                "Mola deformada.",
+                "Roda girando.",
+                "Bateria de carro.",
+                "Lente de óculos."
+            ],
+            "answer": "Mola deformada.",
+            "explanation": "A força elástica é proporcional à deformação (x) sofrida pela mola, sendo 'k' a constante da mola."
+        },
+        {
+            "question": "Em um acidente de trânsito envolvendo a colisão frontal de dois carros a 80 km/h cada, ocorre dissipação de energia sonora, térmica e deformação. Esse choque é classificado como:",
+            "options": [
+                "Perfeitamente Elástico",
+                "Inelástico",
+                "Acelerado",
+                "Perfeitamente Magnético"
+            ],
+            "answer": "Inelástico",
+            "explanation": "Em colisões inelásticas, os corpos sofrem deformação permanente e há perda de energia cinética."
+        },
+        {
+            "question": "Uma força de 50 N é aplicada a um bloco de 5 kg. Qual será a aceleração do bloco, livre de atrito?",
+            "options": [
+                "5 m/s²",
+                "10 m/s²",
+                "25 m/s²",
+                "250 m/s²"
+            ],
+            "answer": "10 m/s²",
+            "explanation": "Usando a 2ª Lei de Newton: F = m * a => 50 = 5 * a => a = 10 m/s²."
+        },
+        {
+            "question": "Se um objeto está em equilíbrio estático, a soma de todas as forças que atuam nele é:",
+            "options": [
+                "Infinita",
+                "Igual ao seu peso",
+                "Igual a zero",
+                "Igual à força normal"
+            ],
+            "answer": "Igual a zero",
+            "explanation": "Para estar parado, a Força Resultante tem que ser rigorosamente nula."
+        },
+        {
+            "question": "Para soltar o parafuso do pneu de um carro, usa-se uma chave de roda longa em vez de uma curta. Qual conceito físico justifica isso?",
+            "options": [
+                "Impulso",
+                "Momento de uma Força (Torque)",
+                "Força Centrífuga",
+                "Mecânica Quântica"
+            ],
+            "answer": "Momento de uma Força (Torque)",
+            "explanation": "O Torque = Força * Braço de alavanca (distância). Chave maior gera mais torque com a mesma força."
+        },
+        {
+            "question": "As Leis de Kepler descrevem o movimento dos planetas. A 1ª Lei afirma que a órbita dos planetas ao redor do Sol tem forma:",
+            "options": [
+                "Circular perfeita.",
+                "Elíptica, com o Sol em um dos focos.",
+                "Parabólica.",
+                "Em zigue-zague."
+            ],
+            "answer": "Elíptica, com o Sol em um dos focos.",
+            "explanation": "Os planetas giram em elipses. Quando estão mais perto do Sol (Periélio), viajam mais rápido."
+        },
+        {
+            "question": "Temperatura e Calor não são a mesma coisa. Temperatura mede:",
+            "options": [
+                "A quantidade de energia térmica de um corpo.",
+                "O grau de agitação das moléculas de um corpo.",
+                "O tamanho do corpo no sol.",
+                "A energia elétrica gerada pelo corpo."
+            ],
+            "answer": "O grau de agitação das moléculas de um corpo.",
+            "explanation": "Enquanto o calor é a energia em trânsito entre dois corpos, a temperatura mede a velocidade da vibração molecular."
+        },
+        {
+            "question": "A escala de temperatura usada cientificamente, conhecida como 'escala absoluta' e que não possui valores negativos, é a:",
+            "options": [
+                "Celsius",
+                "Fahrenheit",
+                "Kelvin",
+                "Réaumur"
+            ],
+            "answer": "Kelvin",
+            "explanation": "O Zero Kelvin (Zero Absoluto) é a ausência total teórica de agitação térmica molecular."
+        },
+        {
+            "question": "Para transformar 20 ºC (Celsius) em Kelvin, devemos somar 273. Qual o resultado?",
+            "options": [
+                "253 K",
+                "293 K",
+                "300 K",
+                "20 K"
+            ],
+            "answer": "293 K",
+            "explanation": "K = ºC + 273. Portanto, 20 + 273 = 293 K."
+        },
+        {
+            "question": "O calor do Sol chega à Terra através do espaço (vácuo). Qual é a forma de propagação de calor envolvida?",
+            "options": [
+                "Condução",
+                "Convecção",
+                "Irradiação (ou Radiação)",
+                "Contato direto"
+            ],
+            "answer": "Irradiação (ou Radiação)",
+            "explanation": "A irradiação é a única forma de calor que viaja no vácuo, usando ondas eletromagnéticas (como a luz e infravermelho)."
+        },
+        {
+            "question": "Quando fervemos água em uma panela, a água quente sobe e a fria desce, criando correntes circulares. Esse processo é a:",
+            "options": [
+                "Condução",
+                "Convecção",
+                "Irradiação",
+                "Sublimação"
+            ],
+            "answer": "Convecção",
+            "explanation": "A convecção ocorre em fluidos (líquidos e gases) onde o fluido aquecido (menos denso) sobe e o frio (mais denso) desce."
+        },
+        {
+            "question": "A asa de uma panela é feita de plástico ou madeira para evitar que a pessoa queime a mão, pois esses materiais são bons isolantes térmicos. A transmissão de calor que ocorre pelo cabo de metal da panela é a:",
+            "options": [
+                "Condução",
+                "Convecção",
+                "Irradiação",
+                "Fissão"
+            ],
+            "answer": "Condução",
+            "explanation": "A condução ocorre em sólidos, onde o calor passa de molécula a molécula sem transporte de matéria."
+        },
+        {
+            "question": "Ao fornecer energia para um bloco de gelo a 0 ºC, ele derrete virando água a 0 ºC, sem aumentar sua temperatura. Esse calor recebido é chamado de:",
+            "options": [
+                "Calor Específico",
+                "Calor Latente",
+                "Calor Sensível",
+                "Capacidade Térmica"
+            ],
+            "answer": "Calor Latente",
+            "explanation": "O calor latente atua mudando o estado físico (sólido para líquido) sem alterar a temperatura."
+        },
+        {
+            "question": "Se aquecermos uma barra de ferro, o que ocorre com o seu tamanho?",
+            "options": [
+                "Diminui, pois os átomos se espremem.",
+                "Não muda.",
+                "Aumenta, sofrendo Dilatação Térmica.",
+                "A barra evapora imediatamente."
+            ],
+            "answer": "Aumenta, sofrendo Dilatação Térmica.",
+            "explanation": "O calor aumenta a agitação das moléculas, exigindo mais espaço e causando a expansão do material."
+        },
+        {
+            "question": "O calor específico da água é 1 cal/gºC, considerado muito alto. Isso significa que a água:",
+            "options": [
+                "Congela muito rápido.",
+                "Precisa receber muito calor para aumentar 1 ºC de temperatura, demorando a esquentar e a esfriar.",
+                "Esquenta instantaneamente no sol.",
+                "Não pode evaporar."
+            ],
+            "answer": "Precisa receber muito calor para aumentar 1 ºC de temperatura, demorando a esquentar e a esfriar.",
+            "explanation": "É por isso que a areia da praia esquenta muito rápido e o mar demora muito para esquentar sob o mesmo sol."
+        },
+        {
+            "question": "No ciclo de quatro tempos de um motor a combustão de um carro, a faísca da vela provoca a explosão do combustível, gerando trabalho. Isso é estudado na:",
+            "options": [
+                "Óptica Geométrica",
+                "Termodinâmica",
+                "Eletrostática",
+                "Acústica"
+            ],
+            "answer": "Termodinâmica",
+            "explanation": "A termodinâmica estuda as relações entre calor (combustão) e trabalho mecânico (movimento do pistão)."
+        },
+        {
+            "question": "A Primeira Lei da Termodinâmica é uma aplicação direta do princípio da:",
+            "options": [
+                "Conservação da Massa",
+                "Inércia",
+                "Conservação da Energia",
+                "Ação e Reação"
+            ],
+            "answer": "Conservação da Energia",
+            "explanation": "Afirma que a variação de energia interna de um sistema é igual ao calor absorvido menos o trabalho realizado."
+        },
+        {
+            "question": "Segundo a Segunda Lei da Termodinâmica (Entropia):",
+            "options": [
+                "É possível criar um motor que aproveite 100% do calor fornecido.",
+                "O calor flui espontaneamente de um corpo frio para um corpo quente.",
+                "Nenhuma máquina térmica consegue transformar 100% do calor em trabalho (haverá perda).",
+                "O gelo nunca derrete no vácuo."
+            ],
+            "answer": "Nenhuma máquina térmica consegue transformar 100% do calor em trabalho (haverá perda).",
+            "explanation": "Parte da energia sempre é dissipada para o ambiente na forma de calor rejeitado ou atrito."
+        },
+        {
+            "question": "O Efeito Estufa retém o calor no planeta Terra porque a atmosfera:",
+            "options": [
+                "Deixa passar a luz solar visível, mas bloqueia o retorno dos raios infravermelhos (calor) emitidos pela Terra.",
+                "Funciona como um ar-condicionado gigante.",
+                "Destrói as moléculas de gás carbônico.",
+                "Absorve todo o oxigênio."
+            ],
+            "answer": "Deixa passar a luz solar visível, mas bloqueia o retorno dos raios infravermelhos (calor) emitidos pela Terra.",
+            "explanation": "Os gases estufa são transparentes à luz de ondas curtas (Sol), mas opacos ao calor de ondas longas (infravermelho) irradiado pelo chão."
+        },
+        {
+            "question": "O estado físico onde as moléculas têm maior energia e liberdade de movimento, preenchendo todo o recipiente, é o:",
+            "options": [
+                "Sólido",
+                "Líquido",
+                "Gasoso",
+                "Coloidal"
+            ],
+            "answer": "Gasoso",
+            "explanation": "Nos gases, a força de repulsão molecular supera a de coesão, permitindo expansão total."
+        },
+        {
+            "question": "Uma garrafa térmica conserva o café quente por possuir paredes espelhadas por dentro. Esses espelhos servem para evitar a perda de calor por:",
+            "options": [
+                "Convecção",
+                "Condução",
+                "Irradiação térmica",
+                "Condensação"
+            ],
+            "answer": "Irradiação térmica",
+            "explanation": "A superfície refletora (espelho) reflete o calor radiante (infravermelho) de volta para o líquido."
+        },
+        {
+            "question": "O macaco hidráulico do borracheiro consegue levantar um carro usando pouca força humana. Isso é explicado pelo Princípio de:",
+            "options": [
+                "Arquimedes",
+                "Pascal",
+                "Galileu",
+                "Bernoulli"
+            ],
+            "answer": "Pascal",
+            "explanation": "O Princípio de Pascal diz que a pressão aplicada num ponto de um líquido se transmite integralmente a todos os seus pontos (prensa hidráulica)."
+        },
+        {
+            "question": "Um navio de aço, pesado como é, não afunda no mar. Quem elaborou o princípio físico da força de empuxo que explica isso?",
+            "options": [
+                "Isaac Newton",
+                "Albert Einstein",
+                "Arquimedes",
+                "Nikola Tesla"
+            ],
+            "answer": "Arquimedes",
+            "explanation": "O Princípio de Arquimedes diz que todo corpo submerso num fluido recebe uma força vertical para cima (Empuxo) igual ao peso do fluido deslocado."
+        },
+        {
+            "question": "Se você furar uma garrafa de água cheia perto do fundo, o jato d'água sai com muita força. Isso ocorre porque:",
+            "options": [
+                "A água no fundo é mais quente.",
+                "A pressão hidrostática é maior quanto maior a profundidade.",
+                "O ar entra pelo furo.",
+                "A água expande no fundo."
+            ],
+            "answer": "A pressão hidrostática é maior quanto maior a profundidade.",
+            "explanation": "A pressão em um líquido depende da profundidade (h) da densidade e da gravidade (P = d.g.h)."
+        },
+        {
+            "question": "O som é uma onda mecânica. Isso significa que ele:",
+            "options": [
+                "Viaja na velocidade da luz.",
+                "Só se propaga através de um meio material (ar, água, sólidos) e não viaja no vácuo.",
+                "Atravessa o espaço sideral até nós.",
+                "É uma onda eletromagnética."
+            ],
+            "answer": "Só se propaga através de um meio material (ar, água, sólidos) e não viaja no vácuo.",
+            "explanation": "Filmes de ficção científica com barulhos de explosões no espaço estão fisicamente errados, pois não há ar no vácuo para propagar o som."
+        },
+        {
+            "question": "Ao afinar um violão e apertar a corda, o músico altera qual propriedade da onda sonora que está associada a ser mais 'grave' ou 'agudo'?",
+            "options": [
+                "Amplitude (volume)",
+                "Frequência (altura)",
+                "Velocidade",
+                "Timbre"
+            ],
+            "answer": "Frequência (altura)",
+            "explanation": "O som alto (agudo) tem alta frequência, enquanto o som baixo (grave) tem baixa frequência."
+        },
+        {
+            "question": "A velocidade do som no ar é de aproximadamente 340 m/s. Se você vê um raio cair e escuta o trovão 3 segundos depois, a que distância ele caiu?",
+            "options": [
+                "1 km (~1020 m)",
+                "3 km",
+                "340 metros",
+                "10 km"
+            ],
+            "answer": "1 km (~1020 m)",
+            "explanation": "Como a luz chega instantaneamente, os 3 segundos são o tempo de viagem do som. 3 * 340 = 1020 m."
+        },
+        {
+            "question": "O eco é um fenômeno ondulatório causado por qual comportamento do som ao encontrar um obstáculo?",
+            "options": [
+                "Refração",
+                "Difração",
+                "Polarização",
+                "Reflexão"
+            ],
+            "answer": "Reflexão",
+            "explanation": "O som bate na parede distante (no mínimo a 17m) e reflete, voltando aos nossos ouvidos."
+        },
+        {
+            "question": "Ao olhar para um lápis mergulhado parcialmente em um copo com água, ele parece 'quebrado' na superfície. Esse fenômeno óptico é a:",
+            "options": [
+                "Reflexão total",
+                "Difração",
+                "Refração da luz",
+                "Interferência"
+            ],
+            "answer": "Refração da luz",
+            "explanation": "A luz muda de velocidade ao passar do ar para a água (meios diferentes), sofrendo desvio de trajetória."
+        },
+        {
+            "question": "Qual cor absorve toda a luz visível e qual reflete toda a luz visível, respectivamente?",
+            "options": [
+                "Branco / Preto",
+                "Preto / Branco",
+                "Vermelho / Azul",
+                "Azul / Amarelo"
+            ],
+            "answer": "Preto / Branco",
+            "explanation": "O preto é a ausência de cor refletida (absorve calor), o branco é a reflexão de todas as cores do espectro."
+        },
+        {
+            "question": "As lentes dos óculos usados para corrigir Miopia e Hipermetropia são, respectivamente:",
+            "options": [
+                "Convexas e Côncavas",
+                "Divergentes e Convergentes",
+                "Planas e Cilíndricas",
+                "Escuras e Claras"
+            ],
+            "answer": "Divergentes e Convergentes",
+            "explanation": "Na miopia o foco se forma antes da retina (usa lente divergente para afastar), na hipermetropia depois (usa convergente para puxar o foco)."
+        },
+        {
+            "question": "Espelhos retrovisores externos dos carros sempre mostram uma imagem menor e mais distante, aumentando o campo de visão. Que tipo de espelho é esse?",
+            "options": [
+                "Espelho Plano",
+                "Espelho Côncavo",
+                "Espelho Convexo",
+                "Lente de contato"
+            ],
+            "answer": "Espelho Convexo",
+            "explanation": "O espelho convexo sempre forma imagens virtuais, direitas e menores que o objeto."
+        },
+        {
+            "question": "Ondas de rádio, raios-X, micro-ondas e a luz visível fazem parte do:",
+            "options": [
+                "Espectro sonoro",
+                "Campo gravitacional",
+                "Espectro eletromagnético",
+                "Plano cartesiano"
+            ],
+            "answer": "Espectro eletromagnético",
+            "explanation": "São ondas formadas por campos elétricos e magnéticos que se propagam no vácuo à velocidade da luz."
+        },
+        {
+            "question": "Se a frequência de uma onda dobra de valor enquanto sua velocidade permanece constante, o que acontece com o seu Comprimento de Onda?",
+            "options": [
+                "Dobra",
+                "Fica reduzido à metade",
+                "Permanece o mesmo",
+                "Fica zerado"
+            ],
+            "answer": "Fica reduzido à metade",
+            "explanation": "Pela Equação Fundamental da Ondulatória (v = lambda * f), frequência e comprimento de onda são inversamente proporcionais."
+        },
+        {
+            "question": "Timbre é a qualidade do som que nos permite:",
+            "options": [
+                "Saber se o som está alto ou baixo.",
+                "Distinguir dois instrumentos diferentes (ex: piano e violão) tocando a mesma nota musical.",
+                "Medir a distância de um trovão.",
+                "Quebrar taças de vidro."
+            ],
+            "answer": "Distinguir dois instrumentos diferentes (ex: piano e violão) tocando a mesma nota musical.",
+            "explanation": "O timbre é o 'formato' ou a 'assinatura' da onda sonora, única para cada emissor."
+        },
+        {
+            "question": "O Efeito Doppler explica por que o som da sirene de uma ambulância parece mais:",
+            "options": [
+                "Grave quando se aproxima.",
+                "Agudo quando se aproxima e mais grave quando se afasta.",
+                "Baixo o tempo todo.",
+                "Inaudível de perto."
+            ],
+            "answer": "Agudo quando se aproxima e mais grave quando se afasta.",
+            "explanation": "Ao se aproximar, as ondas se 'espremem' aumentando a frequência (som agudo). Ao afastar, elas se esticam (som grave)."
+        },
+        {
+            "question": "A eletricidade estática causa choques ao encostar na maçaneta em dias muito secos. Se dois corpos são atritados, um perde elétrons e o outro ganha. Eles ficam com cargas de sinais:",
+            "options": [
+                "Iguais",
+                "Opostos (um positivo, outro negativo)",
+                "Neutras",
+                "Infinitas"
+            ],
+            "answer": "Opostos (um positivo, outro negativo)",
+            "explanation": "No processo de eletrização por atrito, um arranca elétrons do outro."
+        },
+        {
+            "question": "A Lei de Coulomb, que calcula a força entre duas cargas elétricas (F = k.q1.q2 / d²), diz que se dobrarmos a distância entre as cargas, a força:",
+            "options": [
+                "Dobra.",
+                "Cai para a metade.",
+                "Cai para um quarto (divide por 4).",
+                "Fica zero."
+            ],
+            "answer": "Cai para um quarto (divide por 4).",
+            "explanation": "A força é inversamente proporcional ao quadrado da distância. Se d é x2, F divide por 4 (2²)."
+        },
+        {
+            "question": "Em um circuito de uma casa (110V ou 220V), os eletrodomésticos são ligados em paralelo e não em série porque:",
+            "options": [
+                "Em série, se uma lâmpada queima, todas as outras apagam.",
+                "Em paralelo gasta mais energia.",
+                "Em série dá choque e em paralelo não.",
+                "Apenas nas indústrias usa-se série."
+            ],
+            "answer": "Em série, se uma lâmpada queima, todas as outras apagam.",
+            "explanation": "No circuito paralelo, todos recebem a mesma tensão e a corrente tem caminhos independentes."
+        },
+        {
+            "question": "O resistor de um chuveiro elétrico obedece à 1ª Lei de Ohm (U = R * i). Se a tensão (U) da rede elétrica é de 220 Volts e a resistência (R) é de 10 Ohms, qual a corrente (i) que passa nele?",
+            "options": [
+                "22 A (Ampères)",
+                "220 A",
+                "10 A",
+                "2 A"
+            ],
+            "answer": "22 A (Ampères)",
+            "explanation": "i = U / R => 220 / 10 = 22 Ampères."
+        },
+        {
+            "question": "Como calculamos a Potência elétrica de um aparelho se soubermos a tensão (Voltagem) e a corrente elétrica (Ampères)?",
+            "options": [
+                "P = V / I",
+                "P = V + I",
+                "P = V * I (Piu)",
+                "P = V² * I"
+            ],
+            "answer": "P = V * I (Piu)",
+            "explanation": "A fórmula P = U.i (conhecida como fórmula do 'Piu') determina quantos Watts o aparelho consome."
+        },
+        {
+            "question": "Ímãs possuem polos Norte e Sul. A lei magnética afirma que:",
+            "options": [
+                "Norte atrai Norte.",
+                "Polos iguais se repelem e polos opostos se atraem.",
+                "Polos magnéticos podem existir isoladamente.",
+                "Apenas o Sul atrai o ferro."
+            ],
+            "answer": "Polos iguais se repelem e polos opostos se atraem.",
+            "explanation": "Assim como as cargas elétricas, Norte atrai Sul, enquanto Norte repele Norte."
+        },
+        {
+            "question": "A bússola funciona porque a agulha magnetizada sempre se alinha com:",
+            "options": [
+                "As estrelas.",
+                "A direção do vento.",
+                "O campo magnético da Terra.",
+                "O sol nascente."
+            ],
+            "answer": "O campo magnético da Terra.",
+            "explanation": "A Terra atua como um gigantesco ímã, e o polo norte magnético da bússola é atraído para o polo sul magnético terrestre (próximo ao Polo Norte geográfico)."
+        },
+        {
+            "question": "A experiência de Oersted no século XIX mudou a física ao descobrir que fios com corrente elétrica geravam:",
+            "options": [
+                "Fogo instantâneo.",
+                "Campos magnéticos ao seu redor, desviando agulhas de bússolas.",
+                "Raios-X invisíveis.",
+                "Vácuo."
+            ],
+            "answer": "Campos magnéticos ao seu redor, desviando agulhas de bússolas.",
+            "explanation": "Isso uniu a eletricidade e o magnetismo, nascendo o Eletromagnetismo."
+        },
+        {
+            "question": "A Indução Eletromagnética de Faraday-Lenz é o princípio básico de funcionamento de:",
+            "options": [
+                "Usinas hidrelétricas e eólicas (Geradores elétricos).",
+                "Panelas de pressão.",
+                "Geladeiras a gás.",
+                "Termômetros de mercúrio."
+            ],
+            "answer": "Usinas hidrelétricas e eólicas (Geradores elétricos).",
+            "explanation": "Variar um campo magnético dentro de uma bobina induz a criação de corrente elétrica. É assim que a energia é gerada girando turbinas."
+        },
+        {
+            "question": "Albert Einstein ficou famoso pela Física Moderna. Sua equação E=mc² afirma que:",
+            "options": [
+                "Massa e Energia são a mesma coisa e podem ser convertidas uma na outra.",
+                "A energia de um carro depende apenas da sua cor.",
+                "A gravidade não existe no vácuo.",
+                "A luz pode viajar a qualquer velocidade."
+            ],
+            "answer": "Massa e Energia são a mesma coisa e podem ser convertidas uma na outra.",
+            "explanation": "Uma minúscula quantidade de massa multiplicada pela velocidade da luz ao quadrado resulta numa quantidade colossal de energia (princípio da bomba atômica)."
+        },
+        {
+            "question": "O que afirma o Postulado da Relatividade Restrita de Einstein sobre a velocidade da luz?",
+            "options": [
+                "Ela varia conforme o observador.",
+                "Ela é mais rápida na água do que no vácuo.",
+                "Ela é a mesma (absoluta) e a máxima possível no universo para qualquer referencial no vácuo.",
+                "Pode ser ultrapassada por foguetes de dobra."
+            ],
+            "answer": "Ela é a mesma (absoluta) e a máxima possível no universo para qualquer referencial no vácuo.",
+            "explanation": "C = ~300.000 km/s e ninguém no universo pode observar a luz viajando em outra velocidade no vácuo."
+        },
+        {
+            "question": "Segundo a teoria da relatividade, se um astronauta viajar em uma nave espacial a uma velocidade próxima à da luz, o tempo para ele passará:",
+            "options": [
+                "Mais rápido do que para quem ficou na Terra.",
+                "Mais devagar do que para quem ficou na Terra (Dilatação do tempo).",
+                "No mesmo ritmo exato.",
+                "Andará de trás para frente."
+            ],
+            "answer": "Mais devagar do que para quem ficou na Terra (Dilatação do tempo).",
+            "explanation": "Para grandes velocidades, o tempo e o espaço são relativos; o relógio do astronauta 'bate' mais lentamente."
+        },
+        {
+            "question": "O Efeito Fotoelétrico (que rendeu o Nobel a Einstein e que hoje faz painéis solares funcionarem) provou que a luz não é apenas uma onda, mas atua como partículas chamadas de:",
+            "options": [
+                "Elétrons",
+                "Prótons",
+                "Nêutrons",
+                "Fótons"
+            ],
+            "answer": "Fótons",
+            "explanation": "A luz (fótons) atinge uma placa metálica e arranca elétrons, gerando corrente elétrica."
+        },
+        {
+            "question": "Em Física Nuclear, a Fissão e a Fusão nuclear liberam muita energia. A Usina Nuclear (como Angra dos Reis) utiliza a:",
+            "options": [
+                "Fusão do hidrogênio.",
+                "Fissão do Urânio (quebra do núcleo pesado).",
+                "Queima de carvão.",
+                "Eletrização do ar."
+            ],
+            "answer": "Fissão do Urânio (quebra do núcleo pesado).",
+            "explanation": "Na usina, quebram-se átomos de urânio enriquecido. A fusão (juntar átomos leves como o hidrogênio) é o que ocorre no Sol."
+        },
+        {
+            "question": "Ao encostar o celular num terminal de pagamento (NFC) ou usar carregamento sem fio (Wireless Charger), a física envolvida é o campo de:",
+            "options": [
+                "Óptica geométrica",
+                "Eletromagnetismo por indução de campo",
+                "Termodinâmica adiabática",
+                "Mecânica dos fluidos"
+            ],
+            "answer": "Eletromagnetismo por indução de campo",
+            "explanation": "Uma bobina no carregador gera um campo magnético oscilante que induz corrente elétrica na bobina dentro do celular."
+        }
+    ]
+}

@@ -1,0 +1,829 @@
+{
+    "quimica": [
+        {
+            "question": "A passagem da água do estado líquido para o gasoso, que ocorre de forma lenta à temperatura ambiente (como uma roupa secando no varal), é chamada de:",
+            "options": [
+                "Ebulição",
+                "Calefação",
+                "Evaporação",
+                "Sublimação"
+            ],
+            "answer": "Evaporação",
+            "explanation": "A evaporação é o processo natural e lento de vaporização. A ebulição é rápida (água fervendo) e a calefação é instantânea (gota d'água na chapa quente)."
+        },
+        {
+            "question": "O gelo seco (gás carbônico sólido) ao entrar em contato com o ar quente 'desaparece' sem deixar poça, pois passa direto do sólido para o gás. Esse fenômeno é a:",
+            "options": [
+                "Fusão",
+                "Condensação",
+                "Sublimação",
+                "Solidificação"
+            ],
+            "answer": "Sublimação",
+            "explanation": "Sublimação é a passagem direta do estado sólido para o gasoso (ou vice-versa), sem passar pelo estado líquido."
+        },
+        {
+            "question": "Para separar uma mistura heterogênea de água e óleo, o método mais adequado e simples de separação de misturas no laboratório é a:",
+            "options": [
+                "Filtração",
+                "Destilação simples",
+                "Decantação",
+                "Centrifugação"
+            ],
+            "answer": "Decantação",
+            "explanation": "Como o óleo é menos denso, ele fica por cima. Usa-se um funil de decantação para escoar a água pela parte de baixo."
+        },
+        {
+            "question": "Nas salinas, muito comuns no litoral nordestino, o sal é separado da água do mar através de qual processo de separação de misturas?",
+            "options": [
+                "Filtração simples",
+                "Evaporação",
+                "Levigação",
+                "Flotação"
+            ],
+            "answer": "Evaporação",
+            "explanation": "A água do mar evapora com o calor do sol e o vento, restando apenas o sal (cloreto de sódio) cristalizado."
+        },
+        {
+            "question": "O primeiro modelo atômico científico, que imaginava o átomo como uma esfera maciça e indivisível (semelhante a uma bola de bilhar), foi proposto por:",
+            "options": [
+                "Rutherford",
+                "Bohr",
+                "Thomson",
+                "Dalton"
+            ],
+            "answer": "Dalton",
+            "explanation": "John Dalton (1808) propôs o modelo da 'bola de bilhar', onde os átomos eram esferas maciças, indestrutíveis e indivisíveis."
+        },
+        {
+            "question": "O modelo atômico de Thomson ficou conhecido como o 'Pudim de Passas' porque ele descobriu:",
+            "options": [
+                "O núcleo atômico denso.",
+                "As partículas de carga negativa (elétrons) incrustadas numa massa positiva.",
+                "Os nêutrons.",
+                "As órbitas circulares ao redor do sol."
+            ],
+            "answer": "As partículas de carga negativa (elétrons) incrustadas numa massa positiva.",
+            "explanation": "Thomson derrubou a ideia de que o átomo era indivisível ao descobrir a primeira partícula subatômica: o elétron."
+        },
+        {
+            "question": "A famosa experiência de Rutherford, bombardeando uma folha de ouro com partículas alfa, provou que o átomo:",
+            "options": [
+                "Era totalmente maciço.",
+                "Não existia.",
+                "Possuía um núcleo pequeno, denso e positivo, rodeado por uma eletrosfera enorme e vazia.",
+                "Era quadrado."
+            ],
+            "answer": "Possuía um núcleo pequeno, denso e positivo, rodeado por uma eletrosfera enorme e vazia.",
+            "explanation": "Rutherford descobriu que a maior parte do átomo é espaço vazio (eletrosfera onde ficam os elétrons) e que a massa concentra-se no núcleo (prótons)."
+        },
+        {
+            "question": "Os Isótopos são átomos de um mesmo elemento químico. Isso significa que eles possuem o mesmo número de:",
+            "options": [
+                "Nêutrons",
+                "Prótons (Número Atômico)",
+                "Massa",
+                "Elétrons na última camada"
+            ],
+            "answer": "Prótons (Número Atômico)",
+            "explanation": "IsótoPos têm o mesmo número de Prótons (Z). Eles diferem no número de nêutrons e, consequentemente, na massa."
+        },
+        {
+            "question": "Qual é a carga elétrica de um Próton, um Nêutron e um Elétron, respectivamente?",
+            "options": [
+                "Positiva, Neutra, Negativa",
+                "Negativa, Positiva, Neutra",
+                "Neutra, Positiva, Negativa",
+                "Positiva, Negativa, Neutra"
+            ],
+            "answer": "Positiva, Neutra, Negativa",
+            "explanation": "Prótons (+) e nêutrons (0) ficam no núcleo, enquanto os elétrons (-) ficam orbitando na eletrosfera."
+        },
+        {
+            "question": "Quando um átomo neutro de Sódio (Na) perde 1 elétron, ele se transforma em um íon com carga positiva, chamado de:",
+            "options": [
+                "Cátion",
+                "Ânion",
+                "Isótopo",
+                "Molecula"
+            ],
+            "answer": "Cátion",
+            "explanation": "Átomos que perdem elétrons ficam com excesso de prótons (carga positiva) e são chamados de cátions (ex: Na+)."
+        },
+        {
+            "question": "Qual é a propriedade específica da matéria que relaciona a massa de um corpo com o volume que ele ocupa (d = m/v)?",
+            "options": [
+                "Temperatura de fusão",
+                "Solubilidade",
+                "Densidade",
+                "Massa atômica"
+            ],
+            "answer": "Densidade",
+            "explanation": "A densidade define se um objeto flutua ou afunda em um fluido. A densidade da água pura é 1 g/cm³."
+        },
+        {
+            "question": "Em uma mistura de água e álcool etílico (etanol), observa-se apenas uma única fase visual. Essa mistura é classificada como:",
+            "options": [
+                "Heterogênea",
+                "Homogênea",
+                "Substância Simples",
+                "Suspensão"
+            ],
+            "answer": "Homogênea",
+            "explanation": "Misturas que apresentam apenas um aspecto visual contínuo (uma fase) são chamadas de misturas homogêneas ou soluções."
+        },
+        {
+            "question": "O oxigênio (O2) que respiramos e o ozônio (O3) que nos protege dos raios UV são substâncias simples formadas pelo mesmo elemento. Esse fenômeno chama-se:",
+            "options": [
+                "Isomeria",
+                "Alotropia",
+                "Isotopia",
+                "Hibridização"
+            ],
+            "answer": "Alotropia",
+            "explanation": "Alotropia ocorre quando o mesmo elemento químico forma duas ou mais substâncias simples diferentes (ex: Carbono formando diamante e grafite)."
+        },
+        {
+            "question": "Para separar a água e o álcool em uma fábrica de bebidas, utiliza-se a diferença no ponto de ebulição (o álcool ferve a 78ºC e a água a 100ºC). Qual é o nome do método?",
+            "options": [
+                "Decantação",
+                "Destilação Fracionada",
+                "Filtração a vácuo",
+                "Levigação"
+            ],
+            "answer": "Destilação Fracionada",
+            "explanation": "É usada para separar líquidos miscíveis (mistura homogênea), aquecendo até que o líquido com menor ponto de ebulição evapore primeiro."
+        },
+        {
+            "question": "Qual partícula atômica é responsável pelas ligações químicas e pelas reações de oxirredução, pois pode ser transferida ou compartilhada?",
+            "options": [
+                "Próton",
+                "Nêutron",
+                "Quark",
+                "Elétron"
+            ],
+            "answer": "Elétron",
+            "explanation": "Os elétrons da camada de valência (a mais externa) são os únicos envolvidos nas ligações químicas."
+        },
+        {
+            "question": "Na Tabela Periódica moderna, os elementos químicos estão organizados em ordem crescente de:",
+            "options": [
+                "Massa atômica",
+                "Tamanho do núcleo",
+                "Número atômico (Z - quantidade de prótons)",
+                "Quantidade de nêutrons"
+            ],
+            "answer": "Número atômico (Z - quantidade de prótons)",
+            "explanation": "Henry Moseley determinou que as propriedades dos elementos são funções periódicas de seus números atômicos."
+        },
+        {
+            "question": "A família 18 (ou 8A) da Tabela Periódica é composta pelo Hélio, Neônio, Argônio, etc. Como essa família é conhecida?",
+            "options": [
+                "Metais Alcalinos",
+                "Halogênios",
+                "Calcogênios",
+                "Gases Nobres"
+            ],
+            "answer": "Gases Nobres",
+            "explanation": "Eles são chamados de gases nobres por terem a última camada eletrônica completa, sendo muito estáveis e pouco reativos."
+        },
+        {
+            "question": "A Regra do Octeto afirma que, para adquirir estabilidade química semelhante à de um gás nobre, a maioria dos átomos precisa ter quantos elétrons na camada de valência?",
+            "options": [
+                "2 elétrons",
+                "4 elétrons",
+                "8 elétrons",
+                "10 elétrons"
+            ],
+            "answer": "8 elétrons",
+            "explanation": "Com 8 elétrons na última camada (exceto H e He que ficam estáveis com 2), o átomo alcança a estabilidade de um gás nobre."
+        },
+        {
+            "question": "O Cloreto de Sódio (NaCl), o nosso sal de cozinha, é formado pela atração eletrostática entre o íon positivo Na+ e o íon negativo Cl-. Esse tipo de ligação é a:",
+            "options": [
+                "Ligação Covalente",
+                "Ligação Metálica",
+                "Ligação Iônica",
+                "Ponte de Hidrogênio"
+            ],
+            "answer": "Ligação Iônica",
+            "explanation": "A ligação iônica ocorre pela transferência definitiva de elétrons de um metal (que quer doar) para um ametal (que quer receber)."
+        },
+        {
+            "question": "A molécula de água (H2O) é formada pelo compartilhamento de pares de elétrons entre o Hidrogênio e o Oxigênio. Esse tipo de ligação é chamada de:",
+            "options": [
+                "Iônica",
+                "Metálica",
+                "Covalente",
+                "Eletrostática"
+            ],
+            "answer": "Covalente",
+            "explanation": "A ligação covalente ocorre entre ametais (ou ametal e hidrogênio), onde os elétrons são compartilhados para que ambos atinjam o octeto."
+        },
+        {
+            "question": "Por que os fios de cobre (Cu) nos postes da rede elétrica de Pernambuco conduzem eletricidade tão bem?",
+            "options": [
+                "Porque possuem ligações iônicas sólidas.",
+                "Devido ao 'mar de elétrons' livres na sua estrutura cristalina de Ligação Metálica.",
+                "Porque o cobre é uma substância pura gasosa.",
+                "Porque eles absorvem a energia do Sol."
+            ],
+            "answer": "Devido ao 'mar de elétrons' livres na sua estrutura cristalina de Ligação Metálica.",
+            "explanation": "Nos metais, os elétrons da última camada são muito soltos e formam uma nuvem ('mar de elétrons'), conduzindo corrente elétrica facilmente."
+        },
+        {
+            "question": "A eletronegatividade é a tendência que um átomo tem de atrair os elétrons numa ligação química. Qual é o elemento MAIS eletronegativo da Tabela Periódica?",
+            "options": [
+                "Sódio (Na)",
+                "Carbono (C)",
+                "Flúor (F)",
+                "Cálcio (Ca)"
+            ],
+            "answer": "Flúor (F)",
+            "explanation": "O Flúor é o elemento que mais atrai elétrons (FUI CLaro BRuno, ISca COmida Não). Os gases nobres não entram nessa regra."
+        },
+        {
+            "question": "Famílias e Períodos são, respectivamente, as colunas e linhas da Tabela Periódica. Os elementos da mesma Família (coluna) possuem:",
+            "options": [
+                "A mesma quantidade de camadas eletrônicas.",
+                "Propriedades químicas muito diferentes.",
+                "A mesma quantidade de elétrons na última camada (camada de valência).",
+                "Apenas estado físico gasoso."
+            ],
+            "answer": "A mesma quantidade de elétrons na última camada (camada de valência).",
+            "explanation": "Isso faz com que elementos da mesma família reajam de forma semelhante (ex: Família 1A tem 1 elétron na última camada)."
+        },
+        {
+            "question": "A água não se mistura com o óleo. Isso ocorre devido à polaridade das moléculas. Sabendo que 'semelhante dissolve semelhante', podemos afirmar que:",
+            "options": [
+                "Ambas são polares.",
+                "Ambas são apolares.",
+                "A água é apolar e o óleo é polar.",
+                "A água é polar e o óleo é apolar."
+            ],
+            "answer": "A água é polar e o óleo é apolar.",
+            "explanation": "A molécula da água (H2O) tem polos elétricos (geometria angular), enquanto óleos e gorduras são hidrocarbonetos apolares."
+        },
+        {
+            "question": "Qual das substâncias abaixo apresenta a forte atração intermolecular conhecida como 'Ligação (ou Ponte) de Hidrogênio'?",
+            "options": [
+                "Gás Hidrogênio (H2)",
+                "Água (H2O)",
+                "Gás Carbônico (CO2)",
+                "Metano (CH4)"
+            ],
+            "answer": "Água (H2O)",
+            "explanation": "Ligações de hidrogênio ocorrem quando o H está ligado diretamente aos elementos muito eletronegativos FON (Flúor, Oxigênio ou Nitrogênio)."
+        },
+        {
+            "question": "Os Metais Alcalinos pertencem a qual família da Tabela Periódica?",
+            "options": [
+                "Família 1 (ou 1A)",
+                "Família 2 (ou 2A)",
+                "Família 17 (ou 7A)",
+                "Gases Nobres"
+            ],
+            "answer": "Família 1 (ou 1A)",
+            "explanation": "Lítio, Sódio, Potássio... Eles são metais muito reativos, especialmente com a água, e possuem 1 elétron na camada de valência."
+        },
+        {
+            "question": "A molécula de Gás Carbônico (CO2) possui qual tipo de geometria molecular?",
+            "options": [
+                "Angular",
+                "Piramidal",
+                "Tetraédrica",
+                "Linear"
+            ],
+            "answer": "Linear",
+            "explanation": "Como o Carbono não tem pares de elétrons sobrando e faz dupla ligação com dois oxigênios (O=C=O), a molécula forma um ângulo de 180º (linear)."
+        },
+        {
+            "question": "O Carbono (C) pertence à família 14 (ou 4A). Logo, para seguir a regra do octeto, ele precisa realizar quantas ligações químicas?",
+            "options": [
+                "1 ligação",
+                "2 ligações",
+                "3 ligações",
+                "4 ligações"
+            ],
+            "answer": "4 ligações",
+            "explanation": "O carbono é tetravalente: tem 4 elétrons na camada de valência e precisa compartilhar mais 4 para ficar com 8."
+        },
+        {
+            "question": "Qual composto abaixo é um exemplo de substância iônica e conduz eletricidade quando dissolvido em água?",
+            "options": [
+                "Açúcar (Glicose)",
+                "Cloreto de Sódio (Sal de cozinha)",
+                "Álcool",
+                "Óleo de soja"
+            ],
+            "answer": "Cloreto de Sódio (Sal de cozinha)",
+            "explanation": "O sal dissolve-se em água liberando íons (Na+ e Cl-), permitindo a passagem de corrente elétrica na solução."
+        },
+        {
+            "question": "As ligas metálicas são misturas onde pelo menos o principal componente é um metal. O Aço e o Bronze são, respectivamente, ligas formadas por:",
+            "options": [
+                "Ferro+Carbono e Cobre+Estanho",
+                "Cobre+Zinco e Ouro+Prata",
+                "Ferro+Zinco e Alumínio+Cobre",
+                "Níquel+Titânio e Prata+Ouro"
+            ],
+            "answer": "Ferro+Carbono e Cobre+Estanho",
+            "explanation": "O aço é amplamente usado na construção civil, misturando ferro com pequeno percentual de carbono para dar resistência."
+        },
+        {
+            "question": "Segundo a teoria de Arrhenius, Ácido é toda substância que, em meio aquoso, sofre ionização e libera como único íon positivo o:",
+            "options": [
+                "Na+",
+                "OH-",
+                "H+ (ou H3O+)",
+                "Cl-"
+            ],
+            "answer": "H+ (ou H3O+)",
+            "explanation": "Ácidos, como o HCl (ácido muriático) ou H2SO4, começam com H e liberam o cátion H+ na água."
+        },
+        {
+            "question": "As Bases (ou Hidróxidos), segundo Arrhenius, são substâncias que em água liberam um íon negativo específico, que dá sabor adstringente. Qual é o íon?",
+            "options": [
+                "H+",
+                "OH- (Hidroxila)",
+                "O2-",
+                "Cl-"
+            ],
+            "answer": "OH- (Hidroxila)",
+            "explanation": "Bases como NaOH (Soda cáustica) e Mg(OH)2 (Leite de magnésia) terminam em OH e o liberam em solução."
+        },
+        {
+            "question": "A reação química entre um Ácido e uma Base fortes produzirá sempre:",
+            "options": [
+                "Álcool e oxigênio.",
+                "Sal e Água.",
+                "Gás Hidrogênio e fumaça.",
+                "Gás Carbônico e Ouro."
+            ],
+            "answer": "Sal e Água.",
+            "explanation": "Esta é a clássica reação de Neutralização. Ex: HCl + NaOH -> NaCl (Sal) + H2O (Água)."
+        },
+        {
+            "question": "A escala de pH varia de 0 a 14. O refrigerante tem pH em torno de 3, e o sangue humano em torno de 7,4. Eles são, respectivamente:",
+            "options": [
+                "Ácido e Básico",
+                "Básico e Ácido",
+                "Neutro e Ácido",
+                "Ambos neutros"
+            ],
+            "answer": "Ácido e Básico",
+            "explanation": "pH abaixo de 7 é ácido. pH 7 é neutro. pH acima de 7 (até 14) é básico ou alcalino."
+        },
+        {
+            "question": "Para tratar a azia (excesso de ácido clorídrico no estômago), recomenda-se tomar um antiácido à base de Hidróxido de Magnésio. A função inorgânica desse antiácido é:",
+            "options": [
+                "Óxido ácido",
+                "Base (Alcalina)",
+                "Sal",
+                "Ácido forte"
+            ],
+            "answer": "Base (Alcalina)",
+            "explanation": "A base (Leite de Magnésia) neutraliza o ácido do estômago, elevando o pH e aliviando a queimação."
+        },
+        {
+            "question": "O Gás Carbônico (CO2) emitido na queima de gasolina é um óxido que reage com a água da chuva formando ácido carbônico. Ele é classificado como um:",
+            "options": [
+                "Óxido Básico",
+                "Óxido Anfótero",
+                "Óxido Ácido (ou Anidrido)",
+                "Óxido Neutro"
+            ],
+            "answer": "Óxido Ácido (ou Anidrido)",
+            "explanation": "Óxidos de ametais (como C, S, N) reagem com água formando ácidos, causando a chuva ácida."
+        },
+        {
+            "question": "A ferrugem (Óxido de Ferro III - Fe2O3) se forma pela reação lenta do ferro com o oxigênio do ar. Que tipo de reação inorgânica é essa?",
+            "options": [
+                "Reação de Decomposição (Análise)",
+                "Reação de Síntese (Adição)",
+                "Reação de Dupla Troca",
+                "Reação de Neutralização"
+            ],
+            "answer": "Reação de Síntese (Adição)",
+            "explanation": "Duas substâncias (Ferro e Oxigênio) se unem para formar um único produto (A + B -> AB)."
+        },
+        {
+            "question": "Em uma reação química balanceada, a quantidade de átomos dos reagentes deve ser:",
+            "options": [
+                "Maior que a dos produtos.",
+                "Menor que a dos produtos.",
+                "Igual à dos produtos, conservando a massa.",
+                "Depende da temperatura do dia."
+            ],
+            "answer": "Igual à dos produtos, conservando a massa.",
+            "explanation": "Lei de Lavoisier (Conservação das Massas): 'Na natureza, nada se cria, nada se perde, tudo se transforma'."
+        },
+        {
+            "question": "O sal marinho é essencial na culinária. O nome oficial do cloreto de sódio na química inorgânica, proveniente do ácido clorídrico e do hidróxido de sódio, é:",
+            "options": [
+                "NaO",
+                "NaHCO3",
+                "NaCl",
+                "Na2SO4"
+            ],
+            "answer": "NaCl",
+            "explanation": "É o principal componente do sal de cozinha (NaCl)."
+        },
+        {
+            "question": "A água oxigenada, usada em machucados, se decompõe na presença de luz liberando água e gás oxigênio livre (fervura). Essa reação é de:",
+            "options": [
+                "Síntese",
+                "Dupla troca",
+                "Decomposição (Análise)",
+                "Deslocamento (Simples troca)"
+            ],
+            "answer": "Decomposição (Análise)",
+            "explanation": "Uma única substância reagente (H2O2) quebra-se em duas ou mais substâncias mais simples (H2O e O2)."
+        },
+        {
+            "question": "O indicador Fenolftaleína, frequentemente usado em laboratórios escolares, fica rosa (carmim) na presença de uma substância:",
+            "options": [
+                "Ácida",
+                "Básica (Alcalina)",
+                "Neutra",
+                "Salina neutra"
+            ],
+            "answer": "Básica (Alcalina)",
+            "explanation": "A fenolftaleína é incolor em meio ácido ou neutro e fica rosa choque em meio básico (pH > 8,2)."
+        },
+        {
+            "question": "As chuvas ácidas são um problema ambiental grave. Os principais gases causadores desse fenômeno provêm da queima de carvão e petróleo ricos em:",
+            "options": [
+                "Hélio e Argônio",
+                "Ouro e Prata",
+                "Enxofre e Nitrogênio",
+                "Fósforo e Potássio"
+            ],
+            "answer": "Enxofre e Nitrogênio",
+            "explanation": "Óxidos de Enxofre (SO2, SO3) e Nitrogênio (NOx) reagem com a água da nuvem formando ácido sulfúrico e ácido nítrico."
+        },
+        {
+            "question": "Qual dos ácidos abaixo é perigoso, muito corrosivo, usado em baterias de carro e base para a indústria química global?",
+            "options": [
+                "Ácido Acético (Vinagre)",
+                "Ácido Cítrico (Limão)",
+                "Ácido Sulfúrico (H2SO4)",
+                "Ácido Fosfórico (Refrigerantes)"
+            ],
+            "answer": "Ácido Sulfúrico (H2SO4)",
+            "explanation": "É o ácido mais consumido pelas indústrias no mundo. Sua produção indica o nível industrial de um país."
+        },
+        {
+            "question": "Na reação Zn + 2 HCl -> ZnCl2 + H2, o metal zinco 'empurra' o hidrogênio e toma o lugar dele. Esse tipo de reação é:",
+            "options": [
+                "Síntese",
+                "Dupla Troca",
+                "Deslocamento (Simples Troca)",
+                "Neutralização"
+            ],
+            "answer": "Deslocamento (Simples Troca)",
+            "explanation": "Uma substância simples (Zn) reage com uma composta (HCl), deslocando um elemento e formando nova simples e nova composta."
+        },
+        {
+            "question": "Qual é a substância conhecida como 'Solvente Universal', capaz de dissolver uma enorme quantidade de compostos polares e iônicos na natureza?",
+            "options": [
+                "Gasolina",
+                "Álcool",
+                "Água (H2O)",
+                "Acetona"
+            ],
+            "answer": "Água (H2O)",
+            "explanation": "Devido à sua alta polaridade e capacidade de fazer ligações de hidrogênio, a água dissolve sais, ácidos, bases e muitos compostos orgânicos (como açúcar)."
+        },
+        {
+            "question": "Na preparação de um 'soro caseiro' no posto de saúde, mistura-se sal e açúcar em água. A água atua como:",
+            "options": [
+                "Soluto",
+                "Precipitado",
+                "Corpo de fundo",
+                "Solvente"
+            ],
+            "answer": "Solvente",
+            "explanation": "O solvente é a substância que dissolve (água). Os materiais que são dissolvidos (sal e açúcar) são os solutos."
+        },
+        {
+            "question": "Se você adicionar açúcar em um copo com água até que ele não dissolva mais e vá para o fundo (corpo de chão), dizemos que a solução está:",
+            "options": [
+                "Insaturada",
+                "Saturada com corpo de fundo",
+                "Diluída",
+                "Homogênea total"
+            ],
+            "answer": "Saturada com corpo de fundo",
+            "explanation": "O limite de solubilidade foi atingido. O que passa do limite não dissolve e decanta para o fundo."
+        },
+        {
+            "question": "1 Mol de qualquer substância contém um número gigantesco de partículas (átomos ou moléculas). Esse número é conhecido como Constante de Avogadro e vale aproximadamente:",
+            "options": [
+                "6,02 x 10^10",
+                "6,02 x 10^23",
+                "3,14 x 10^8",
+                "1,6 x 10^-19"
+            ],
+            "answer": "6,02 x 10^23",
+            "explanation": "A unidade 'Mol' é a 'dúzia' dos químicos, usada para contar trilhões de átomos de uma só vez."
+        },
+        {
+            "question": "A reação de combustão da gasolina no motor de um carro libera muito calor para o ambiente. Na termoquímica, reações que liberam calor são chamadas de:",
+            "options": [
+                "Endotérmicas",
+                "Isotérmicas",
+                "Exotérmicas",
+                "Catalíticas"
+            ],
+            "answer": "Exotérmicas",
+            "explanation": "'Exo' significa para fora. A entalpia final é menor que a inicial, pois houve liberação de energia."
+        },
+        {
+            "question": "Ao aplicar álcool na pele, sentimos um 'geladinho' pois o álcool absorve calor do nosso corpo para poder evaporar. Esse processo de absorver calor é:",
+            "options": [
+                "Exotérmico",
+                "Endotérmico",
+                "Atermico",
+                "Nuclear"
+            ],
+            "answer": "Endotérmico",
+            "explanation": "'Endo' significa para dentro. O sistema precisa receber energia (calor) do ambiente para acontecer."
+        },
+        {
+            "question": "Em Cinética Química, como se chama a substância que é adicionada a uma reação para acelerar sua velocidade (diminuindo a energia de ativação), sem ser consumida?",
+            "options": [
+                "Inibidor",
+                "Catalisador",
+                "Soluto",
+                "Tampão"
+            ],
+            "answer": "Catalisador",
+            "explanation": "Catalisadores aumentam a velocidade da reação criando um 'atalho' mais fácil (menor energia de ativação). As enzimas são nossos catalisadores biológicos."
+        },
+        {
+            "question": "Por que guardar alimentos na geladeira faz com que eles demorem mais para estragar?",
+            "options": [
+                "A temperatura baixa acelera as bactérias.",
+                "A temperatura baixa não afeta a reação.",
+                "A diminuição da temperatura reduz a velocidade das reações químicas de decomposição.",
+                "A geladeira cria um vácuo nos alimentos."
+            ],
+            "answer": "A diminuição da temperatura reduz a velocidade das reações químicas de decomposição.",
+            "explanation": "Temperatura é um fator cinético. Menos calor = menos colisões entre moléculas = reações (como apodrecimento) mais lentas."
+        },
+        {
+            "question": "O que queima mais rápido: um pedaço de madeira maciça ou essa mesma madeira em formato de pequenas serragens?",
+            "options": [
+                "A madeira maciça, pois é mais forte.",
+                "A serragem, pois possui maior superfície de contato com o oxigênio.",
+                "Queimam no mesmo tempo exato.",
+                "Nenhuma delas queima."
+            ],
+            "answer": "A serragem, pois possui maior superfície de contato com o oxigênio.",
+            "explanation": "Quanto maior a superfície de contato, mais rápida é a reação química."
+        },
+        {
+            "question": "No estudo do Equilíbrio Químico, o Princípio de Le Chatelier diz que quando um sistema em equilíbrio sofre uma perturbação externa (pressão, temperatura), o sistema:",
+            "options": [
+                "Para de reagir.",
+                "Sofre uma explosão termonuclear.",
+                "Desloca o equilíbrio para minimizar ou anular a perturbação imposta.",
+                "Muda seu número de prótons."
+            ],
+            "answer": "Desloca o equilíbrio para minimizar ou anular a perturbação imposta.",
+            "explanation": "Se você adiciona mais reagente, o sistema acelera para consumir o excesso formando produto, buscando novo equilíbrio."
+        },
+        {
+            "question": "A Eletroquímica estuda as Pilhas (Baterias). Em uma pilha de limão, cobre e zinco, ocorre a produção de corrente elétrica através de uma reação de:",
+            "options": [
+                "Neutralização de ácido",
+                "Oxirredução (transferência de elétrons) espontânea",
+                "Ebulição da água",
+                "Fusão nuclear"
+            ],
+            "answer": "Oxirredução (transferência de elétrons) espontânea",
+            "explanation": "Um metal sofre oxidação (perde elétrons - Ânodo) e o outro sofre redução (ganha elétrons - Cátodo), gerando energia elétrica."
+        },
+        {
+            "question": "Enquanto a Pilha é um processo espontâneo que gera energia, a Eletrólise (usada para folhear joias a ouro ou isolar alumínio) é um processo:",
+            "options": [
+                "Natural e sem custos.",
+                "Não espontâneo, que gasta energia elétrica externa para forçar uma reação química a ocorrer.",
+                "Exclusivo de substâncias gasosas.",
+                "Que produz água pura."
+            ],
+            "answer": "Não espontâneo, que gasta energia elétrica externa para forçar uma reação química a ocorrer.",
+            "explanation": "Na eletrólise, você liga na tomada para forçar a reação ao contrário."
+        },
+        {
+            "question": "Os fenômenos radioativos ocorrem devido à instabilidade de qual parte do átomo?",
+            "options": [
+                "Da eletrosfera.",
+                "Do núcleo atômico (excesso de prótons e nêutrons).",
+                "Das ligações iônicas.",
+                "Dos orbitais moleculares."
+            ],
+            "answer": "Do núcleo atômico (excesso de prótons e nêutrons).",
+            "explanation": "A radioatividade é a emissão de partículas e ondas (alfa, beta, gama) de um núcleo instável buscando estabilidade."
+        },
+        {
+            "question": "Marie Curie ganhou Prêmios Nobel descobrindo elementos radioativos. Qual das radiações abaixo é a mais penetrante e perigosa ao ser humano, exigindo paredes de chumbo para bloqueá-la?",
+            "options": [
+                "Partícula Alfa",
+                "Partícula Beta",
+                "Radiação Gama",
+                "Ondas de rádio"
+            ],
+            "answer": "Radiação Gama",
+            "explanation": "A radiação gama é uma onda eletromagnética de altíssima energia, sem massa ou carga, muito letal e penetrante."
+        },
+        {
+            "question": "O tempo necessário para que metade da massa de uma amostra de isótopo radioativo (como o Carbono-14) decaia e se transforme, é conhecido como:",
+            "options": [
+                "Tempo de meia-vida (ou Período de semidesintegração).",
+                "Ciclo atômico de Krebs.",
+                "Velocidade média.",
+                "Tempo de fusão."
+            ],
+            "answer": "Tempo de meia-vida (ou Período de semidesintegração).",
+            "explanation": "O Carbono-14 é usado para datar múmias e fósseis sabendo-se sua meia-vida de cerca de 5730 anos."
+        },
+        {
+            "question": "A usina nuclear de Angra dos Reis gera energia limpa em relação ao carbono, mas gera qual grande problema ambiental?",
+            "options": [
+                "Chuva ácida extrema.",
+                "Buraco na Camada de Ozônio imediato.",
+                "Lixo radioativo (resíduos que continuam perigosos por milhares de anos).",
+                "Emissão maciça de CO2."
+            ],
+            "answer": "Lixo radioativo (resíduos que continuam perigosos por milhares de anos).",
+            "explanation": "O descarte seguro das pastilhas de urânio enriquecido usadas é o maior desafio logístico e ambiental da energia nuclear."
+        },
+        {
+            "question": "O químico Friedrich Wöhler derrubou a 'Teoria da Força Vital' em 1828 ao sintetizar a ureia no laboratório. Qual é o elemento principal e essencial de todos os compostos da Química Orgânica?",
+            "options": [
+                "Enxofre",
+                "Oxigênio",
+                "Hidrogênio",
+                "Carbono"
+            ],
+            "answer": "Carbono",
+            "explanation": "A Química Orgânica é fundamentalmente o estudo dos compostos de Carbono."
+        },
+        {
+            "question": "O Carbono é um elemento especial que possui a incrível capacidade de se ligar a outros carbonos, formando grandes estruturas como grafite, DNA e plásticos. Essa capacidade chama-se:",
+            "options": [
+                "Formação de cadeias carbônicas.",
+                "Ionização",
+                "Eletrólise",
+                "Sublimação"
+            ],
+            "answer": "Formação de cadeias carbônicas.",
+            "explanation": "Postulado de Kekulé: O carbono é tetravalente e pode se ligar a si mesmo formando cadeias curtas ou infinitas."
+        },
+        {
+            "question": "O gás natural, o gás de cozinha (GLP) e a gasolina são misturas de compostos orgânicos formados exclusivamente por átomos de Carbono e Hidrogênio. Qual é a função orgânica deles?",
+            "options": [
+                "Álcoois",
+                "Hidrocarbonetos",
+                "Ácidos carboxílicos",
+                "Cetonas"
+            ],
+            "answer": "Hidrocarbonetos",
+            "explanation": "Os Hidrocarbonetos são a base dos combustíveis fósseis (petróleo, carvão, gás natural)."
+        },
+        {
+            "question": "A molécula do Benzeno (C6H6), encontrada no petróleo e causadora de câncer, possui uma cadeia fechada (cíclica) com 6 carbonos e ligações duplas alternadas. Ele é o principal representante dos:",
+            "options": [
+                "Hidrocarbonetos Alifáticos",
+                "Hidrocarbonetos Aromáticos",
+                "Álcoois primários",
+                "Fenóis"
+            ],
+            "answer": "Hidrocarbonetos Aromáticos",
+            "explanation": "O anel benzênico é a base da química orgânica aromática, sofrendo o fenômeno da ressonância de elétrons."
+        },
+        {
+            "question": "O combustível orgânico produzido em abundância nos engenhos de Pernambuco a partir da fermentação do caldo da cana-de-açúcar é o:",
+            "options": [
+                "Metanol",
+                "Etanol (Álcool etílico)",
+                "Diesel",
+                "Gás metano"
+            ],
+            "answer": "Etanol (Álcool etílico)",
+            "explanation": "O Etanol possui 2 carbonos ('Et') e a hidroxila (OH) típica da função Álcool. É um biocombustível renovável."
+        },
+        {
+            "question": "A cachaça e o vinho contêm álcool etílico. Já o formol (usado para conservar cadáveres e em escovas progressivas ilegais) pertence a qual função oxigenada orgânica, caracterizada pelo grupo Carbonila na ponta?",
+            "options": [
+                "Álcool",
+                "Aldeído",
+                "Éster",
+                "Amina"
+            ],
+            "answer": "Aldeído",
+            "explanation": "O metanal (nome comercial: formol) é o aldeído mais simples, altamente tóxico."
+        },
+        {
+            "question": "A acetona, muito usada pelas manicures para remover esmalte de unhas, tem a carbonila (C=O) entre dois carbonos. Ela é o principal exemplo da função química das:",
+            "options": [
+                "Cetonas",
+                "Ácidos",
+                "Éteres",
+                "Amidas"
+            ],
+            "answer": "Cetonas",
+            "explanation": "A propanona (acetona) é o solvente mais famoso do grupo orgânico das Cetonas."
+        },
+        {
+            "question": "O vinagre, usado nas saladas, tem gosto azedo porque possui cerca de 4% de Ácido Acético (Ácido Etanoico). A presença do grupo Carboxila (-COOH) classifica-o na função:",
+            "options": [
+                "Aldeído",
+                "Ácido Carboxílico",
+                "Éter",
+                "Fenol"
+            ],
+            "answer": "Ácido Carboxílico",
+            "explanation": "A função Ácido Carboxílico engloba os ácidos orgânicos fracos presentes em frutas e temperos."
+        },
+        {
+            "question": "Sabe aquele cheirinho artificial agradável de morango na bala, ou de abacaxi no chiclete? Esses aromas sintéticos na indústria de alimentos são criados pela função oxigenada:",
+            "options": [
+                "Éster (Flavorizantes/Essências)",
+                "Álcool",
+                "Hidrocarboneto",
+                "Cetona"
+            ],
+            "answer": "Éster (Flavorizantes/Essências)",
+            "explanation": "Os Ésteres são produzidos pela reação entre um ácido carboxílico e um álcool, resultando em aromas florais ou frutados."
+        },
+        {
+            "question": "Os aminoácidos, proteínas do nosso corpo, a cafeína do café e a anilina (corante) possuem em sua estrutura o elemento Nitrogênio. O grupo (R-NH2) derivado da amônia forma a função:",
+            "options": [
+                "Éter",
+                "Amina",
+                "Álcool",
+                "Haleto orgânico"
+            ],
+            "answer": "Amina",
+            "explanation": "As aminas são bases orgânicas nitrogenadas muito comuns em alcaloides e medicamentos."
+        },
+        {
+            "question": "Dois compostos orgânicos diferentes podem ter exatamente a MESMA FÓRMULA MOLECULAR (ex: C2H6O), mas estruturas físicas e químicas totalmente diferentes (um é Álcool e outro é Éter). Esse fenômeno genético da química é a:",
+            "options": [
+                "Combustão",
+                "Isotopia",
+                "Isomeria",
+                "Destilação"
+            ],
+            "answer": "Isomeria",
+            "explanation": "Isômeros têm a mesma fórmula geral, mas átomos 'montados' em ordens ou geometrias espaciais diferentes."
+        },
+        {
+            "question": "Os Plásticos (PET da garrafa, PVC do encanamento, Polietileno das sacolinhas) são macromoléculas formadas pela união de milhares de pequenas moléculas idênticas (monômeros). O nome correto dessas estruturas gigantes é:",
+            "options": [
+                "Polímeros",
+                "Isótopos",
+                "Ácidos inorgânicos",
+                "Bases metálicas"
+            ],
+            "answer": "Polímeros",
+            "explanation": "Poli = muitos; Meros = partes. São cadeias orgânicas gigantes feitas sinteticamente pela indústria petroquímica."
+        },
+        {
+            "question": "Qual fenômeno destruidor da Camada de Ozônio (O3) no Polo Sul, causado pelo uso de sprays aerossóis antigos e compressores de geladeira, levou à proibição global do gás CFC (Clorofluorcarboneto)?",
+            "options": [
+                "A quebra do ozônio por átomos de cloro na estratosfera, deixando passar raios UV que causam câncer de pele.",
+                "O aumento do gás oxigênio livre.",
+                "O cheiro ruim do gás.",
+                "O derretimento do Polo Norte por calor direto do spray."
+            ],
+            "answer": "A quebra do ozônio por átomos de cloro na estratosfera, deixando passar raios UV que causam câncer de pele.",
+            "explanation": "O Protocolo de Montreal baniu os CFCs com sucesso mundial, ajudando a fechar o buraco na camada de ozônio."
+        },
+        {
+            "question": "O petróleo bruto não serve para ser usado direto no carro. Ele chega na refinaria e é separado em frações úteis (gás GLP, gasolina, querosene de aviação, asfalto). O processo que separa o petróleo é a:",
+            "options": [
+                "Decantação a frio",
+                "Centrifugação química",
+                "Destilação Fracionada (na torre térmica)",
+                "Evaporação salina"
+            ],
+            "answer": "Destilação Fracionada (na torre térmica)",
+            "explanation": "Pela diferença nos pontos de ebulição, os hidrocarbonetos menores e mais leves sobem como gás, e os mais pesados (piche) ficam no fundo da torre."
+        },
+        {
+            "question": "A saponificação é a reação histórica para produzir sabão (ainda feita no interior nordestino). Para fazer sabão em barra, mistura-se sebo de boi (ou óleo velho) com qual reagente inorgânico cáustico?",
+            "options": [
+                "Ácido Sulfúrico",
+                "Hidróxido de Sódio (Soda Cáustica)",
+                "Sal de Cozinha",
+                "Água Oxigenada"
+            ],
+            "answer": "Hidróxido de Sódio (Soda Cáustica)",
+            "explanation": "A reação de um lipídio (éster) com uma base forte forma um sal orgânico de ácido graxo, que é o nosso sabão de limpeza."
+        }
+    ]
+}

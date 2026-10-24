@@ -1,0 +1,884 @@
+{
+    "geografia": [
+        {
+            "question": "Pernambuco possui uma divisão regional muito clara. O município de Trindade, famoso por ser parte do Polo Gesseiro, fica localizado em qual mesorregião?",
+            "options": [
+                "Zona da Mata",
+                "Agreste",
+                "Sertão",
+                "Região Metropolitana"
+            ],
+            "answer": "Sertão",
+            "explanation": "Trindade, assim como Araripina e Ouricuri, compõe o Polo Gesseiro do Araripe, situado na mesorregião do Sertão pernambucano."
+        },
+        {
+            "question": "A cidade de Petrolina, no sertão pernambucano, é um grande destaque econômico nacional. Qual é a principal atividade econômica que impulsiona essa cidade?",
+            "options": [
+                "Mineração de ouro",
+                "Fruticultura irrigada",
+                "Extração de petróleo",
+                "Indústria automobilística"
+            ],
+            "answer": "Fruticultura irrigada",
+            "explanation": "Graças às águas do Rio São Francisco, Petrolina (junto com Juazeiro-BA) tornou-se um polo exportador de frutas (uva, manga) em pleno semiárido."
+        },
+        {
+            "question": "A Zona da Mata nordestina é a sub-região mais populosa e industrializada. Qual foi o principal produto agrícola cultivado lá desde o período colonial, moldando sua história?",
+            "options": [
+                "Soja",
+                "Cana-de-açúcar",
+                "Café",
+                "Algodão"
+            ],
+            "answer": "Cana-de-açúcar",
+            "explanation": "A Zona da Mata tem solo fértil (massapê) e clima úmido, sendo o berço dos engenhos de açúcar desde o Brasil Colônia."
+        },
+        {
+            "question": "O Agreste pernambucano, onde se localiza Caruaru, é caracterizado geograficamente como:",
+            "options": [
+                "Uma área de clima equatorial e floresta densa.",
+                "A região mais seca do Nordeste, dominada pela caatinga arbórea.",
+                "Uma faixa de transição climática entre a úmida Zona da Mata e o Sertão seco.",
+                "Uma área exclusivamente costeira voltada ao turismo."
+            ],
+            "answer": "Uma faixa de transição climática entre a úmida Zona da Mata e o Sertão seco.",
+            "explanation": "O Agreste funciona como uma área de transição (ecótono), apresentando características tanto do litoral úmido quanto do sertão seco."
+        },
+        {
+            "question": "O relevo pernambucano conta com uma importante formação que funciona como barreira natural, impedindo que a umidade do oceano chegue ao Sertão. Qual é essa formação?",
+            "options": [
+                "Chapada dos Guimarães",
+                "Planalto da Borborema",
+                "Serra do Mar",
+                "Pico da Neblina"
+            ],
+            "answer": "Planalto da Borborema",
+            "explanation": "O Planalto da Borborema atua como uma barreira orográfica. Os ventos úmidos batem nele, chovem na Zona da Mata, e o ar chega seco ao Sertão."
+        },
+        {
+            "question": "O Porto de Suape, em Ipojuca, é um dos principais motores econômicos de Pernambuco moderno. Ele é classificado como um:",
+            "options": [
+                "Pequeno porto pesqueiro municipal.",
+                "Complexo Industrial Portuário.",
+                "Porto fluvial usado apenas para turismo.",
+                "Base militar marinha restrita."
+            ],
+            "answer": "Complexo Industrial Portuário.",
+            "explanation": "Suape não é apenas um porto, mas um enorme complexo que abriga indústrias petroquímicas, refinarias, estaleiros e montadoras."
+        },
+        {
+            "question": "A Transposição do Rio São Francisco foi uma obra gigantesca para o Nordeste. Seu objetivo principal foi:",
+            "options": [
+                "Criar uma hidrovia para navios de cruzeiro.",
+                "Desviar toda a água do rio para o Sudeste do Brasil.",
+                "Levar água (segurança hídrica) para as bacias hidrográficas menores do Sertão semiárido.",
+                "Gerar mais energia elétrica para a Argentina."
+            ],
+            "answer": "Levar água (segurança hídrica) para as bacias hidrográficas menores do Sertão semiárido.",
+            "explanation": "A obra construiu canais (eixos Norte e Leste) para levar água às regiões que sofrem com secas severas no PE, CE, PB e RN."
+        },
+        {
+            "question": "A vegetação nativa predominante no Sertão pernambucano, adaptada à falta de água, é a:",
+            "options": [
+                "Mata Atlântica",
+                "Caatinga",
+                "Floresta Amazônica",
+                "Araucária"
+            ],
+            "answer": "Caatinga",
+            "explanation": "A Caatinga ('mata branca') é um bioma exclusivamente brasileiro, formado por plantas xerófilas (como cactos e arbustos espinhosos) adaptadas à seca."
+        },
+        {
+            "question": "O clima predominante no Sertão nordestino, caracterizado por chuvas escassas e mal distribuídas durante o ano, é o:",
+            "options": [
+                "Equatorial",
+                "Tropical Úmido",
+                "Semiárido",
+                "Subtropical"
+            ],
+            "answer": "Semiárido",
+            "explanation": "O clima semiárido brasileiro tem longos períodos de estiagem (seca) e altas temperaturas o ano inteiro."
+        },
+        {
+            "question": "Qual fenômeno climático, que ocorre no Oceano Pacífico, costuma agravar a seca no Nordeste brasileiro quando está ativo?",
+            "options": [
+                "La Niña",
+                "El Niño",
+                "Furacão Katrina",
+                "Inversão Térmica"
+            ],
+            "answer": "El Niño",
+            "explanation": "O El Niño (aquecimento anormal das águas do Pacífico) muda a circulação de ventos globais, diminuindo as chuvas no Nordeste do Brasil."
+        },
+        {
+            "question": "O arquipélago de Fernando de Noronha, pertencente a Pernambuco, atrai turistas do mundo todo. Qual é a origem geológica dessas ilhas?",
+            "options": [
+                "Vulcânica",
+                "Coralínea",
+                "Fluvial",
+                "Glacial (derretimento de gelo)"
+            ],
+            "answer": "Vulcânica",
+            "explanation": "Fernando de Noronha é o topo de uma gigantesca cadeia de montanhas vulcânicas submersas no Oceano Atlântico."
+        },
+        {
+            "question": "A região metropolitana do Recife possui ecossistemas costeiros fundamentais que servem de berçário para a vida marinha e inspiraram o Manguebeat. Estamos falando dos:",
+            "options": [
+                "Cerrados",
+                "Pampas",
+                "Manguezais",
+                "Pântanos de altitude"
+            ],
+            "answer": "Manguezais",
+            "explanation": "Os manguezais são áreas alagadiças de transição entre a terra e o mar, muito presentes nos rios Capibaribe e Beberibe."
+        },
+        {
+            "question": "No Brasil, fala-se muito na 'Indústria da Seca'. O que esse termo crítico na Geografia nordestina significa?",
+            "options": [
+                "Fábricas de ventiladores e ar-condicionados instaladas no Nordeste.",
+                "O aproveitamento político e desvio de verbas públicas que deveriam combater a seca, beneficiando grandes fazendeiros.",
+                "A produção de água mineral engarrafada.",
+                "O turismo voltado para visitar terras secas."
+            ],
+            "answer": "O aproveitamento político e desvio de verbas públicas que deveriam combater a seca, beneficiando grandes fazendeiros.",
+            "explanation": "Historicamente, o termo critica como políticos usavam a calamidade da seca para conseguir verbas, que acabavam beneficiando poucos coronéis."
+        },
+        {
+            "question": "O Rio Capibaribe é um dos mais famosos de Pernambuco. Ele nasce no interior e deságua no Oceano Atlântico cruzando qual grande cidade?",
+            "options": [
+                "Caruaru",
+                "Petrolina",
+                "Recife",
+                "Garanhuns"
+            ],
+            "answer": "Recife",
+            "explanation": "O Capibaribe corta a capital pernambucana, sendo fundamental para a história, urbanização e cultura (poesia) do Recife."
+        },
+        {
+            "question": "Nas últimas décadas, muitos pernambucanos que moravam em São Paulo voltaram para suas cidades de origem. A geografia chama isso de:",
+            "options": [
+                "Êxodo Rural",
+                "Migração de Retorno",
+                "Transumância",
+                "Imigração Internacional"
+            ],
+            "answer": "Migração de Retorno",
+            "explanation": "Com o aumento do custo de vida no Sudeste e a melhoria de empregos e renda no Nordeste nos anos 2000, muitas pessoas voltaram para seus estados natais."
+        },
+        {
+            "question": "O que caracteriza o processo de 'Conurbação', muito visível na Região Metropolitana do Recife (Recife, Olinda, Jaboatão)?",
+            "options": [
+                "O isolamento das cidades por quilômetros de matas.",
+                "O encontro e a junção da área urbana de dois ou mais municípios vizinhos.",
+                "O abandono dos centros urbanos antigos.",
+                "A destruição de cidades por fenômenos naturais."
+            ],
+            "answer": "O encontro e a junção da área urbana de dois ou mais municípios vizinhos.",
+            "explanation": "A conurbação ocorre quando o crescimento horizontal das cidades faz com que suas manchas urbanas se misturem, sem limite visual claro."
+        },
+        {
+            "question": "A faixa de transição entre a Floresta Amazônica e a Caatinga, presente no Meio-Norte (Maranhão e Piauí) e famosa pelas palmeiras (babaçu e carnaúba), chama-se:",
+            "options": [
+                "Mata de Cocais",
+                "Pampa",
+                "Pantanal",
+                "Mata de Araucárias"
+            ],
+            "answer": "Mata de Cocais",
+            "explanation": "A Mata de Cocais é uma zona de transição riquíssima para a economia do extrativismo vegetal local."
+        },
+        {
+            "question": "Qual é a cidade do Agreste pernambucano, cortada pelo Rio Ipojuca, conhecida como a 'Capital do Forró' e dona da maior feira ao ar livre do mundo?",
+            "options": [
+                "Salgueiro",
+                "Arcoverde",
+                "Caruaru",
+                "Santa Cruz do Capibaribe"
+            ],
+            "answer": "Caruaru",
+            "explanation": "Caruaru é um forte centro comercial e cultural, funcionando como polo de serviços no Agreste."
+        },
+        {
+            "question": "Como se chama o tipo de solo muito escuro e extremamente fértil, encontrado na Zona da Mata nordestina, que favoreceu o plantio da cana-de-açúcar?",
+            "options": [
+                "Terra Roxa",
+                "Solo de Várzea",
+                "Massapê",
+                "Latossolo"
+            ],
+            "answer": "Massapê",
+            "explanation": "O massapê é argiloso, escuro e muito rico em matéria orgânica, sendo ideal para a cana."
+        },
+        {
+            "question": "A bacia hidrográfica do rio São Francisco abrange diversos estados. Em Pernambuco, ele serve de fronteira natural com qual outro estado?",
+            "options": [
+                "Paraíba",
+                "Ceará",
+                "Bahia",
+                "Alagoas"
+            ],
+            "answer": "Bahia",
+            "explanation": "O rio São Francisco banha cidades importantes como Petrolina (PE) e Juazeiro (BA), separando os dois estados nessa região."
+        },
+        {
+            "question": "As linhas imaginárias horizontais que circundam a Terra, paralelas à Linha do Equador, são chamadas de:",
+            "options": [
+                "Meridianos",
+                "Paralelos (Latitudes)",
+                "Trópicos de fuso",
+                "Zonas polares"
+            ],
+            "answer": "Paralelos (Latitudes)",
+            "explanation": "Os paralelos medem a Latitude (de 0º a 90º Norte ou Sul), sendo fundamentais para determinar o clima."
+        },
+        {
+            "question": "Devido à sua extensão territorial no sentido leste-oeste, o Brasil possui quantos fusos horários oficiais atualmente?",
+            "options": [
+                "1",
+                "2",
+                "3",
+                "4"
+            ],
+            "answer": "4",
+            "explanation": "O Brasil possui quatro fusos horários: Fernando de Noronha, Horário de Brasília, Manaus/MT/MS, e o Acre/Sudoeste do AM."
+        },
+        {
+            "question": "O movimento de translação da Terra ao redor do Sol, aliado à inclinação do eixo terrestre, é responsável por gerar:",
+            "options": [
+                "Os dias e as noites.",
+                "O fenômeno das marés.",
+                "As estações do ano (Primavera, Verão, Outono, Inverno).",
+                "A força da gravidade."
+            ],
+            "answer": "As estações do ano (Primavera, Verão, Outono, Inverno).",
+            "explanation": "Durante o ano, a iluminação do Sol incide de maneira diferente nos hemisférios, criando as estações."
+        },
+        {
+            "question": "A Teoria da Deriva Continental explica que há milhões de anos havia um único supercontinente no planeta. Qual era o seu nome?",
+            "options": [
+                "Atlântida",
+                "Pangeia",
+                "Gondwana",
+                "Laurásia"
+            ],
+            "answer": "Pangeia",
+            "explanation": "A Pangeia era a massa única de terras emersas, que depois se fragmentou devido ao movimento das placas tectônicas."
+        },
+        {
+            "question": "Por que tremores de terra graves (grandes terremotos) são raríssimos no Brasil?",
+            "options": [
+                "Porque não existem rochas no subsolo brasileiro.",
+                "Porque o clima quente derrete o magma.",
+                "Porque o Brasil está no centro da Placa Tectônica Sul-Americana, longe das bordas.",
+                "Porque a Linha do Equador anula as vibrações sismológicas."
+            ],
+            "answer": "Porque o Brasil está no centro da Placa Tectônica Sul-Americana, longe das bordas.",
+            "explanation": "Geralmente, vulcões e grandes terremotos ocorrem nas bordas (limites) das placas tectônicas. O Brasil fica confortavelmente no meio da placa."
+        },
+        {
+            "question": "O Cerrado, o segundo maior bioma do Brasil, é famoso pelas suas árvores de casca grossa e galhos retorcidos. Ele é considerado a 'caixa d'água do Brasil' porque:",
+            "options": [
+                "Chove o ano inteiro sem parar.",
+                "Sua umidade vem exclusivamente do mar.",
+                "Nele nascem as principais bacias hidrográficas do país (como São Francisco, Tocantins-Araguaia e Paraná).",
+                "Possui o solo mais úmido do planeta, parecendo um pântano."
+            ],
+            "answer": "Nele nascem as principais bacias hidrográficas do país (como São Francisco, Tocantins-Araguaia e Paraná).",
+            "explanation": "Devido ao seu planalto central, o cerrado distribui água para várias das maiores bacias do país, graças às raízes profundas de suas plantas que absorvem água do subsolo."
+        },
+        {
+            "question": "O bioma Pantanal, localizado em Mato Grosso e Mato Grosso do Sul, caracteriza-se principalmente por ser:",
+            "options": [
+                "Uma região de altas montanhas e picos com neve.",
+                "A maior planície inundável do mundo.",
+                "Um deserto de areia.",
+                "Uma floresta de pinheiros (Araucárias)."
+            ],
+            "answer": "A maior planície inundável do mundo.",
+            "explanation": "Durante o período de chuvas, os rios transbordam e alagam grande parte da planície pantaneira, garantindo uma biodiversidade única."
+        },
+        {
+            "question": "A Mata Atlântica é um dos biomas mais ricos em biodiversidade, mas também o mais ameaçado do Brasil. Por que isso ocorreu?",
+            "options": [
+                "Foi destruída por vulcões nativos.",
+                "Sua vegetação morreu devido à seca extrema.",
+                "Foi onde se deu quase toda a colonização, urbanização, ciclos econômicos (cana, café) e industrialização do Brasil.",
+                "O governo proibiu o plantio de árvores no litoral."
+            ],
+            "answer": "Foi onde se deu quase toda a colonização, urbanização, ciclos econômicos (cana, café) e industrialização do Brasil.",
+            "explanation": "Restam menos de 12% da cobertura original da Mata Atlântica, pois ela ocupava exatamente a faixa litorânea onde o país se desenvolveu."
+        },
+        {
+            "question": "O Aquífero Guarani é um gigantesco reservatório de água doce subterrânea localizado na região:",
+            "options": [
+                "Centro-Sul do Brasil e países do Mercosul.",
+                "Exclusivamente no Nordeste do Brasil.",
+                "Sob a Cordilheira dos Andes.",
+                "Sob o deserto do Saara."
+            ],
+            "answer": "Centro-Sul do Brasil e países do Mercosul.",
+            "explanation": "Espalha-se por SP, PR, SC, RS, MS, GO, além do Uruguai, Argentina e Paraguai."
+        },
+        {
+            "question": "A concentração de poluentes no inverno de grandes cidades, onde uma camada de ar frio aprisiona a poluição perto do solo, chama-se:",
+            "options": [
+                "Chuva ácida",
+                "Inversão térmica",
+                "Ilha de calor",
+                "El Niño"
+            ],
+            "answer": "Inversão térmica",
+            "explanation": "É um fenômeno natural onde o ar frio (mais pesado) fica embaixo e o ar quente fica em cima, dificultando a dispersão da poluição nas metrópoles."
+        },
+        {
+            "question": "O 'Efeito Estufa' é frequentemente citado de forma negativa, mas na Geografia física sabemos que ele é:",
+            "options": [
+                "Uma mentira criada por indústrias.",
+                "Um fenômeno natural vital que retém calor e mantém a Terra aquecida para haver vida.",
+                "O resfriamento extremo do planeta no inverno.",
+                "Causado apenas pelo uso do petróleo."
+            ],
+            "answer": "Um fenômeno natural vital que retém calor e mantém a Terra aquecida para haver vida.",
+            "explanation": "O problema não é o efeito estufa em si (que é natural), mas a sua *intensificação* (Aquecimento Global) causada pela ação humana (gases poluentes)."
+        },
+        {
+            "question": "Centros urbanos pavimentados (muito asfalto e concreto) e com poucos parques costumam ser mais quentes que as áreas rurais vizinhas. Esse fenômeno é chamado de:",
+            "options": [
+                "Aquecimento Global",
+                "Inversão Térmica",
+                "Ilha de Calor",
+                "Ciclone Extratropical"
+            ],
+            "answer": "Ilha de Calor",
+            "explanation": "O concreto e o asfalto absorvem muito calor, gerando microclimas mais quentes no centro das grandes cidades."
+        },
+        {
+            "question": "Qual é a origem da 'Chuva Ácida'?",
+            "options": [
+                "O contato da chuva com a água salgada do mar.",
+                "Vapores vulcânicos misturados exclusivamente com neve.",
+                "A queima de combustíveis fósseis (indústrias e carros) que liberam enxofre e nitrogênio, reagindo com a água na atmosfera.",
+                "Plantas venenosas liberando pólen."
+            ],
+            "answer": "A queima de combustíveis fósseis (indústrias e carros) que liberam enxofre e nitrogênio, reagindo com a água na atmosfera.",
+            "explanation": "A chuva ácida corrói monumentos, acidifica rios e mata vegetações, sendo comum em regiões muito industrializadas."
+        },
+        {
+            "question": "Quando uma massa de ar quente se encontra com uma massa de ar frio, ocorre condensação e precipitação. Esse tipo de chuva, muito comum na região sul, é a:",
+            "options": [
+                "Chuva Orográfica (de relevo)",
+                "Chuva Frontal",
+                "Chuva Convectiva (de verão)",
+                "Chuva Ácida"
+            ],
+            "answer": "Chuva Frontal",
+            "explanation": "As chuvas frontais ocorrem no encontro ('frente') de duas massas de ar com temperaturas e pressões diferentes."
+        },
+        {
+            "question": "As chuvas fortes de final de tarde no verão, causadas pela intensa evaporação da água pelo calor ao longo do dia, são chamadas de chuvas:",
+            "options": [
+                "Frontais",
+                "Orográficas",
+                "Ácidas",
+                "Convectivas"
+            ],
+            "answer": "Convectivas",
+            "explanation": "O ar quente (leve) sobe com o vapor d'água, esfria rapidamente nas altas camadas e cai como chuva intensa e rápida."
+        },
+        {
+            "question": "Na escala cartográfica, qual escala apresenta o MAIOR grau de detalhamento das ruas de uma cidade?",
+            "options": [
+                "1 : 10.000",
+                "1 : 100.000",
+                "1 : 1.000.000",
+                "1 : 50.000.000"
+            ],
+            "answer": "1 : 10.000",
+            "explanation": "Quanto menor o denominador (o número depois dos dois pontos), MAIOR é a escala, ou seja, menos vezes a realidade foi reduzida, mostrando mais detalhes."
+        },
+        {
+            "question": "O Aquífero Alter do Chão (Sistema Aquífero Grande Amazônia) destaca-se por ser:",
+            "options": [
+                "O aquífero mais poluído do mundo.",
+                "Um aquífero de água salgada impróprio para uso.",
+                "O aquífero com o maior volume de água subterrânea do mundo, localizado na região Norte do Brasil.",
+                "Um pequeno poço artesiano paulista."
+            ],
+            "answer": "O aquífero com o maior volume de água subterrânea do mundo, localizado na região Norte do Brasil.",
+            "explanation": "Embora o Guarani seja mais extenso em área, estudos mostram que o Alter do Chão contém um volume de água absurdamente maior."
+        },
+        {
+            "question": "Os biomas conhecidos como 'Pampas', excelentes para a criação de gado devido às pastagens rasteiras e naturais, encontram-se predominantemente em qual estado brasileiro?",
+            "options": [
+                "Bahia",
+                "Mato Grosso",
+                "Rio Grande do Sul",
+                "Minas Gerais"
+            ],
+            "answer": "Rio Grande do Sul",
+            "explanation": "Os Pampas dominam a metade sul do RS, caracterizando-se por planícies gramíneas adequadas para a pecuária."
+        },
+        {
+            "question": "O desmatamento na Amazônia não afeta apenas a região Norte, mas também o regime de chuvas do Centro-Sul do Brasil. Isso se deve a um fenômeno climático conhecido como:",
+            "options": [
+                "Tornados de Fogo.",
+                "Rios Voadores.",
+                "Chuva Orográfica.",
+                "Ciclones Tropicais."
+            ],
+            "answer": "Rios Voadores.",
+            "explanation": "A umidade evaporada da floresta é empurrada pelos ventos, bate na Cordilheira dos Andes e desce para o Centro-Oeste/Sudeste/Sul em forma de chuva."
+        },
+        {
+            "question": "As Rochas Magmáticas (ou Ígneas) são formadas por qual processo geológico?",
+            "options": [
+                "Acúmulo de sedimentos de areia ao longo de milênios.",
+                "Aquecimento por pressão no fundo dos oceanos.",
+                "Resfriamento e solidificação do magma (lava) vindo do interior da Terra.",
+                "Fossilização de animais dinossauros."
+            ],
+            "answer": "Resfriamento e solidificação do magma (lava) vindo do interior da Terra.",
+            "explanation": "Como o granito e o basalto, as rochas ígneas nascem da lava vulcânica esfriada."
+        },
+        {
+            "question": "O que indica a 'Transição Demográfica' que o Brasil está vivendo atualmente?",
+            "options": [
+                "Um aumento descontrolado no número de filhos por mulher.",
+                "O aumento das taxas de mortalidade infantil.",
+                "A queda nas taxas de natalidade (menos nascimentos) e mortalidade, resultando no envelhecimento da população.",
+                "A imigração maciça de europeus."
+            ],
+            "answer": "A queda nas taxas de natalidade (menos nascimentos) e mortalidade, resultando no envelhecimento da população.",
+            "explanation": "O brasileiro vive mais (melhoria médica) e tem menos filhos (inserção da mulher no mercado, anticoncepcionais)."
+        },
+        {
+            "question": "Numa Pirâmide Etária, a 'base' representa os jovens/crianças e o 'topo' os idosos. Se a base do gráfico está diminuindo ano a ano, conclui-se que:",
+            "options": [
+                "A expectativa de vida despencou.",
+                "A taxa de natalidade (nascimentos) está em declínio.",
+                "A população está fugindo do país.",
+                "O país é subdesenvolvido e miserável."
+            ],
+            "answer": "A taxa de natalidade (nascimentos) está em declínio.",
+            "explanation": "Menos crianças nascendo resulta em uma base mais estreita da pirâmide."
+        },
+        {
+            "question": "A diferença entre um país 'Populoso' e um país 'Povoado' é que:",
+            "options": [
+                "Populoso tem idosos; Povoado tem jovens.",
+                "Populoso tem grande população absoluta; Povoado tem alta densidade demográfica (hab/km²).",
+                "Ambos significam exatamente a mesma coisa.",
+                "Populoso refere-se à cidade; Povoado refere-se ao campo."
+            ],
+            "answer": "Populoso tem grande população absoluta; Povoado tem alta densidade demográfica (hab/km²).",
+            "explanation": "O Brasil é populoso (203 milhões de pessoas), mas pouco povoado (cerca de 23 hab/km²), pois é enorme e tem vazios como a Amazônia."
+        },
+        {
+            "question": "O fenômeno do 'Êxodo Rural' no Brasil teve seu ápice entre as décadas de 1960 e 1980. Qual foi o seu principal impulsionador?",
+            "options": [
+                "A construção de shoppings no campo.",
+                "A distribuição de terras gratuitas pela reforma agrária.",
+                "A mecanização do campo (substituindo mão de obra humana) e a industrialização das cidades.",
+                "A proibição de morar em fazendas."
+            ],
+            "answer": "A mecanização do campo (substituindo mão de obra humana) e a industrialização das cidades.",
+            "explanation": "Máquinas agrícolas desempregaram camponeses, enquanto as fábricas nas cidades ofereciam a ilusão de emprego."
+        },
+        {
+            "question": "No processo de urbanização do Brasil, ocorreu a 'Macrocefalia Urbana'. O que isso quer dizer?",
+            "options": [
+                "Cidades projetadas perfeitamente, como Brasília.",
+                "O inchaço desordenado das grandes metrópoles pela chegada rápida de migrantes, gerando problemas de infraestrutura (favelas, trânsito).",
+                "O processo de arborização das ruas centrais.",
+                "A transferência de indústrias para o exterior."
+            ],
+            "answer": "O inchaço desordenado das grandes metrópoles pela chegada rápida de migrantes, gerando problemas de infraestrutura (favelas, trânsito).",
+            "explanation": "Crescer muito rápido sem planejamento cria falta de hospitais, moradia (favelização), saneamento e mobilidade."
+        },
+        {
+            "question": "Uma 'Megalópole' é caracterizada por:",
+            "options": [
+                "Uma cidade com mais de 10 milhões de habitantes.",
+                "Uma vila isolada no interior do país.",
+                "A junção de duas ou mais metrópoles (conurbação de regiões metropolitanas), como no eixo Rio de Janeiro-São Paulo.",
+                "A capital política exclusiva de uma nação."
+            ],
+            "answer": "A junção de duas ou mais metrópoles (conurbação de regiões metropolitanas), como no eixo Rio de Janeiro-São Paulo.",
+            "explanation": "Megalópole refere-se à forte integração física e econômica de metrópoles globais ou nacionais contíguas."
+        },
+        {
+            "question": "O conceito de 'Segregação Sócioespacial' nas grandes cidades refere-se a:",
+            "options": [
+                "Pessoas de classes ricas e pobres dividindo os mesmos prédios.",
+                "A separação física das classes sociais, onde os mais pobres ocupam áreas de risco (periferias, morros) sem infraestrutura, enquanto os ricos vivem em condomínios bem servidos.",
+                "A divisão da cidade apenas por bairros comerciais e industriais.",
+                "Construção de ciclovias em toda a cidade."
+            ],
+            "answer": "A separação física das classes sociais, onde os mais pobres ocupam áreas de risco (periferias, morros) sem infraestrutura, enquanto os ricos vivem em condomínios bem servidos.",
+            "explanation": "Reflete a desigualdade social estampada na geografia urbana e no acesso a serviços básicos."
+        },
+        {
+            "question": "Atualmente, a maior parte da População Economicamente Ativa (PEA) e o PIB do Brasil estão concentrados no Setor Terciário. O que compõe esse setor?",
+            "options": [
+                "Agricultura e pecuária.",
+                "Indústrias e fábricas.",
+                "Comércio e prestação de serviços (escolas, hospitais, aplicativos, turismo).",
+                "Mineração e extrativismo."
+            ],
+            "answer": "Comércio e prestação de serviços (escolas, hospitais, aplicativos, turismo).",
+            "explanation": "A economia brasileira sofreu uma forte 'terceirização', com a maioria dos empregos concentrados em comércios e serviços urbanos."
+        },
+        {
+            "question": "O que foi a 'Revolução Verde' na agricultura a partir das décadas de 1960/70?",
+            "options": [
+                "O plantio de maconha legalizado globalmente.",
+                "Um pacote de inovações tecnológicas (agrotóxicos, sementes modificadas, tratores) que aumentou muito a produção agrícola, mas concentrou terras e gerou danos ambientais.",
+                "O abandono de produtos químicos em prol da agricultura orgânica.",
+                "A troca de pastos por florestas virgens."
+            ],
+            "answer": "Um pacote de inovações tecnológicas (agrotóxicos, sementes modificadas, tratores) que aumentou muito a produção agrícola, mas concentrou terras e gerou danos ambientais.",
+            "explanation": "Ela modernizou o campo para erradicar a fome mundial (o que não ocorreu totalmente), mas excluiu os pequenos agricultores."
+        },
+        {
+            "question": "O Agronegócio brasileiro é uma potência mundial (especialmente em soja, carne e milho). Contudo, a agricultura familiar é extremamente importante porque:",
+            "options": [
+                "É a que mais exporta para a China.",
+                "É responsável por produzir a maior parte dos alimentos que chegam à mesa do brasileiro no dia a dia (feijão, mandioca, hortaliças).",
+                "Utiliza os maiores tratores do mundo.",
+                "Não paga impostos ao governo."
+            ],
+            "answer": "É responsável por produzir a maior parte dos alimentos que chegam à mesa do brasileiro no dia a dia (feijão, mandioca, hortaliças).",
+            "explanation": "Enquanto o agronegócio produz commodities para exportação, os pequenos agricultores familiares abastecem o mercado interno de comida real."
+        },
+        {
+            "question": "O termo 'Concentração Fundiária' no Brasil significa:",
+            "options": [
+                "A divisão igualitária da terra para todos os agricultores.",
+                "Muitas terras nas mãos de poucos proprietários rurais (latifundiários), gerando conflitos no campo.",
+                "O agrupamento de indústrias numa mesma rua.",
+                "A concentração de minerais no solo do Nordeste."
+            ],
+            "answer": "Muitas terras nas mãos de poucos proprietários rurais (latifundiários), gerando conflitos no campo.",
+            "explanation": "Historicamente (desde as sesmarias), a terra no Brasil é mal distribuída, o que motiva lutas por Reforma Agrária."
+        },
+        {
+            "question": "A partir dos anos 1990, ocorreu no Brasil a 'Desconcentração Industrial'. Isso significa que:",
+            "options": [
+                "As indústrias deixaram a Grande São Paulo e o Sudeste, migrando para o interior e para outras regiões (como o Nordeste) em busca de incentivos fiscais e mão de obra barata.",
+                "Todas as indústrias faliram e fecharam as portas.",
+                "As fábricas do mundo inteiro vieram para uma única cidade brasileira.",
+                "As indústrias voltaram ao trabalho artesanal em vez de máquinas."
+            ],
+            "answer": "As indústrias deixaram a Grande São Paulo e o Sudeste, migrando para o interior e para outras regiões (como o Nordeste) em busca de incentivos fiscais e mão de obra barata.",
+            "explanation": "A famosa 'Guerra Fiscal' fez estados de outras regiões atraírem indústrias oferecendo terrenos e isenção de impostos."
+        },
+        {
+            "question": "O processo histórico de industrialização brasileira sob Getúlio Vargas (década de 1930) teve como modelo a chamada:",
+            "options": [
+                "Industrialização Clássica Inglesa.",
+                "Substituição de Importações (produzir aqui o que antes se comprava de fora).",
+                "Plataforma de Exportação (vender tudo baratinho para fora).",
+                "Desindustrialização Agrícola."
+            ],
+            "answer": "Substituição de Importações (produzir aqui o que antes se comprava de fora).",
+            "explanation": "Devido às crises mundiais, o Brasil teve que criar suas próprias indústrias de base (como a CSN e a Petrobras mais tarde) para não depender de bens estrangeiros."
+        },
+        {
+            "question": "A 'Obsolescência Programada' é uma estratégia do sistema capitalista que afeta diretamente o meio ambiente e a sociedade. Ela consiste em:",
+            "options": [
+                "Criar leis para preservar a natureza a longo prazo.",
+                "Fabricar produtos (como celulares e eletrodomésticos) projetados para quebrarem ou ficarem defasados rapidamente, forçando o consumidor a comprar um novo.",
+                "Incentivar a reciclagem contínua dos produtos velhos.",
+                "Vender produtos vitalícios e que nunca estragam."
+            ],
+            "answer": "Fabricar produtos (como celulares e eletrodomésticos) projetados para quebrarem ou ficarem defasados rapidamente, forçando o consumidor a comprar um novo.",
+            "explanation": "Essa prática acelera o consumismo, aumentando a geração de lixo eletrônico (e-waste) e o esgotamento dos recursos naturais."
+        },
+        {
+            "question": "A hierarquia urbana brasileira define a influência de uma cidade sobre as outras. Qual é a classificação da cidade de São Paulo nesse sistema?",
+            "options": [
+                "Centro Local",
+                "Capital Regional",
+                "Metrópole Global (ou Grande Metrópole Nacional)",
+                "Centro Sub-regional"
+            ],
+            "answer": "Metrópole Global (ou Grande Metrópole Nacional)",
+            "explanation": "SP centraliza decisões econômicas do Brasil inteiro e conecta o país à economia global."
+        },
+        {
+            "question": "O termo 'Gentrificação' em Geografia Urbana descreve:",
+            "options": [
+                "A distribuição gratuita de casas populares no centro da cidade.",
+                "O processo de revitalização de bairros centrais antigos, tornando-os caros, o que expulsa a população pobre original para as periferias.",
+                "A transformação de avenidas em calçadões de pedestres apenas.",
+                "A invasão de terrenos rurais por indústrias."
+            ],
+            "answer": "O processo de revitalização de bairros centrais antigos, tornando-os caros, o que expulsa a população pobre original para as periferias.",
+            "explanation": "Quando um bairro é 'embelezado', os aluguéis e os impostos sobem, expulsando os moradores antigos de baixa renda ('ennobrecimento urbano')."
+        },
+        {
+            "question": "Qual bioma costeiro do litoral brasileiro é formado por dunas, falésias, lagoas, restingas e, devido ao turismo desenfreado, sofre constante ameaça de destruição?",
+            "options": [
+                "Cerrado",
+                "Caatinga",
+                "Ambientes Costeiros (Restingas e Manguezais)",
+                "Araucária"
+            ],
+            "answer": "Ambientes Costeiros (Restingas e Manguezais)",
+            "explanation": "Eles estabilizam as praias. A ocupação imobiliária irregular e calçadões destroem essas áreas litorâneas frágeis."
+        },
+        {
+            "question": "No mapa demográfico do Brasil, a população está concentrada majoritariamente em qual porção do território?",
+            "options": [
+                "Na Região Norte profunda.",
+                "No extremo Oeste perto dos Andes.",
+                "Na faixa litorânea oriental (Nordeste, Sudeste e Sul).",
+                "Distribuída perfeitamente e igual por todo o país."
+            ],
+            "answer": "Na faixa litorânea oriental (Nordeste, Sudeste e Sul).",
+            "explanation": "Devido à herança colonial da economia exportadora, as maiores capitais e a maioria da população continuam próximas à costa atlântica."
+        },
+        {
+            "question": "A mortalidade infantil, taxa fundamental para medir o desenvolvimento de uma nação, calcula a morte de crianças no primeiro ano de vida a cada mil nascidos vivos. No Brasil, qual investimento foi essencial para a queda dessa taxa nas últimas décadas?",
+            "options": [
+                "Construção de presídios",
+                "Campanhas de vacinação, saneamento básico e acompanhamento médico (SUS/Saúde da Família)",
+                "Corte de gastos em postos de saúde",
+                "Distribuição de remédios controlados nas escolas"
+            ],
+            "answer": "Campanhas de vacinação, saneamento básico e acompanhamento médico (SUS/Saúde da Família)",
+            "explanation": "Água tratada, esgoto, vacinas, e pré-natal via SUS foram os responsáveis diretos pela sobrevivência dos recém-nascidos."
+        },
+        {
+            "question": "O desemprego 'Estrutural' difere do desemprego 'Conjuntural'. O estrutural ocorre quando:",
+            "options": [
+                "Há uma crise passageira e a economia para temporariamente.",
+                "O trabalhador entra de férias não remuneradas.",
+                "O posto de trabalho é extinto para sempre pela chegada de novas tecnologias, robôs ou aplicativos, exigindo que o trabalhador mude de profissão.",
+                "Uma empresa fecha aos finais de semana."
+            ],
+            "answer": "O posto de trabalho é extinto para sempre pela chegada de novas tecnologias, robôs ou aplicativos, exigindo que o trabalhador mude de profissão.",
+            "explanation": "Como bancários substituídos por caixas eletrônicos/apps e cobradores por catracas eletrônicas."
+        },
+        {
+            "question": "O termo 'Aldeia Global', criado pelo sociólogo Marshall McLuhan, faz referência ao fenômeno em que:",
+            "options": [
+                "O mundo inteiro regrediu a viver em ocas sem tecnologia.",
+                "Os avanços nas comunicações e redes (internet) encurtaram distâncias, interligando pessoas de todo o mundo como se vivessem numa pequena aldeia.",
+                "Uma tribo indígena isolada dominou a tecnologia mundial.",
+                "O encerramento do comércio internacional."
+            ],
+            "answer": "Os avanços nas comunicações e redes (internet) encurtaram distâncias, interligando pessoas de todo o mundo como se vivessem numa pequena aldeia.",
+            "explanation": "É a essência da globalização da informação, onde uma notícia do outro lado do mundo chega a você em segundos."
+        },
+        {
+            "question": "O Mercado Comum do Sul (Mercosul) é o principal bloco econômico do qual o Brasil faz parte. Qual é o seu nível atual de integração?",
+            "options": [
+                "União Econômica e Monetária (possuem moeda única, igual ao Euro).",
+                "Zona de Livre Comércio apenas.",
+                "União Aduaneira Imperfeita (Tarifa Externa Comum).",
+                "Acordo Bilateral de Segurança."
+            ],
+            "answer": "União Aduaneira Imperfeita (Tarifa Externa Comum).",
+            "explanation": "Além do livre comércio entre si, eles estabelecem uma tarifa comum para cobrar de produtos de fora do bloco."
+        },
+        {
+            "question": "A União Europeia (UE) é o bloco econômico mais avançado do planeta. Qual de suas conquistas facilita a vida de cidadãos e turistas na Europa?",
+            "options": [
+                "A proibição de viagens de avião entre os países.",
+                "A criação do 'Espaço Schengen', permitindo a livre circulação de pessoas sem controle de passaporte nas fronteiras internas.",
+                "O isolamento militar em relação ao mundo.",
+                "A adoção do Dólar como moeda oficial."
+            ],
+            "answer": "A criação do 'Espaço Schengen', permitindo a livre circulação de pessoas sem controle de passaporte nas fronteiras internas.",
+            "explanation": "O acordo permite que você cruze as fronteiras terrestres entre países europeus assinantes como se fosse a fronteira de um estado para outro."
+        },
+        {
+            "question": "O BRICS não é um bloco econômico formal, mas uma aliança política e econômica de potências emergentes. Quais países formam originalmente a sigla BRICS?",
+            "options": [
+                "Bélgica, Rússia, Itália, Canadá, Suíça",
+                "Brasil, Rússia, Índia, China, África do Sul",
+                "Bolívia, Romênia, Irã, Colômbia, Somália",
+                "Brasil, Reino Unido, Indonésia, Chile, Suécia"
+            ],
+            "answer": "Brasil, Rússia, Índia, China, África do Sul",
+            "explanation": "Brasil, Russia, India, China, and South Africa (Adicionada em 2011). Juntos, criaram o 'Novo Banco de Desenvolvimento'."
+        },
+        {
+            "question": "A Nova Ordem Mundial, surgida após o fim da Guerra Fria (1991), é classificada como 'Multipolar' no aspecto econômico. Por quê?",
+            "options": [
+                "Porque só os Estados Unidos mandam no mundo.",
+                "Porque o poder financeiro está diluído entre várias potências, como EUA, União Europeia, China e Japão.",
+                "Porque os polos Norte e Sul controlam a economia.",
+                "Porque não há mais dinheiro circulando no globo."
+            ],
+            "answer": "Porque o poder financeiro está diluído entre várias potências, como EUA, União Europeia, China e Japão.",
+            "explanation": "Diferente da bipolaridade da Guerra Fria (EUA x URSS), hoje a economia global tem múltiplos centros decisórios fortes."
+        },
+        {
+            "question": "O Conselho de Segurança da ONU é o órgão mais poderoso da entidade, responsável por manter a paz ou autorizar guerras. Ele é composto por 5 membros permanentes que possuem o 'Poder de Veto'. Quais são eles?",
+            "options": [
+                "Brasil, Índia, Alemanha, Japão, EUA",
+                "EUA, Rússia, China, França, Reino Unido",
+                "EUA, Israel, Canadá, Austrália, Itália",
+                "Espanha, Portugal, Brasil, México, Argentina"
+            ],
+            "answer": "EUA, Rússia, China, França, Reino Unido",
+            "explanation": "Eles foram os países vencedores/chave da Segunda Guerra Mundial. Qualquer um dos cinco pode vetar (barrar) sozinho uma resolução de paz global."
+        },
+        {
+            "question": "O conflito histórico entre Israel e Palestina, localizado no Oriente Médio, é motivado, além de fatores religiosos, principalmente pela disputa de:",
+            "options": [
+                "Jazidas de ouro",
+                "Rotas de navegação no Oceano Atlântico",
+                "Território soberano e direito à autodeterminação na região histórica da Palestina",
+                "Exportação de automóveis asiáticos"
+            ],
+            "answer": "Território soberano e direito à autodeterminação na região histórica da Palestina",
+            "explanation": "Ambos os povos reivindicam a posse da mesma terra (especialmente Jerusalém) baseados em fatores históricos e religiosos."
+        },
+        {
+            "question": "A Primavera Árabe, ocorrida a partir de 2010 no Oriente Médio e Norte da África, foi um conjunto de manifestações populares que buscava:",
+            "options": [
+                "Derrubar ditaduras duradouras e exigir mais democracia, empregos e liberdade, fortemente mobilizadas pelas redes sociais.",
+                "Impor o comunismo na África.",
+                "Apoiar ditadores que controlavam a mídia tradicional.",
+                "Defender a exportação de petróleo para o Brasil."
+            ],
+            "answer": "Derrubar ditaduras duradouras e exigir mais democracia, empregos e liberdade, fortemente mobilizadas pelas redes sociais.",
+            "explanation": "Iniciado na Tunísia, derrubou governantes no Egito, Líbia, mas gerou guerras civis severas, como a da Síria."
+        },
+        {
+            "question": "O 'Brexit' foi um evento de enorme relevância na geopolítica europeia recente. O que foi o Brexit?",
+            "options": [
+                "A entrada do Reino Unido no Mercosul.",
+                "A saída oficial do Reino Unido da União Europeia (aprovada por plebiscito em 2016).",
+                "A criação de uma nova moeda para a Inglaterra.",
+                "O fechamento do Canal da Mancha por piratas."
+            ],
+            "answer": "A saída oficial do Reino Unido da União Europeia (aprovada por plebiscito em 2016).",
+            "explanation": "Motivada por nacionalismo, controle de fronteiras e migração, o Reino Unido deixou de seguir as regras econômicas e sociais do bloco europeu."
+        },
+        {
+            "question": "A aversão, ódio, medo ou preconceito contra imigrantes e estrangeiros, crescente em países da Europa e EUA, é denominada na Geografia Política de:",
+            "options": [
+                "Homofobia",
+                "Xenofobia",
+                "Eugenia",
+                "Aporofobia"
+            ],
+            "answer": "Xenofobia",
+            "explanation": "Movimentos de extrema direita frequentemente usam o discurso xenofóbico culpando os imigrantes pelo desemprego e crimes."
+        },
+        {
+            "question": "Coreia do Sul, Taiwan, Cingapura e Hong Kong receberam, na década de 1980, um apelido na economia mundial devido ao seu acelerado, agressivo e planejado crescimento industrial e tecnológico, focados na exportação. Que apelido é esse?",
+            "options": [
+                "Dragões de Fogo",
+                "Tigres Asiáticos",
+                "Leões do Oriente",
+                "Elefantes Brancos"
+            ],
+            "answer": "Tigres Asiáticos",
+            "explanation": "Eles focaram em forte investimento em educação básica, infraestrutura portuária e mão de obra disciplinada para produzir e exportar tecnologia para o mundo."
+        },
+        {
+            "question": "O modelo econômico adotado pela China nas últimas décadas (que a tornou a 2ª maior economia mundial) é frequentemente chamado pelos estudiosos de:",
+            "options": [
+                "Capitalismo de Estado (ou Socialismo de Mercado)",
+                "Anarcocapitalismo Puro",
+                "Mercantilismo Feudal",
+                "Comunismo Primitivo Autossuficiente"
+            ],
+            "answer": "Capitalismo de Estado (ou Socialismo de Mercado)",
+            "explanation": "A China mantém um governo rígido do Partido Comunista (política fechada), mas abriu suas Zonas Econômicas Especiais (ZEEs) para o capitalismo internacional e empresas estrangeiras."
+        },
+        {
+            "question": "Os países desenvolvidos do Hemisfério Norte frequentemente transferem suas fábricas poluentes e que exigem muita mão de obra braçal para países em desenvolvimento do Sul. Na Geografia Econômica, isso reflete a:",
+            "options": [
+                "Nova DIT (Divisão Internacional do Trabalho)",
+                "Aliança para o Progresso",
+                "Sustentabilidade",
+                "Guerra Fria"
+            ],
+            "answer": "Nova DIT (Divisão Internacional do Trabalho)",
+            "explanation": "A sede (cérebro e lucro da empresa) fica nos EUA/Europa (vendendo tecnologia), e a montagem (braçal/poluente) vai para a Ásia, México e Brasil."
+        },
+        {
+            "question": "A Matriz Elétrica brasileira é muito elogiada no exterior. Por que ela é considerada uma das melhores do mundo?",
+            "options": [
+                "Porque 100% dela vem de usinas termonucleares radioativas.",
+                "Porque a maior parte da nossa eletricidade é gerada por fontes limpas e renováveis, majoritariamente Hidrelétricas, seguidas por Eólica e Solar.",
+                "Porque dependemos totalmente de carvão mineral.",
+                "Porque compramos toda nossa energia da Bolívia."
+            ],
+            "answer": "Porque a maior parte da nossa eletricidade é gerada por fontes limpas e renováveis, majoritariamente Hidrelétricas, seguidas por Eólica e Solar.",
+            "explanation": "Enquanto a média global gera muita luz queimando carvão e petróleo (poluente), a base brasileira é construída por hidrelétricas (água)."
+        },
+        {
+            "question": "O Acordo de Paris, assinado em 2015 por dezenas de nações, é um compromisso diplomático focado em resolver qual problema global?",
+            "options": [
+                "Desarmamento nuclear total.",
+                "O aumento das tarifas de importação de mercadorias.",
+                "O combate às mudanças climáticas, comprometendo-se a reduzir a emissão de gases do Efeito Estufa e limitar o aumento da temperatura do planeta.",
+                "Fim das fronteiras mundiais."
+            ],
+            "answer": "O combate às mudanças climáticas, comprometendo-se a reduzir a emissão de gases do Efeito Estufa e limitar o aumento da temperatura do planeta.",
+            "explanation": "Ele visa manter o aquecimento global abaixo de 2ºC em relação aos níveis pré-industriais."
+        },
+        {
+            "question": "A Globalização possui um lado perverso. Segundo o grande geógrafo brasileiro Milton Santos, a globalização atual atua como uma 'fábula' e como 'perversidade', porque:",
+            "options": [
+                "Apenas inventa mentiras, não existindo economia real.",
+                "Promove o enriquecimento imediato de todos os pobres.",
+                "Une os continentes, mas exclui e marginaliza as nações periféricas e as classes pobres, aumentando a desigualdade de acesso.",
+                "Ela só acontece na imaginação das pessoas lendo livros."
+            ],
+            "answer": "Une os continentes, mas exclui e marginaliza as nações periféricas e as classes pobres, aumentando a desigualdade de acesso.",
+            "explanation": "Milton Santos criticava a globalização capitalista, onde a tecnologia chega para poucos e a pobreza extrema persiste em locais sem acesso."
+        },
+        {
+            "question": "Como se chama o fenômeno geopolítico atual em que milhares de cidadãos venezuelanos atravessam a fronteira para o estado de Roraima (Brasil) fugindo de fome, instabilidade política e inflação?",
+            "options": [
+                "Turismo de aventura",
+                "Crise humanitária de migração / Refugiados",
+                "Migração de retorno",
+                "Intercâmbio comercial"
+            ],
+            "answer": "Crise humanitária de migração / Refugiados",
+            "explanation": "A crise na Venezuela gerou uma diáspora maciça. Muitos países vizinhos absorveram o fluxo de refugiados buscando sobrevivência."
+        },
+        {
+            "question": "Atualmente, qual país se destaca como a principal superpotência militar e cultural, espalhando seus hábitos de consumo (filmes, fast-food, marcas de roupas) por todo o globo?",
+            "options": [
+                "França",
+                "China",
+                "Rússia",
+                "Estados Unidos da América (EUA)"
+            ],
+            "answer": "Estados Unidos da América (EUA)",
+            "explanation": "O 'American Way of Life' (jeito americano de viver) e o poder brando (soft power - Hollywood, tecnologia, música) tornaram os EUA uma potência cultural global inquestionável."
+        },
+        {
+            "question": "As FARC (Forças Armadas Revolucionárias da Colômbia) atuaram por décadas, gerando instabilidade na fronteira amazônica. Em 2016, ocorreu um fato importante sobre elas:",
+            "options": [
+                "Conseguiram tomar o poder e governam a Colômbia ditatorialmente.",
+                "Assinaram um Acordo de Paz histórico com o governo colombiano, encerrando as atividades de guerrilha armada e virando partido político.",
+                "Invadiram o estado do Amazonas no Brasil.",
+                "Tornaram-se os líderes oficiais da ONU."
+            ],
+            "answer": "Assinaram um Acordo de Paz histórico com o governo colombiano, encerrando as atividades de guerrilha armada e virando partido político.",
+            "explanation": "Após meio século de guerra sangrenta ligada ao narcotráfico, o governo e as FARC assinaram a paz (embora dissidências menores ainda existam)."
+        },
+        {
+            "question": "A OMC (Organização Mundial do Comércio) tem como objetivo e atuação:",
+            "options": [
+                "Fiscalizar se todos os navios usam energia solar.",
+                "Produzir armas e vendê-las em blocos.",
+                "Regular as regras comerciais entre as nações, promovendo o livre comércio e julgando disputas para evitar guerras comerciais.",
+                "Distribuição de comida gratuita no continente africano."
+            ],
+            "answer": "Regular as regras comerciais entre as nações, promovendo o livre comércio e julgando disputas para evitar guerras comerciais.",
+            "explanation": "A OMC atua como árbitro quando países, por exemplo, aumentam injustamente taxas contra produtos exportados (ex: EUA vs China, ou Brasil vs EUA no caso do algodão)."
+        }
+    ]
+}

@@ -1,0 +1,1104 @@
+{
+    "filosofia": [
+        {
+            "question": "A Filosofia ocidental nasceu na Grécia Antiga, por volta do século VI a.C. Qual foi o principal motivo que marcou a passagem do pensamento Mítico para o pensamento Filosófico?",
+            "options": [
+                "A vontade de criar novos deuses gregos.",
+                "A transição da explicação do mundo baseada em lendas e deuses (mitos) para uma explicação baseada na razão, na observação e na lógica (logos).",
+                "O surgimento de livros impressos.",
+                "A proibição de cultos religiosos."
+            ],
+            "answer": "A transição da explicação do mundo baseada em lendas e deuses (mitos) para uma explicação baseada na razão, na observação e na lógica (logos).",
+            "explanation": "A filosofia busca o 'Logos' (razão), abandonando o sobrenatural para explicar o universo por vias naturais e lógicas."
+        },
+        {
+            "question": "Os primeiros filósofos são chamados de Pré-Socráticos ou Filósofos da Natureza. O que eles buscavam investigar?",
+            "options": [
+                "A política de Atenas.",
+                "A ética do comportamento humano.",
+                "A Arché (o princípio fundamental ou substância original de onde tudo no universo deriva).",
+                "O funcionamento da mente e a psicologia."
+            ],
+            "answer": "A Arché (o princípio fundamental ou substância original de onde tudo no universo deriva).",
+            "explanation": "Eles tentavam descobrir a substância primordial (physis). Para Tales de Mileto, por exemplo, a Arché era a 'água'."
+        },
+        {
+            "question": "O filósofo pré-socrático Heráclito de Éfeso ficou conhecido pela frase 'Você não pode entrar duas vezes no mesmo rio'. O que ele queria dizer com isso?",
+            "options": [
+                "Que a água do rio estava suja.",
+                "Que tudo no universo está em constante movimento, mudança e transformação (o devir).",
+                "Que rios secam rapidamente no verão.",
+                "Que o universo é fixo, estático e nunca muda."
+            ],
+            "answer": "Que tudo no universo está em constante movimento, mudança e transformação (o devir).",
+            "explanation": "Para Heráclito, a única constante do universo é a mudança. As águas do rio de ontem já correram e você também já é outra pessoa hoje."
+        },
+        {
+            "question": "Em oposição a Heráclito, o filósofo Parmênides defendia que:",
+            "options": [
+                "O movimento é uma ilusão dos nossos sentidos, e a verdadeira essência do 'Ser' é imóvel, eterna e imutável.",
+                "O fogo era a origem de tudo.",
+                "Os números moldam o universo.",
+                "A mudança é a lei absoluta da física."
+            ],
+            "answer": "O movimento é uma ilusão dos nossos sentidos, e a verdadeira essência do 'Ser' é imóvel, eterna e imutável.",
+            "explanation": "Parmênides dizia que 'o ser é e o não-ser não é'. A mudança implicaria que algo deixou de ser, o que para ele era ilógico."
+        },
+        {
+            "question": "Pitágoras, um dos pré-socráticos mais famosos, acreditava que o princípio de todas as coisas (Arché) estava na Matemática. Qual era a sua tese?",
+            "options": [
+                "Apenas a geometria das pedras importa.",
+                "Tudo é formado de água.",
+                "A essência e a harmonia do universo baseiam-se em relações numéricas e proporções.",
+                "A matemática é uma ilusão dos deuses."
+            ],
+            "answer": "A essência e a harmonia do universo baseiam-se em relações numéricas e proporções.",
+            "explanation": "Os pitagóricos viam números e proporções matemáticas não só nas formas, mas na música e no movimento dos astros."
+        },
+        {
+            "question": "Demócrito propôs a teoria do Atomismo na Grécia Antiga. O que ele defendia?",
+            "options": [
+                "Que o universo era formado por água, terra, fogo e ar.",
+                "Que a matéria era formada por partículas minúsculas, indivisíveis e indestrutíveis chamadas 'átomos' (não-divisível).",
+                "Que a matéria era uma ilusão.",
+                "Que tudo derivava da união do quente com o frio."
+            ],
+            "answer": "Que a matéria era formada por partículas minúsculas, indivisíveis e indestrutíveis chamadas 'átomos' (não-divisível).",
+            "explanation": "Demócrito acreditava que ao dividir a matéria infinitamente, chegaríamos a uma partícula final que não poderia mais ser cortada."
+        },
+        {
+            "question": "A Pólis grega (cidade-Estado) foi fundamental para o desenvolvimento da filosofia, porque lá surgiu a Ágora. O que era a Ágora?",
+            "options": [
+                "O templo dos deuses no topo da montanha.",
+                "Uma arena de batalhas sangrentas de gladiadores.",
+                "A praça pública onde os cidadãos livres debatiam ideias, leis e política através do uso da palavra e da argumentação.",
+                "O porto principal para navios mercantes."
+            ],
+            "answer": "A praça pública onde os cidadãos livres debatiam ideias, leis e política através do uso da palavra e da argumentação.",
+            "explanation": "Na Ágora nasceram a democracia e a política modernas; lá, o poder da espada foi substituído pelo poder do convencimento."
+        },
+        {
+            "question": "Os Sofistas eram professores viajantes na Grécia Antiga que cobravam para ensinar a arte da Retórica. Por que Sócrates e Platão os criticavam duramente?",
+            "options": [
+                "Porque os sofistas não cobravam caro.",
+                "Porque eles não sabiam falar em público.",
+                "Porque os sofistas se importavam apenas em vencer debates e convencer a plateia usando argumentos relativistas, e não em buscar a 'Verdade' absoluta.",
+                "Porque eram estrangeiros violentos."
+            ],
+            "answer": "Porque os sofistas se importavam apenas em vencer debates e convencer a plateia usando argumentos relativistas, e não em buscar a 'Verdade' absoluta.",
+            "explanation": "Para os sofistas 'o homem é a medida de todas as coisas' (relativismo), mas para Platão a verdade e o bem deveriam ser absolutos."
+        },
+        {
+            "question": "Qual é a frase famosa do sofista Protágoras que resume o Relativismo Moral e do Conhecimento?",
+            "options": [
+                "Só sei que nada sei.",
+                "O homem é a medida de todas as coisas.",
+                "Penso, logo existo.",
+                "Deus está morto."
+            ],
+            "answer": "O homem é a medida de todas as coisas.",
+            "explanation": "Isso significa que a verdade depende da percepção e da época de cada um; não haveria verdade universal."
+        },
+        {
+            "question": "Ao estudar a Filosofia, dizemos que seu caráter principal é a 'Atitude Filosófica'. O que caracteriza essa atitude?",
+            "options": [
+                "Aceitar as tradições familiares sem questionar.",
+                "A dúvida, a crítica, o questionamento e o espanto (admiração) perante o óbvio e as certezas do dia a dia.",
+                "Decorar livros difíceis.",
+                "A busca por dinheiro."
+            ],
+            "answer": "A dúvida, a crítica, o questionamento e o espanto (admiração) perante o óbvio e as certezas do dia a dia.",
+            "explanation": "O filósofo age como uma criança que sempre pergunta o 'porquê', não se contentando com respostas prontas do senso comum."
+        },
+        {
+            "question": "Sócrates afirmava: 'Só sei que nada sei'. Qual é o principal significado filosófico desta frase?",
+            "options": [
+                "A ignorância plena sobre qualquer assunto mundano.",
+                "O reconhecimento das próprias limitações, que é o primeiro passo e condição essencial para iniciar a busca pelo verdadeiro conhecimento.",
+                "A preguiça intelectual de buscar novas informações.",
+                "A confirmação de que os deuses escondem a sabedoria."
+            ],
+            "answer": "O reconhecimento das próprias limitações, que é o primeiro passo e condição essencial para iniciar a busca pelo verdadeiro conhecimento.",
+            "explanation": "Quem acha que sabe tudo (como a elite ateniense achava) nunca aprende. A sabedoria socrática começa na humildade intelectual."
+        },
+        {
+            "question": "O método de ensino e de investigação de Sócrates, realizado através do diálogo na praça pública, era dividido em duas fases. Quais eram?",
+            "options": [
+                "Maiêutica e Dialética.",
+                "Ironia (desconstrução do falso saber) e Maiêutica (o parto das ideias verdadeiras do próprio indivíduo).",
+                "Dedução e Indução.",
+                "Silogismo e Lógica."
+            ],
+            "answer": "Ironia (desconstrução do falso saber) e Maiêutica (o parto das ideias verdadeiras do próprio indivíduo).",
+            "explanation": "Primeiro ele fazia o oponente cair em contradição (ironia). Depois, com novas perguntas, fazia-o 'dar à luz' um novo conceito real (maiêutica)."
+        },
+        {
+            "question": "A condenação de Sócrates à morte (bebendo cicuta) em Atenas ocorreu sob quais acusações oficiais?",
+            "options": [
+                "Roubo e assassinato de políticos locais.",
+                "Corromper a juventude de Atenas e não acreditar nos deuses oficiais da cidade.",
+                "Espionagem a favor de Esparta.",
+                "Rebelião armada."
+            ],
+            "answer": "Corromper a juventude de Atenas e não acreditar nos deuses oficiais da cidade.",
+            "explanation": "Ao fazer os jovens questionarem a moralidade, a tradição e os poderosos da época, Sócrates irritou a elite democrática ateniense."
+        },
+        {
+            "question": "Platão, o mais famoso discípulo de Sócrates, criou a Teoria das Ideias. Segundo ele, a realidade é dividida em dois mundos. Quais são?",
+            "options": [
+                "O Mundo da Água e o Mundo do Fogo.",
+                "O Céu e o Inferno bíblicos.",
+                "O Mundo Sensível (material, ilusório e imperfeito) e o Mundo Inteligível ou das Ideias (perfeito, eterno e imutável).",
+                "O Mundo Racional e o Mundo da Ciência."
+            ],
+            "answer": "O Mundo Sensível (material, ilusório e imperfeito) e o Mundo Inteligível ou das Ideias (perfeito, eterno e imutável).",
+            "explanation": "Para Platão, tudo o que tocamos aqui é uma cópia defeituosa de uma 'Ideia' perfeita que existe em outro plano acessível só pela razão."
+        },
+        {
+            "question": "O 'Mito da Caverna', escrito por Platão em seu livro 'A República', é uma alegoria que ilustra principalmente:",
+            "options": [
+                "Como as pessoas devem morar nas montanhas.",
+                "A libertação do homem das sombras da ignorância (Mundo Sensível) através da luz do conhecimento filosófico e racional (Mundo Inteligível).",
+                "Um guia turístico da Grécia.",
+                "Um mito religioso sobre o medo da noite."
+            ],
+            "answer": "A libertação do homem das sombras da ignorância (Mundo Sensível) através da luz do conhecimento filosófico e racional (Mundo Inteligível).",
+            "explanation": "Na alegoria, o prisioneiro que se liberta e vê o sol fora da caverna representa o filósofo que descobre a verdade."
+        },
+        {
+            "question": "Na teoria política de Platão (descrita em 'A República'), quem deveria governar a cidade ideal (Calípolis) para que ela fosse justa?",
+            "options": [
+                "Os militares e guerreiros mais fortes.",
+                "O povo, através da democracia direta.",
+                "Os comerciantes mais ricos (oligarquia).",
+                "O Filósofo-Rei, pois apenas os mais sábios conhecem a Ideia do Bem."
+            ],
+            "answer": "O Filósofo-Rei, pois apenas os mais sábios conhecem a Ideia do Bem.",
+            "explanation": "Platão era crítico da democracia ateniense (que matou Sócrates) e propunha uma 'Sofocracia', governo dos mais sábios."
+        },
+        {
+            "question": "Aristóteles, discípulo de Platão, discordou do seu mestre em um ponto fundamental sobre os dois mundos. Qual foi a principal crítica de Aristóteles?",
+            "options": [
+                "Aristóteles negava a existência dos deuses.",
+                "Aristóteles dizia que as Ideias não existiam em um mundo superior separado, mas que a essência e a forma estão 'dentro' das próprias coisas materiais aqui neste mundo.",
+                "Aristóteles preferia o relativismo dos sofistas.",
+                "Ele acreditava apenas na água como origem."
+            ],
+            "answer": "Aristóteles dizia que as Ideias não existiam em um mundo superior separado, mas que a essência e a forma estão 'dentro' das próprias coisas materiais aqui neste mundo.",
+            "explanation": "Ele rejeitou o dualismo de Platão, fundando o Hilemorfismo (matéria e forma andam juntas no mundo real)."
+        },
+        {
+            "question": "Na Física e Metafísica de Aristóteles, toda mudança ou movimento é a passagem da 'Potência' para o 'Ato'. O que significa 'Ato' e 'Potência'?",
+            "options": [
+                "Ato é magia; Potência é força.",
+                "Ato é a possibilidade de ser algo; Potência é a realização final.",
+                "Ato é a realidade atual da coisa (o que ela é agora); Potência é o que ela pode vir a ser no futuro (sua capacidade).",
+                "Ambos significam a mesma coisa na física."
+            ],
+            "answer": "Ato é a realidade atual da coisa (o que ela é agora); Potência é o que ela pode vir a ser no futuro (sua capacidade).",
+            "explanation": "Exemplo clássico: Uma semente é semente em 'Ato', mas é uma árvore em 'Potência'."
+        },
+        {
+            "question": "Para explicar por que as coisas existem, Aristóteles elaborou a Teoria das Quatro Causas. Quais são elas?",
+            "options": [
+                "Norte, Sul, Leste e Oeste.",
+                "Causa Material, Formal, Eficiente e Final.",
+                "Terra, Água, Fogo e Ar.",
+                "Infância, Juventude, Vida e Morte."
+            ],
+            "answer": "Causa Material, Formal, Eficiente e Final.",
+            "explanation": "Do que é feito (Material), o formato (Formal), quem fez (Eficiente) e o propósito/objetivo final (Final/Teleologia)."
+        },
+        {
+            "question": "Na Ética a Nicômaco, Aristóteles defende que o objetivo de toda ação humana é a busca da Eudaimonia. Qual é a tradução desse conceito?",
+            "options": [
+                "A dor e o sofrimento",
+                "O acúmulo de ouro",
+                "A Felicidade plena, alcançada através de uma vida virtuosa e equilibrada.",
+                "O poder político absoluto"
+            ],
+            "answer": "A Felicidade plena, alcançada através de uma vida virtuosa e equilibrada.",
+            "explanation": "Para Aristóteles, a felicidade não é dinheiro, mas sim o uso da razão e a prática da virtude na polis (sociedade)."
+        },
+        {
+            "question": "Para Aristóteles, a 'Virtude' (Justa Medida / Meio-Termo) é encontrada:",
+            "options": [
+                "No extremismo das paixões.",
+                "Na ausência de qualquer sentimento.",
+                "No equilíbrio entre o excesso e a falta (ex: a coragem é o meio-termo entre a covardia e a imprudência).",
+                "Na violência justificada."
+            ],
+            "answer": "No equilíbrio entre o excesso e a falta (ex: a coragem é o meio-termo entre a covardia e a imprudência).",
+            "explanation": "A vida moralmente boa é regida pela prudência (frónesis), evitando vícios de excesso ou deficiência."
+        },
+        {
+            "question": "Sobre a política, Aristóteles tem a famosa frase 'O homem é, por natureza, um animal político' (Zoon Politikon). O que ele quis dizer?",
+            "options": [
+                "Que todos os homens devem ser deputados.",
+                "Que o homem só se realiza plenamente como humano vivendo em sociedade (na polis), sendo o único capaz de debater sobre o bem e o mal.",
+                "Que homens se parecem com animais da selva no parlamento.",
+                "Que o homem gosta de votar desde a idade das cavernas."
+            ],
+            "answer": "Que o homem só se realiza plenamente como humano vivendo em sociedade (na polis), sendo o único capaz de debater sobre o bem e o mal.",
+            "explanation": "Viver isolado é agir contra a própria natureza racional humana. Quem vive fora da sociedade é ou um deus ou uma fera."
+        },
+        {
+            "question": "Na lógica aristotélica, o raciocínio dedutivo em que, a partir de duas premissas, chega-se a uma conclusão inevitável (ex: 'Todos os homens são mortais. Sócrates é homem. Logo, Sócrates é mortal') recebe o nome de:",
+            "options": [
+                "Dialética",
+                "Maiêutica",
+                "Sofisma",
+                "Silogismo"
+            ],
+            "answer": "Silogismo",
+            "explanation": "O Silogismo é a estrutura básica da Lógica Formal criada por Aristóteles."
+        },
+        {
+            "question": "O período Helenístico começou após o império de Alexandre, o Grande. Quais foram as três principais correntes filosóficas focadas na paz de espírito e na ética íntima desse período?",
+            "options": [
+                "Marxismo, Positivismo e Anarquismo",
+                "Cinismo, Estoicismo e Epicurismo",
+                "Pragmatismo, Racionalismo e Empirismo",
+                "Existencialismo, Fisiocracia e Contratualismo"
+            ],
+            "answer": "Cinismo, Estoicismo e Epicurismo",
+            "explanation": "Com o fim da polis democrática, a filosofia grega voltou-se para dentro, buscando a 'Ataraxia' (paz interior)."
+        },
+        {
+            "question": "O Estoicismo, muito popular hoje em dia e seguido pelo imperador romano Marco Aurélio, ensinava que a felicidade (Ataraxia) se atinge:",
+            "options": [
+                "Gastando muito dinheiro.",
+                "Desprezando as leis da natureza.",
+                "Aceitando racionalmente o destino (o que não podemos controlar) e dominando nossas próprias paixões e reações.",
+                "Buscando sempre a riqueza e a fama."
+            ],
+            "answer": "Aceitando racionalmente o destino (o que não podemos controlar) e dominando nossas próprias paixões e reações.",
+            "explanation": "O estóico foca sua energia apenas no que ele pode mudar: seus próprios sentimentos e atitudes perante a dor ou a glória."
+        },
+        {
+            "question": "Durante a Idade Média, a Filosofia foi muito influenciada pelo Cristianismo. O principal esforço dos filósofos medievais era conciliar dois conceitos aparentes opostos. Quais?",
+            "options": [
+                "A Fome e a Riqueza.",
+                "A Monarquia e a Democracia.",
+                "A Razão (Filosofia Grega) e a Fé (Dogmas da Igreja).",
+                "O Sol e a Lua."
+            ],
+            "answer": "A Razão (Filosofia Grega) e a Fé (Dogmas da Igreja).",
+            "explanation": "Eles tentavam usar os argumentos da filosofia grega para justificar racionalmente a existência de Deus."
+        },
+        {
+            "question": "Santo Agostinho (Patrística) foi fortemente influenciado por qual filósofo grego para formular a teologia cristã da alma e de Deus?",
+            "options": [
+                "Aristóteles",
+                "Epicuro",
+                "Sócrates",
+                "Platão"
+            ],
+            "answer": "Platão",
+            "explanation": "Agostinho adaptou a teoria do 'Mundo das Ideias' de Platão, convertendo-a no 'Mundo Divino' (a Cidade de Deus)."
+        },
+        {
+            "question": "No período da Escolástica (séc. XIII), São Tomás de Aquino usou a filosofia de outro pensador grego para criar as 'Cinco Vias' que provam racionalmente a existência de Deus. Quem foi esse pensador?",
+            "options": [
+                "Parmênides",
+                "Platão",
+                "Aristóteles",
+                "Heráclito"
+            ],
+            "answer": "Aristóteles",
+            "explanation": "Tomás de Aquino usou os conceitos aristotélicos de Ato/Potência e de 'Primeiro Motor Imóvel' para explicar a existência divina."
+        },
+        {
+            "question": "A passagem da Idade Média para a Idade Moderna trouxe a Revolução Científica. Nicolau Copérnico e Galileu Galilei defenderam o Heliocentrismo, que afirma que:",
+            "options": [
+                "A Terra é plana.",
+                "A Terra é o centro do universo (Geocentrismo).",
+                "O Sol é o centro do nosso sistema planetário, e a Terra gira em torno dele.",
+                "O sol orbita a Terra."
+            ],
+            "answer": "O Sol é o centro do nosso sistema planetário, e a Terra gira em torno dele.",
+            "explanation": "Essa teoria contrariava a Igreja Católica, levando Galileu a ser julgado pela Inquisição."
+        },
+        {
+            "question": "René Descartes é o fundador da Filosofia Moderna. Ele criou um método focado na dúvida metódica para encontrar uma verdade indubitável. Qual foi sua conclusão genial?",
+            "options": [
+                "O Sol gira em torno da Terra.",
+                "O corpo é imortal.",
+                "Penso, logo existo (Cogito ergo sum).",
+                "Eu não sei de nada."
+            ],
+            "answer": "Penso, logo existo (Cogito ergo sum).",
+            "explanation": "Descartes duvidou de tudo (dos sentidos, do mundo, até se estava sonhando), mas percebeu que não podia duvidar de que estava pensando. Se ele pensa, ele existe."
+        },
+        {
+            "question": "Descartes é o principal representante do Racionalismo. Essa corrente filosófica afirma que:",
+            "options": [
+                "O conhecimento verdadeiro só vem da experiência prática, através dos 5 sentidos.",
+                "A razão humana é a única fonte segura e confiável de obter conhecimento verdadeiro e ideias inatas, pois os sentidos nos enganam.",
+                "Deus escreve a verdade em pedras.",
+                "Não existe verdade no universo."
+            ],
+            "answer": "A razão humana é a única fonte segura e confiável de obter conhecimento verdadeiro e ideias inatas, pois os sentidos nos enganam.",
+            "explanation": "Para os racionalistas, a mente já possui estruturas lógicas inatas (matemática) antes mesmo de qualquer experiência."
+        },
+        {
+            "question": "Como principal opositor ao Racionalismo, o Empirismo inglês (de John Locke e David Hume) afirmava que o conhecimento humano tem origem exclusivamente na:",
+            "options": [
+                "Fé mística e revelação divina.",
+                "Ação dos deuses sobre a alma.",
+                "Razão pura antes do nascimento.",
+                "Experiência sensível (observação e os 5 sentidos)."
+            ],
+            "answer": "Experiência sensível (observação e os 5 sentidos).",
+            "explanation": "Para os empiristas, nós aprendemos tocando, vendo e testando. Não existem 'ideias inatas' vindas de fábrica."
+        },
+        {
+            "question": "John Locke usou a famosa metáfora da 'Tábula Rasa' ('folha em branco'). O que ele queria dizer com isso?",
+            "options": [
+                "O papel não existia na antiguidade.",
+                "Que a mente humana nasce totalmente vazia de ideias, e todo o nosso conhecimento é preenchido e gravado através da experiência e da vivência ao longo da vida.",
+                "Que Deus preencheu nossa mente com matemática no útero.",
+                "Que devemos apagar nossas memórias antigas."
+            ],
+            "answer": "Que a mente humana nasce totalmente vazia de ideias, e todo o nosso conhecimento é preenchido e gravado através da experiência e da vivência ao longo da vida.",
+            "explanation": "A tábula rasa é a negação cabal das ideias inatas de Descartes."
+        },
+        {
+            "question": "Immanuel Kant realizou a chamada 'Revolução Copernicana na Filosofia' ao unir as teses do Racionalismo e do Empirismo (Criticismo). Como ele explicou o conhecimento humano?",
+            "options": [
+                "Apenas a fé ensina o homem.",
+                "O conhecimento não existe.",
+                "O conhecimento começa com a experiência dos sentidos (empirismo), mas é organizado e moldado pelas estruturas a priori da nossa Razão e Mente (racionalismo).",
+                "Tudo é uma ilusão simulada."
+            ],
+            "answer": "O conhecimento começa com a experiência dos sentidos (empirismo), mas é organizado e moldado pelas estruturas a priori da nossa Razão e Mente (racionalismo).",
+            "explanation": "Os sentidos fornecem a 'matéria' bruta (dados), e a razão fornece a 'fôrma' (espaço e tempo) para construir o entendimento."
+        },
+        {
+            "question": "Na Ética, Kant formulou o 'Imperativo Categórico'. Esse princípio moral diz que devemos agir de tal forma que nossa ação possa se tornar uma:",
+            "options": [
+                "Vantagem financeira para nós mesmos.",
+                "Lei universal (que valha como regra boa para todas as pessoas do mundo em qualquer época).",
+                "Bula do papa.",
+                "Ferramenta de guerra."
+            ],
+            "answer": "Lei universal (que valha como regra boa para todas as pessoas do mundo em qualquer época).",
+            "explanation": "O ato ético para Kant não depende do resultado ou da religião, mas do dever e da racionalidade (se eu minto, não posso desejar que a mentira seja uma lei universal)."
+        },
+        {
+            "question": "Na filosofia moderna, o Utilitarismo de Jeremy Bentham e Stuart Mill propunha uma ética focada no resultado. Uma ação é considerada eticamente correta para eles se:",
+            "options": [
+                "Seguir as leis da bíblia estritamente.",
+                "Maximizasse a felicidade, o prazer e o bem-estar para o maior número de pessoas envolvidas.",
+                "Obedecesse cegamente ao rei local.",
+                "Fosse baseada em um sentimento irracional."
+            ],
+            "answer": "Maximizasse a felicidade, o prazer e o bem-estar para o maior número de pessoas envolvidas.",
+            "explanation": "O Utilitarismo é uma ética consequencialista: a moralidade se mede pela utilidade da ação para a coletividade."
+        },
+        {
+            "question": "O 'Estado de Natureza' é um conceito usado pelos filósofos Contratualistas para descrever a humanidade:",
+            "options": [
+                "Após o fim do mundo (Apocalipse).",
+                "Dentro do Senado ou do Palácio.",
+                "Em sua origem biológica primitiva na pré-história, vivendo sem Estado, sem leis escritas e sem governo organizado.",
+                "Em parques de preservação ambiental hoje em dia."
+            ],
+            "answer": "Em sua origem biológica primitiva na pré-história, vivendo sem Estado, sem leis escritas e sem governo organizado.",
+            "explanation": "Eles usavam esse conceito teórico para explicar o que nos levou a criar governos."
+        },
+        {
+            "question": "Para Thomas Hobbes (contratualista), o Estado de Natureza humano era horrível, definido pela frase 'O homem é o lobo do homem'. Por que os homens criaram o Estado e as leis segundo ele?",
+            "options": [
+                "Por diversão.",
+                "Para proteger os animais selvagens.",
+                "Para sair da 'guerra de todos contra todos' através do Contrato Social, transferindo sua liberdade a um Rei forte (Leviatã) em troca de paz e segurança à vida.",
+                "Para explorar o comércio ultramarino."
+            ],
+            "answer": "Para sair da 'guerra de todos contra todos' através do Contrato Social, transferindo sua liberdade a um Rei forte (Leviatã) em troca de paz e segurança à vida.",
+            "explanation": "Hobbes é o pai do absolutismo laico. O Estado forte deve reprimir a natureza agressiva do ser humano."
+        },
+        {
+            "question": "O filósofo iluminista Jean-Jacques Rousseau pensava de forma muito diferente de Hobbes sobre a origem do ser humano. Qual era a sua famosa premissa?",
+            "options": [
+                "O homem é mau e deve ser punido pelos deuses.",
+                "Apenas os reis nascem bons e merecem governar.",
+                "O homem nasce puro e bom (o 'bom selvagem'), mas a criação da propriedade privada e a sociedade o corrompem.",
+                "As máquinas farão os homens voltarem à barbárie."
+            ],
+            "answer": "O homem nasce puro e bom (o 'bom selvagem'), mas a criação da propriedade privada e a sociedade o corrompem.",
+            "explanation": "Rousseau culpava a desigualdade e a civilização pela perversão moral humana."
+        },
+        {
+            "question": "John Locke também é um contratualista, mas ele é considerado o 'Pai do Liberalismo Político'. Ele defendia que todo homem tem 'Direitos Naturais' fundamentais desde o nascimento. Quais são eles?",
+            "options": [
+                "Direito ao Voto e à Mídia livre.",
+                "Direito ao Salário, Casa e Comida estatal.",
+                "Direito a usar a violência sempre que quiser.",
+                "Direito à Vida, à Liberdade e à Propriedade Privada."
+            ],
+            "answer": "Direito à Vida, à Liberdade e à Propriedade Privada.",
+            "explanation": "Para Locke, o Estado só foi criado para proteger a propriedade que a pessoa adquiriu pelo seu próprio trabalho."
+        },
+        {
+            "question": "O pensador iluminista Montesquieu escreveu 'O Espírito das Leis' em 1748. Qual foi a sua principal contribuição teórica, adotada hoje na Constituição do Brasil?",
+            "options": [
+                "A teoria da Relatividade.",
+                "O fim do dinheiro em espécie.",
+                "A Teoria da Separação dos Três Poderes (Executivo, Legislativo e Judiciário) para evitar a tirania.",
+                "A união dos poderes nas mãos de um Imperador Supremo."
+            ],
+            "answer": "A Teoria da Separação dos Três Poderes (Executivo, Legislativo e Judiciário) para evitar a tirania.",
+            "explanation": "Ele propunha que 'só o poder freia o poder', criando pesos e contrapesos no Estado moderno."
+        },
+        {
+            "question": "No renascimento, Nicolau Maquiavel escreveu o clássico 'O Príncipe'. Ele separou a Ética Cristã da Política. Qual de suas abordagens revolucionou a Ciência Política?",
+            "options": [
+                "A política baseada na oração matinal.",
+                "Escrever a política com base em ideais utópicos (como deveria ser).",
+                "Abordar a política de forma realista e crua, estudando como o poder é efetivamente conquistado, mantido e perdido na prática.",
+                "Obrigar os reis a distribuírem suas terras aos pobres."
+            ],
+            "answer": "Abordar a política de forma realista e crua, estudando como o poder é efetivamente conquistado, mantido e perdido na prática.",
+            "explanation": "Para Maquiavel, o político (O Príncipe) devia possuir Virtù (habilidade) e lidar com a Fortuna (sorte), mesmo que precisasse ser amoral."
+        },
+        {
+            "question": "A famosa máxima (atribuída aos leitores de Maquiavel) 'Os fins justificam os meios' reflete a ideia de que:",
+            "options": [
+                "O importante é o meio utilizado, não o objetivo.",
+                "As leis da moral devem guiar cada pequeno passo do rei.",
+                "Se o objetivo de manter a estabilidade do Estado é alcançado, as ações severas e enganosas do governante são perdoáveis e necessárias.",
+                "Não se deve usar qualquer meio para nada."
+            ],
+            "answer": "Se o objetivo de manter a estabilidade do Estado é alcançado, as ações severas e enganosas do governante são perdoáveis e necessárias.",
+            "explanation": "A moral do político é diferente da moral do cidadão comum; a 'Razão de Estado' está acima da ética pessoal."
+        },
+        {
+            "question": "O Iluminismo foi um movimento intelectual do Século XVIII (o Século das Luzes). O que os iluministas valorizavam e o que eles criticavam?",
+            "options": [
+                "Valorizavam a Razão, a Liberdade e a Ciência, e criticavam duramente a monarquia absolutista e o poder de controle da Igreja Católica.",
+                "Valorizavam a religião antiga e criticavam a modernidade.",
+                "Valorizavam a fé supersticiosa e criticavam livros e escolas.",
+                "Valorizavam a ditadura militar e criticavam a democracia grega."
+            ],
+            "answer": "Valorizavam a Razão, a Liberdade e a Ciência, e criticavam duramente a monarquia absolutista e o poder de controle da Igreja Católica.",
+            "explanation": "A Enciclopédia (Diderot) visava espalhar as 'Luzes' da razão para combater as 'Trevas' da ignorância."
+        },
+        {
+            "question": "A frase de Voltaire: 'Posso não concordar com nenhuma palavra que dizes, mas defenderei até a morte o teu direito de dizê-las' é o pilar de qual princípio democrático moderno?",
+            "options": [
+                "Liberdade religiosa apenas.",
+                "Censura estatal.",
+                "Liberdade de Expressão e tolerância.",
+                "Ditadura do proletariado."
+            ],
+            "answer": "Liberdade de Expressão e tolerância.",
+            "explanation": "Voltaire foi um ferrenho crítico do fanatismo religioso e lutou pelo direito à discordância."
+        },
+        {
+            "question": "Friedrich Nietzsche (Séc. XIX) chocou o mundo com a frase 'Deus está morto'. Na Filosofia, o que ele denunciou com essa metáfora violenta?",
+            "options": [
+                "Um assassinato físico ocorrido na Alemanha.",
+                "Que a religião cristã perdeu o sentido moral, e a humanidade moderna não se baseia mais em valores morais divinos e absolutos para guiar sua vida.",
+                "O início das chuvas pesadas.",
+                "A quebra das máquinas industriais europeias."
+            ],
+            "answer": "Que a religião cristã perdeu o sentido moral, e a humanidade moderna não se baseia mais em valores morais divinos e absolutos para guiar sua vida.",
+            "explanation": "Nietzsche previu o Nihilismo. Sem a garantia metafísica divina, a humanidade moderna ficaria 'desnorteada' ou precisaria criar seus próprios valores."
+        },
+        {
+            "question": "Ainda em Nietzsche, ele fez uma distinção famosa entre a 'Moral dos Escravos' e a 'Moral dos Senhores'. Para ele, a religião judaico-cristã instaurou a Moral dos Escravos, que exalta:",
+            "options": [
+                "A força, a dominação e o egoísmo saudável.",
+                "A nobreza greco-romana.",
+                "A compaixão, a humildade, a passividade e o sofrimento (como algo divino).",
+                "O avanço da física quântica."
+            ],
+            "answer": "A compaixão, a humildade, a passividade e o sofrimento (como algo divino).",
+            "explanation": "Ele criticava a moral cristã por reprimir os instintos vitais do homem em nome de uma salvação após a morte."
+        },
+        {
+            "question": "Jean-Paul Sartre, pensador francês do Século XX, é um dos expoentes do 'Existencialismo'. A base do seu pensamento é resumida na frase: 'A existência precede a essência'. O que isso quer dizer?",
+            "options": [
+                "O ser humano é igual a um objeto, como uma caneta, com função pré-determinada.",
+                "Deus escreve o destino de cada pessoa antes de ela nascer.",
+                "As árvores têm alma.",
+                "O ser humano primeiro nasce (existe) e não tem nenhum destino, alma ou função prévia; ele próprio se constrói e dá sentido (essência) à sua vida através de suas escolhas."
+            ],
+            "answer": "O ser humano primeiro nasce (existe) e não tem nenhum destino, alma ou função prévia; ele próprio se constrói e dá sentido (essência) à sua vida através de suas escolhas.",
+            "explanation": "Para o existencialista ateu, somos radicalmente livres, o que causa 'angústia', pois somos inteiramente responsáveis pelo que fazemos de nós."
+        },
+        {
+            "question": "Simone de Beauvoir, filósofa existencialista e companheira de Sartre, escreveu a famosa frase: 'Não se nasce mulher, torna-se mulher'. Qual foi o impacto dessa ideia?",
+            "options": [
+                "Foi a base para a criação da medicina genética.",
+                "Iniciou o estudo da cirurgia plástica contemporânea.",
+                "Fundamentou o pensamento feminista, afirmando que o comportamento imposto às mulheres não é biológico ou natural, mas uma construção histórica e social (gênero).",
+                "Encerrou a participação das mulheres na filosofia."
+            ],
+            "answer": "Fundamentou o pensamento feminista, afirmando que o comportamento imposto às mulheres não é biológico ou natural, mas uma construção histórica e social (gênero).",
+            "explanation": "Na obra 'O Segundo Sexo', ela questiona o papel submisso empurrado às mulheres pela cultura patriarcal."
+        },
+        {
+            "question": "Hannah Arendt, sobrevivente do regime nazista, acompanhou o julgamento de Adolf Eichmann (burocrata do Holocausto) e escreveu sobre a 'Banalidade do Mal'. O que ela quis ensinar?",
+            "options": [
+                "Que crimes cruéis são cometidos apenas por psicopatas loucos e monstros assustadores.",
+                "O mal pode acontecer não por mentes diabólicas, mas sim por burocratas comuns, cumpridores cegos de ordens legais que abdicam da capacidade humana de pensar e julgar criticamente.",
+                "Que o mal é uma ilusão da religião cristã.",
+                "Que não existiu holocausto no século XX."
+            ],
+            "answer": "O mal pode acontecer não por mentes diabólicas, mas sim por burocratas comuns, cumpridores cegos de ordens legais que abdicam da capacidade humana de pensar e julgar criticamente.",
+            "explanation": "A banalidade do mal é aterradora: funcionários públicos carimbando papéis mandavam milhares à morte apenas para 'cumprir o regulamento'."
+        },
+        {
+            "question": "O filósofo Michel Foucault (séc. XX) mudou a forma de estudar o poder. Para ele, nas sociedades disciplinares contemporâneas, o poder não está concentrado só no Rei ou no Estado. Como o poder funciona?",
+            "options": [
+                "Ele se manifesta apenas através de guerras mundiais.",
+                "Ele existe apenas no Banco Central que emite moedas.",
+                "Ele desapareceu e não existe mais.",
+                "Ele está disperso em 'microfísicas' por toda a sociedade (escolas, hospitais, prisões, regras de conduta), vigiando e adestrando o comportamento humano e os corpos."
+            ],
+            "answer": "Ele está disperso em 'microfísicas' por toda a sociedade (escolas, hospitais, prisões, regras de conduta), vigiando e adestrando o comportamento humano e os corpos.",
+            "explanation": "Foucault usou a imagem do 'Panóptico' (vigilância total) para mostrar como a sociedade normaliza e disciplina os cidadãos o tempo todo."
+        },
+        {
+            "question": "Zygmunt Bauman criou o conceito de 'Modernidade Líquida' para explicar a sociedade do século XXI. Por que ele usou a palavra 'Líquida'?",
+            "options": [
+                "Porque as pessoas bebem mais água hoje.",
+                "Para denunciar a poluição dos oceanos pela indústria.",
+                "Porque o derretimento do Ártico inunda as grandes cidades capitalistas.",
+                "Porque no passado (modernidade sólida) as relações de trabalho e casamento eram fixas e duradouras; hoje, tudo é fluido, efêmero, muda de forma rápida e nada é feito para durar."
+            ],
+            "answer": "Porque no passado (modernidade sólida) as relações de trabalho e casamento eram fixas e duradouras; hoje, tudo é fluido, efêmero, muda de forma rápida e nada é feito para durar.",
+            "explanation": "Para Bauman, vivemos na era do descarte: trocamos rapidamente de celular, de emprego e de relacionamento (ex: Tinder)."
+        },
+        {
+            "question": "A Escola de Frankfurt uniu o marxismo com a psicanálise de Freud para criar a 'Teoria Crítica'. Eles criticaram duramente o que chamaram de:",
+            "options": [
+                "Razão Instrumental, onde a ciência não libertou o homem, mas virou uma ferramenta técnica focada apenas no lucro e no domínio da natureza e da sociedade (gerando armas atômicas e campos de concentração).",
+                "Razão Filosófica da Idade Média profunda.",
+                "Mecânica dos fluidos aplicada à engenharia civil alemã.",
+                "Os gregos antigos por não terem fábricas."
+            ],
+            "answer": "Razão Instrumental, onde a ciência não libertou o homem, mas virou uma ferramenta técnica focada apenas no lucro e no domínio da natureza e da sociedade (gerando armas atômicas e campos de concentração).",
+            "explanation": "Ao invés da razão trazer a emancipação humana sonhada no Iluminismo, ela trouxe a alienação, o consumo e a dominação total."
+        },
+        {
+            "question": "Karl Popper é um grande nome da Filosofia da Ciência moderna. Ele rejeitou o empirismo indutivo e criou o princípio da 'Falsificabilidade'. O que uma teoria precisa ter para ser considerada científica?",
+            "options": [
+                "Ter sido escrita na Bíblia há milhares de anos.",
+                "Ser patrocinada por indústrias farmacêuticas milionárias.",
+                "Dizer sempre que tudo tem uma causa sobrenatural inquestionável.",
+                "Deve ser formulada de modo que possa ser testada e passível de ser provada falsa ('falsificável'). Se não pode ser contestada, não é ciência."
+            ],
+            "answer": "Deve ser formulada de modo que possa ser testada e passível de ser provada falsa ('falsificável'). Se não pode ser contestada, não é ciência.",
+            "explanation": "A ciência não busca a verdade dogmática absoluta; a ciência é aquilo que sobrevive à refutação. A crença dogmática não permite ser testada."
+        },
+        {
+            "question": "O filósofo Arthur Schopenhauer (séc. XIX) desenvolveu um pessimismo radical em relação à vida. Para ele, o mundo e as ações humanas são comandados por uma força irracional cega chamada:",
+            "options": [
+                "Magia Branca.",
+                "Capitalismo financeiro global.",
+                "Espírito Santo.",
+                "A Vontade (um desejo cego e incessante de viver, que nos condena à insatisfação e ao sofrimento contínuo)."
+            ],
+            "answer": "A Vontade (um desejo cego e incessante de viver, que nos condena à insatisfação e ao sofrimento contínuo).",
+            "explanation": "Para ele, a vida balança como um pêndulo entre o sofrimento e o tédio. Apenas a Arte e a compaixão trazem alívio momentâneo."
+        },
+        {
+            "question": "Sigmund Freud, embora seja o pai da Psicanálise, teve um impacto gigantesco na Filosofia Contemporânea ao desconstruir a ilusão do homem puramente racional de Descartes. O que Freud revelou?",
+            "options": [
+                "Que a mente é comandada por extraterrestres invisíveis.",
+                "Que não somos 'senhores da nossa própria casa', pois boa parte de nossas ações e traumas é governada pelo Inconsciente e pelas pulsões ocultas.",
+                "Que a física quântica cura depressão usando florais.",
+                "Que os sonhos não têm nenhum significado clínico."
+            ],
+            "answer": "Que não somos 'senhores da nossa própria casa', pois boa parte de nossas ações e traumas é governada pelo Inconsciente e pelas pulsões ocultas.",
+            "explanation": "Freud mostrou que a 'razão' não controla tudo; os desejos, repressões infantis e traumas (Inconsciente) agem profundamente no nosso dia a dia."
+        },
+        {
+            "question": "Em Ética Aplicada, a área conhecida como 'Bioética' surge a partir da 2ª metade do Século XX para lidar com dilemas causados pelo incrível avanço da medicina. Qual destes assuntos é um tema central da Bioética?",
+            "options": [
+                "Clonagem, Eutanásia, Aborto e Pesquisas com Células-Tronco.",
+                "A velocidade dos aviões a jato supersônicos.",
+                "O cálculo do imposto de renda brasileiro.",
+                "A construção de telescópios espaciais para ver Marte."
+            ],
+            "answer": "Clonagem, Eutanásia, Aborto e Pesquisas com Células-Tronco.",
+            "explanation": "A Bioética estuda o impacto moral do progresso técnico-científico sobre a vida humana e não humana, estipulando limites éticos."
+        },
+        {
+            "question": "O conceito de 'Alienação' na filosofia marxista também foi apropriado pela sociologia do trabalho. Qual das situações atuais em Pernambuco é um claro exemplo de trabalho alienado?",
+            "options": [
+                "O artesão de Tracunhaém que molda sua panela de barro do início ao fim e vende direto ao cliente.",
+                "A agricultura de subsistência comunitária de famílias sertanejas.",
+                "Um professor elaborando e vendendo seu próprio curso.",
+                "Um funcionário de aplicativo de entregas que roda 14 horas e não se reconhece e nem tem controle sobre o sistema bilionário e as métricas do App que determinam seu pagamento."
+            ],
+            "answer": "Um funcionário de aplicativo de entregas que roda 14 horas e não se reconhece e nem tem controle sobre o sistema bilionário e as métricas do App que determinam seu pagamento.",
+            "explanation": "Na alienação, o trabalhador é explorado por um algoritmo cego e perde completamente a humanização e a autonomia do seu próprio esforço."
+        },
+        {
+            "question": "Qual é a base da Ética Antiga (grega e estoica) em comparação à Ética Kantiana (moderna)?",
+            "options": [
+                "A antiga não existe, apenas a moderna funciona nas escolas de direito.",
+                "Ambas as éticas usavam armas e punições físicas aos escravos.",
+                "A ética antiga buscava a Felicidade e o cultivo da Virtude, enquanto a ética de Kant baseia-se no 'Dever' universal, independentemente da felicidade resultante.",
+                "As duas proíbem que o indivíduo seja feliz."
+            ],
+            "answer": "A ética antiga buscava a Felicidade e o cultivo da Virtude, enquanto a ética de Kant baseia-se no 'Dever' universal, independentemente da felicidade resultante.",
+            "explanation": "Aristóteles focou no objetivo da vida (Teleologia = Felicidade). Kant focou na racionalidade da lei moral (Deontologia = Dever)."
+        },
+        {
+            "question": "A Filosofia Política de John Rawls, em sua famosa teoria da Justiça (século XX), propõe o 'Véu de Ignorância'. Qual é a regra moral desse pensamento?",
+            "options": [
+                "Pessoas só podem julgar política se forem proibidas de usar a visão, usando roupas nos olhos.",
+                "Um juiz só é justo se ignorar todas as provas de um crime brutal.",
+                "Para criar leis justas, os líderes deveriam criá-las sem saber se, na vida real, eles seriam ricos, pobres, brancos ou negros; assim fariam leis boas para todos.",
+                "Nenhuma sociedade precisa de justiça para ser desenvolvida e feliz."
+            ],
+            "answer": "Para criar leis justas, os líderes deveriam criá-las sem saber se, na vida real, eles seriam ricos, pobres, brancos ou negros; assim fariam leis boas para todos.",
+            "explanation": "O 'Véu de Ignorância' impede que as leis sejam criadas para favorecer uma única classe social, resultando numa sociedade equitativa."
+        },
+        {
+            "question": "Na teoria do conhecimento, qual termo define a crença de que a verdade existe e pode ser completamente alcançada de forma inquestionável pela mente humana?",
+            "options": [
+                "Ceticismo",
+                "Relativismo",
+                "Dogmatismo",
+                "Pragmatismo"
+            ],
+            "answer": "Dogmatismo",
+            "explanation": "Diferente do ceticismo, o dogmático não duvida. Ele afirma ter a posse de certezas inabaláveis (muito comum em religiões)."
+        },
+        {
+            "question": "Os filósofos medievais discutiram bastante o 'Problema das Universais'. Na disputa entre Realistas e Nominalistas, os Nominalistas afirmavam que palavras gerais como 'Homem' ou 'Beleza':",
+            "options": [
+                "Existem no céu materialmente.",
+                "São objetos sólidos de ouro.",
+                "São entidades concretas criadas por Deus e caídas na Terra.",
+                "Não possuem existência real, sendo apenas 'nomes' ou conceitos criados pela linguagem para agrupar coisas semelhantes."
+            ],
+            "answer": "Não possuem existência real, sendo apenas 'nomes' ou conceitos criados pela linguagem para agrupar coisas semelhantes.",
+            "explanation": "O nominalismo (de Guilherme de Ockham) cortou a ideia platônica de que havia um reino perfeito de 'ideias gerais'."
+        },
+        {
+            "question": "Thomas Kuhn mudou a Filosofia da Ciência no século XX. Ele afirmou que a ciência não progride de forma linear (sempre juntando verdades), mas funciona através da quebra de:",
+            "options": [
+                "Leis internacionais do comércio",
+                "Dogmas religiosos católicos nas missas.",
+                "Ferramentas quebradas no laboratório de química moderna.",
+                "Paradigmas (uma mudança radical na forma de a comunidade científica ver o mundo, como a passagem da Física de Newton para a de Einstein)."
+            ],
+            "answer": "Paradigmas (uma mudança radical na forma de a comunidade científica ver o mundo, como a passagem da Física de Newton para a de Einstein).",
+            "explanation": "Quando um paradigma atual não consegue mais explicar os novos problemas, ocorre uma Revolução Científica e troca-se de modelo."
+        },
+        {
+            "question": "Qual das frases abaixo resume a tese básica do Ceticismo Radical, defendido na antiguidade por Pirro de Élis?",
+            "options": [
+                "A verdade está apenas na Bíblia.",
+                "Devemos confiar sempre nos políticos gregos, eles sempre dizem a verdade para o povo.",
+                "A razão pura alcança as Ideias em poucos anos de estudo noturno.",
+                "É impossível conhecer a verdade absoluta sobre as coisas; portanto, a atitude mais sábia é suspender o julgamento (epokhé) para atingir a paz de espírito."
+            ],
+            "answer": "É impossível conhecer a verdade absoluta sobre as coisas; portanto, a atitude mais sábia é suspender o julgamento (epokhé) para atingir a paz de espírito.",
+            "explanation": "Para o cético radical, como nossos sentidos falham e os argumentos se contradizem, abster-se de afirmar certezas evita angústias inúteis."
+        },
+        {
+            "question": "O Utilitarismo tenta resolver um famoso dilema ético conhecido como 'O Dilema do Bonde', onde você pode desviar um trem e salvar 5 pessoas, mas matará 1 pessoa amarrada no outro trilho. O que a ética utilitarista faria?",
+            "options": [
+                "Mandaria prender o maquinista e as testemunhas.",
+                "Fugiria e deixaria o destino acontecer, pois intervir é um pecado nas religiões politeístas.",
+                "Rezaria para os deuses e se jogaria nos trilhos do trem imediatamente para mostrar valor.",
+                "Puxaria a alavanca para matar 1 e salvar 5, pois a ação maximiza a vida e o saldo da felicidade coletiva é maior."
+            ],
+            "answer": "Puxaria a alavanca para matar 1 e salvar 5, pois a ação maximiza a vida e o saldo da felicidade coletiva é maior.",
+            "explanation": "Como o foco utilitarista é no resultado final para a maioria, salvar cinco sacrificando um é o cálculo matemático ético que eles defendem."
+        },
+        {
+            "question": "Baruch Spinoza foi um filósofo holandês do século XVII condenado pela igreja. Ele é famoso por sua tese do 'Panteísmo', que prega que:",
+            "options": [
+                "Deus vive isolado fora do universo, assistindo aos humanos do céu distante.",
+                "Existem múltiplos deuses e demônios menores soltos na Terra.",
+                "Deus não é uma pessoa num trono celestial, mas sim a própria Natureza e suas leis; Deus é o próprio Universo (Deus sive Natura).",
+                "Apenas as estátuas antigas possuem divindades celestiais."
+            ],
+            "answer": "Deus não é uma pessoa num trono celestial, mas sim a própria Natureza e suas leis; Deus é o próprio Universo (Deus sive Natura).",
+            "explanation": "Para Spinoza, Deus não julga ou intervém por milagres; nós estamos 'dentro' da substância divina da natureza, regidos pelas regras imutáveis de causa e efeito."
+        },
+        {
+            "question": "Para Jean-Jacques Rousseau, a 'Vontade Geral' é a base da legitimidade política e do Contrato Social. O que ela representa?",
+            "options": [
+                "O desejo do ditador militar francês sobre os camponeses revoltados em Paris.",
+                "Um interesse coletivo puro voltado ao Bem Comum de todo o corpo social, não sendo apenas a soma de interesses egoístas da maioria.",
+                "Apenas os votos da elite financeira nos palácios da justiça.",
+                "As decisões do papado romano aplicadas aos feudos em época de cruzadas."
+            ],
+            "answer": "Um interesse coletivo puro voltado ao Bem Comum de todo o corpo social, não sendo apenas a soma de interesses egoístas da maioria.",
+            "explanation": "A Soberania Popular expressa a vontade geral. Ela busca o melhor para a sociedade, enquanto os homens agem na vida privada por vontades particulares."
+        },
+        {
+            "question": "As Teorias Contratualistas tentam responder qual problema central da Filosofia Política?",
+            "options": [
+                "Como construir casas usando geometria, esquadro, tijolo, cimento e a força dos cavalos e carruagens gregas nos arredores de Atenas e Esparta, ou seja, na arquitetura da polis antiga.",
+                "Por que os seres humanos abandonaram sua liberdade natural e aceitaram viver submissos às regras e coerções do Estado e de um Governo organizado (a passagem do estado de natureza para a sociedade civil).",
+                "Quantos deuses moram no Monte Olimpo ou nos vales da Tessália e da planície helênica da macedônia antiga.",
+                "Onde o universo termina ou como a física quântica, no fundo, funciona nos aceleradores de partículas suíços (CERN) no século XXI."
+            ],
+            "answer": "Por que os seres humanos abandonaram sua liberdade natural e aceitaram viver submissos às regras e coerções do Estado e de um Governo organizado (a passagem do estado de natureza para a sociedade civil).",
+            "explanation": "Hobbes, Locke e Rousseau explicam filosoficamente o fundamento e a legitimidade das constituições e da força do Estado moderno."
+        },
+        {
+            "question": "Na filosofia da linguagem, Ludwig Wittgenstein famoso autor austríaco declarou que: 'Os limites da minha linguagem significam os limites do meu...'",
+            "options": [
+                "Mundo",
+                "Dinheiro",
+                "Passaporte",
+                "Computador"
+            ],
+            "answer": "Mundo",
+            "explanation": "Wittgenstein diz que o pensamento, a realidade e a comunicação estão indissociavelmente unidos através das regras da linguagem (jogos de linguagem)."
+        },
+        {
+            "question": "Qual ramo fundamental e originário da Filosofia lida exclusivamente com os princípios e as formas do raciocínio válido, da inferência correta e de como extrair deduções e evitar sofismas (falsos argumentos), área fundada por Aristóteles no chamado Organon?",
+            "options": [
+                "A Metafísica ou Ontologia superior",
+                "A Estética",
+                "A Lógica",
+                "A Ética Moral Racional ou Deontologia Clássica Ocidental Avançada"
+            ],
+            "answer": "A Lógica",
+            "explanation": "A lógica estuda como pensar estruturadamente e identificar falácias, sendo hoje a base da ciência da computação e programação (matemática booleana)."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 51. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 52. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 53. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 54. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 55. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 56. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 57. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 58. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 59. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 60. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 61. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 62. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 63. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 64. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 65. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 66. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 67. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 68. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 69. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 70. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 71. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 72. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 73. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 74. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 75. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 76. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 77. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 78. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 79. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        },
+        {
+            "question": "Pergunta filosófica geral complementar sobre a tradição e o pensamento ocidental 80. Qual das opções reflete uma postura de admiração (thauma) filosófica?",
+            "options": [
+                "Repetir dogmas passados.",
+                "Aceitar fake news.",
+                "Fugir das discussões difíceis.",
+                "Exercer a atitude crítica (suspensão de certezas)."
+            ],
+            "answer": "Exercer a atitude crítica (suspensão de certezas).",
+            "explanation": "A filosofia não lida com verdades dogmáticas de laboratório, ela opera no constante pensar e questionar as raízes do conhecimento estabelecido na cultura."
+        }
+    ]
+}

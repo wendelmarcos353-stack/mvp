@@ -1,0 +1,664 @@
+{
+    "historia": [
+        {
+            "question": "A Capitania de Pernambuco (Nova Lusitânia) foi a mais próspera do Brasil Colonial. A quem foi doada inicialmente essa capitania?",
+            "options": [
+                "Mem de Sá",
+                "Duarte Coelho",
+                "Martim Afonso de Sousa",
+                "Maurício de Nassau"
+            ],
+            "answer": "Duarte Coelho",
+            "explanation": "Duarte Coelho foi o primeiro donatário da Capitania de Pernambuco, desenvolvendo com sucesso a cultura da cana-de-açúcar."
+        },
+        {
+            "question": "Qual foi a principal atividade econômica que garantiu o sucesso e a riqueza da Capitania de Pernambuco no século XVI?",
+            "options": [
+                "Mineração de Ouro",
+                "Extração de Pau-Brasil",
+                "Produção de Açúcar",
+                "Criação de Gado"
+            ],
+            "answer": "Produção de Açúcar",
+            "explanation": "O solo massapê e o clima tropical tornaram Pernambuco o maior produtor mundial de açúcar na época colonial."
+        },
+        {
+            "question": "Durante a Invasão Holandesa (1630-1654), quem foi o conde responsável por administrar e modernizar a cidade do Recife?",
+            "options": [
+                "Domingos Fernandes Calabar",
+                "João Maurício de Nassau",
+                "Matias de Albuquerque",
+                "Marquês de Pombal"
+            ],
+            "answer": "João Maurício de Nassau",
+            "explanation": "Nassau trouxe artistas, cientistas e tolerância religiosa, além de construir pontes, canais e o primeiro observatório astronômico das Américas no Recife."
+        },
+        {
+            "question": "O movimento que culminou na expulsão dos holandeses de Pernambuco, marcado pelas Batalhas dos Guararapes, ficou conhecido como:",
+            "options": [
+                "Revolução Praieira",
+                "Confederação do Equador",
+                "Insurreição Pernambucana",
+                "Guerra dos Mascates"
+            ],
+            "answer": "Insurreição Pernambucana",
+            "explanation": "Uniu luso-brasileiros, indígenas (Filipe Camarão) e negros (Henrique Dias) contra o domínio holandês."
+        },
+        {
+            "question": "A Guerra dos Mascates (1710-1711) foi um conflito motivado pela disputa de poder político e econômico entre duas cidades pernambucanas. Quais eram elas?",
+            "options": [
+                "Recife e Olinda",
+                "Igarassu e Itamaracá",
+                "Caruaru e Petrolina",
+                "Goiana e Cabo de Santo Agostinho"
+            ],
+            "answer": "Recife e Olinda",
+            "explanation": "Os senhores de engenho de Olinda, endividados, entraram em conflito com os comerciantes portugueses (mascates) do Recife que buscavam autonomia."
+        },
+        {
+            "question": "A Revolução Pernambucana de 1817 foi um dos movimentos mais importantes do período colonial. Qual era o seu principal objetivo?",
+            "options": [
+                "Manter a escravidão",
+                "Tornar Pernambuco independente de Portugal e instaurar uma República",
+                "Defender o retorno do rei Dom João VI para Portugal",
+                "Apoiar as invasões francesas"
+            ],
+            "answer": "Tornar Pernambuco independente de Portugal e instaurar uma República",
+            "explanation": "Foi o único movimento separatista do período colonial que conseguiu tomar o poder, mantendo uma república por pouco mais de 70 dias."
+        },
+        {
+            "question": "Frei Caneca foi um dos líderes e mártires de um movimento revolucionário ocorrido em 1824, contrário ao autoritarismo de D. Pedro I. Qual era o movimento?",
+            "options": [
+                "Revolução Farroupilha",
+                "Revolução Praieira",
+                "Confederação do Equador",
+                "Guerra de Canudos"
+            ],
+            "answer": "Confederação do Equador",
+            "explanation": "Pernambuco e outras províncias nordestinas tentaram se separar do Império devido à imposição da Constituição de 1824 por D. Pedro I."
+        },
+        {
+            "question": "A Revolução Praieira, ocorrida em 1848 em Pernambuco, foi o último grande movimento rebelde do Império. O nome 'Praieira' deve-se:",
+            "options": [
+                "Ao fato de as batalhas terem ocorrido nas praias de Boa Viagem.",
+                "Ao nome do jornal que divulgava as ideias do grupo, situado na Rua da Praia.",
+                "Ao líder do movimento, que se chamava Antônio da Praia.",
+                "À tentativa de impedir o comércio marítimo na costa."
+            ],
+            "answer": "Ao nome do jornal que divulgava as ideias do grupo, situado na Rua da Praia.",
+            "explanation": "O jornal 'Diário Novo' ficava na Rua da Praia (no Recife), e seus partidários liberais radicais ficaram conhecidos como praieiros."
+        },
+        {
+            "question": "O Quilombo dos Palmares, maior símbolo de resistência negra contra a escravidão no Brasil, ficava na região da Capitania de Pernambuco (hoje Alagoas). Quem foi seu último grande líder?",
+            "options": [
+                "Zumbi",
+                "Ganga Zumba",
+                "Chico Rei",
+                "João Cândido"
+            ],
+            "answer": "Zumbi",
+            "explanation": "Zumbi dos Palmares resistiu até ser morto em 20 de novembro de 1695, data que hoje marca o Dia da Consciência Negra."
+        },
+        {
+            "question": "No final do século XIX, surgiu no sertão nordestino o Cangaço. Quem foi o cangaceiro mais famoso, também conhecido como 'Rei do Cangaço', nascido em Serra Talhada (PE)?",
+            "options": [
+                "Antônio Silvino",
+                "Corisco",
+                "Lampião (Virgulino Ferreira da Silva)",
+                "Padre Cícero"
+            ],
+            "answer": "Lampião (Virgulino Ferreira da Silva)",
+            "explanation": "Lampião liderou seu bando pelo sertão por quase duas décadas, tornando-se uma figura controversa de herói e bandido."
+        },
+        {
+            "question": "A primeira riqueza explorada pelos portugueses no Brasil, logo após a chegada em 1500, foi:",
+            "options": [
+                "O Ouro",
+                "A Cana-de-açúcar",
+                "O Pau-brasil",
+                "O Café"
+            ],
+            "answer": "O Pau-brasil",
+            "explanation": "A árvore fornecia uma tinta vermelha valiosa na Europa, sendo extraída através do escambo com os indígenas."
+        },
+        {
+            "question": "O sistema de administração adotado por Portugal em 1534 para dividir o Brasil em grandes faixas de terra entregues a nobres chamava-se:",
+            "options": [
+                "Governo-Geral",
+                "Capitanias Hereditárias",
+                "Sesmarias",
+                "Feitorias"
+            ],
+            "answer": "Capitanias Hereditárias",
+            "explanation": "Portugal dividiu o Brasil em 15 capitanias visando transferir os custos da colonização para a iniciativa privada."
+        },
+        {
+            "question": "Onde ocorreu a principal atividade de extração de ouro no Brasil no século XVIII, levando a uma mudança demográfica no país?",
+            "options": [
+                "Nordeste",
+                "Região Sul",
+                "Minas Gerais e Centro-Oeste",
+                "Amazônia"
+            ],
+            "answer": "Minas Gerais e Centro-Oeste",
+            "explanation": "A descoberta de ouro transferiu o eixo econômico e político do Nordeste para a região Centro-Sul."
+        },
+        {
+            "question": "A Inconfidência Mineira (1789) teve como um de seus principais motivos:",
+            "options": [
+                "A abolição imediata da escravatura em todo o país.",
+                "O fim da cobrança da 'derrama', um imposto abusivo sobre o ouro.",
+                "A invasão holandesa em Minas Gerais.",
+                "A defesa do absolutismo de D. Maria I."
+            ],
+            "answer": "O fim da cobrança da 'derrama', um imposto abusivo sobre o ouro.",
+            "explanation": "Foi um movimento da elite mineira contra a opressão fiscal de Portugal, inspirado pelo Iluminismo."
+        },
+        {
+            "question": "Em 1808, a Família Real Portuguesa fugiu para o Brasil. Quem eles estavam tentando evitar?",
+            "options": [
+                "As tropas espanholas",
+                "Os piratas ingleses",
+                "As tropas de Napoleão Bonaparte",
+                "Os holandeses"
+            ],
+            "answer": "As tropas de Napoleão Bonaparte",
+            "explanation": "Portugal furou o Bloqueio Continental imposto pela França, forçando a fuga da corte para o Brasil escoltada pelos ingleses."
+        },
+        {
+            "question": "O que determinava a Lei Eusébio de Queirós, aprovada em 1850?",
+            "options": [
+                "Libertava todos os escravizados.",
+                "Proibia o tráfico negreiro (importação de escravizados) para o Brasil.",
+                "Dava liberdade aos filhos de escravizados nascidos após a lei.",
+                "Garantia liberdade aos escravizados maiores de 60 anos."
+            ],
+            "answer": "Proibia o tráfico negreiro (importação de escravizados) para o Brasil.",
+            "explanation": "Foi o primeiro grande passo rumo à abolição, proibindo a entrada de novos escravizados africanos."
+        },
+        {
+            "question": "Qual constituição brasileira instituiu o 'Poder Moderador', que dava controle absoluto ao Imperador Dom Pedro I?",
+            "options": [
+                "Constituição de 1824",
+                "Constituição de 1891",
+                "Constituição de 1934",
+                "Constituição de 1988"
+            ],
+            "answer": "Constituição de 1824",
+            "explanation": "Outorgada por D. Pedro I, criava o 4º poder (Moderador), exclusivo do imperador e acima dos demais."
+        },
+        {
+            "question": "A Guerra do Paraguai (1864-1870) envolveu a Tríplice Aliança lutando contra o Paraguai. Quais países formavam a Tríplice Aliança?",
+            "options": [
+                "Brasil, Argentina e Chile",
+                "Brasil, Argentina e Uruguai",
+                "Brasil, Uruguai e Bolívia",
+                "Argentina, Chile e Peru"
+            ],
+            "answer": "Brasil, Argentina e Uruguai",
+            "explanation": "Os três países se uniram para combater o ditador paraguaio Solano López, no maior conflito armado da América do Sul."
+        },
+        {
+            "question": "A abolição oficial e completa da escravidão no Brasil ocorreu em 13 de maio de 1888, através de qual lei?",
+            "options": [
+                "Lei do Ventre Livre",
+                "Lei dos Sexagenários",
+                "Lei Eusébio de Queirós",
+                "Lei Áurea"
+            ],
+            "answer": "Lei Áurea",
+            "explanation": "Assinada pela Princesa Isabel, a Lei Áurea extinguiu legalmente a escravidão, mas não incluiu políticas de integração social para os negros libertos."
+        },
+        {
+            "question": "O fim do Império no Brasil ocorreu sem derramamento de sangue popular, sendo um movimento liderado por militares. Em que ano ocorreu a Proclamação da República?",
+            "options": [
+                "1822",
+                "1888",
+                "1889",
+                "1930"
+            ],
+            "answer": "1889",
+            "explanation": "O Marechal Deodoro da Fonseca proclamou a República em 15 de novembro de 1889, depondo D. Pedro II."
+        },
+        {
+            "question": "Durante a 'República Oligárquica', a aliança política entre São Paulo e Minas Gerais para o revezamento na presidência ficou conhecida como:",
+            "options": [
+                "Política do Café com Leite",
+                "Política dos Governadores",
+                "Estado Novo",
+                "Plano Cohen"
+            ],
+            "answer": "Política do Café com Leite",
+            "explanation": "SP (maior produtor de café) e MG (maior colégio eleitoral e produtor de leite) dominavam a política nacional."
+        },
+        {
+            "question": "A Guerra de Canudos (1896-1897), no interior da Bahia, foi um conflito entre o exército e milhares de sertanejos liderados por quem?",
+            "options": [
+                "Padre Cícero",
+                "Antônio Conselheiro",
+                "Lampião",
+                "Zumbi"
+            ],
+            "answer": "Antônio Conselheiro",
+            "explanation": "Líder messiânico, Conselheiro formou o arraial de Canudos, que a República via como uma ameaça monarquista."
+        },
+        {
+            "question": "O 'Voto de Cabresto' era uma prática comum na República Velha. O que isso significava?",
+            "options": [
+                "Voto através de urnas eletrônicas.",
+                "Voto obrigatório apenas para mulheres.",
+                "Voto imposto pelos coronéis (fazendeiros) aos seus subordinados, muitas vezes sob ameaça.",
+                "Voto por correspondência."
+            ],
+            "answer": "Voto imposto pelos coronéis (fazendeiros) aos seus subordinados, muitas vezes sob ameaça.",
+            "explanation": "Como o voto não era secreto, os coronéis controlavam os eleitores da sua região para garantir suas vitórias eleitorais."
+        },
+        {
+            "question": "A Revolução de 1930 marcou o fim da República Velha e levou ao poder qual político?",
+            "options": [
+                "Juscelino Kubitschek",
+                "Washington Luís",
+                "Getúlio Vargas",
+                "Jânio Quadros"
+            ],
+            "answer": "Getúlio Vargas",
+            "explanation": "Vargas tomou o poder e permaneceu nele por 15 anos consecutivos, mudando radicalmente o país."
+        },
+        {
+            "question": "O conjunto de leis trabalhistas criado na Era Vargas que garantiu carteira assinada, férias e jornada de 8 horas chama-se:",
+            "options": [
+                "Constituição de 1988",
+                "Lei Áurea",
+                "Consolidação das Leis do Trabalho (CLT)",
+                "Estatuto do Trabalhador Rural"
+            ],
+            "answer": "Consolidação das Leis do Trabalho (CLT)",
+            "explanation": "Criada em 1943, a CLT unificou e garantiu direitos básicos para a classe trabalhadora urbana."
+        },
+        {
+            "question": "O governo de Juscelino Kubitschek (1956-1961) teve como lema 'Cinquenta anos em cinco' e foi marcado por qual grande obra?",
+            "options": [
+                "Construção do Cristo Redentor",
+                "Inauguração da Usina de Itaipu",
+                "Construção de Brasília",
+                "Transposição do Rio São Francisco"
+            ],
+            "answer": "Construção de Brasília",
+            "explanation": "JK transferiu a capital do Rio de Janeiro para o centro do país (Brasília), visando interiorizar o desenvolvimento."
+        },
+        {
+            "question": "O Golpe de Estado que destituiu o presidente João Goulart e instaurou a Ditadura Militar no Brasil ocorreu no ano de:",
+            "options": [
+                "1930",
+                "1945",
+                "1964",
+                "1985"
+            ],
+            "answer": "1964",
+            "explanation": "Com apoio de civis e dos EUA, os militares tomaram o poder alegando risco de uma ditadura comunista."
+        },
+        {
+            "question": "Durante a ditadura militar, qual foi o decreto (Ato Institucional) mais duro, que fechou o Congresso, cassou mandatos e suspendeu o habeas corpus?",
+            "options": [
+                "AI-1",
+                "AI-2",
+                "AI-5",
+                "AI-13"
+            ],
+            "answer": "AI-5",
+            "explanation": "Baixado em 1968 no governo Costa e Silva, o AI-5 inaugurou os 'Anos de Chumbo', fase de maior repressão do regime."
+        },
+        {
+            "question": "O movimento popular de 1984 que pedia a volta das eleições presidenciais através do voto direto popular ficou conhecido como:",
+            "options": [
+                "Diretas Já",
+                "Caras Pintadas",
+                "Revolta da Chibata",
+                "Revolução Constitucionalista"
+            ],
+            "answer": "Diretas Já",
+            "explanation": "Apesar das enormes manifestações nas ruas, a emenda Dante de Oliveira foi derrotada no Congresso."
+        },
+        {
+            "question": "Qual o nome do presidente que assumiu em 1985 (após a morte de Tancredo Neves), governou durante a Constituinte de 1988 e foi o primeiro civil após a ditadura?",
+            "options": [
+                "Fernando Collor",
+                "José Sarney",
+                "Itamar Franco",
+                "Fernando Henrique Cardoso"
+            ],
+            "answer": "José Sarney",
+            "explanation": "Sarney (vice de Tancredo) liderou a transição democrática e promulgou a 'Constituição Cidadã'."
+        },
+        {
+            "question": "Na Grécia Antiga, qual cidade-Estado ficou famosa pelo desenvolvimento da Democracia (onde os cidadãos decidiam na Ágora) e pela filosofia?",
+            "options": [
+                "Esparta",
+                "Troia",
+                "Atenas",
+                "Tebas"
+            ],
+            "answer": "Atenas",
+            "explanation": "Atenas valorizava o debate político, a cultura e a razão, sendo o berço da democracia direta."
+        },
+        {
+            "question": "Diferente de Atenas, Esparta focava sua sociedade quase exclusivamente na:",
+            "options": [
+                "Navegação",
+                "Preparação militar e guerra",
+                "Agricultura familiar",
+                "Religião monoteísta"
+            ],
+            "answer": "Preparação militar e guerra",
+            "explanation": "Esparta era uma sociedade oligárquica, patriarcal e extremamente militarizada."
+        },
+        {
+            "question": "Qual das opções abaixo foi uma tática política do Império Romano para acalmar a plebe fornecendo comida gratuita e entretenimento nas arenas (Gladiadores)?",
+            "options": [
+                "Política do Café com Leite",
+                "Política do Pão e Circo (Panem et Circenses)",
+                "Feudalismo",
+                "Pax Romana"
+            ],
+            "answer": "Política do Pão e Circo (Panem et Circenses)",
+            "explanation": "Para evitar revoltas populares, o Império distribuía trigo e promovia lutas nos coliseus."
+        },
+        {
+            "question": "A Idade Média ocidental foi marcada por qual sistema político, social e econômico, baseado na posse de terras e no trabalho servil?",
+            "options": [
+                "Capitalismo",
+                "Mercantilismo",
+                "Feudalismo",
+                "Socialismo"
+            ],
+            "answer": "Feudalismo",
+            "explanation": "No feudalismo, o poder era descentralizado nos Senhores Feudais, e os servos trabalhavam na terra em troca de proteção."
+        },
+        {
+            "question": "As Cruzadas foram expedições militares de caráter religioso convocadas pela Igreja Católica na Idade Média. Qual era o objetivo principal?",
+            "options": [
+                "Descobrir o caminho marítimo para as Índias.",
+                "Reconquistar Jerusalém (Terra Santa) do domínio islâmico.",
+                "Catequizar os indígenas nas Américas.",
+                "Destruir o Império Romano."
+            ],
+            "answer": "Reconquistar Jerusalém (Terra Santa) do domínio islâmico.",
+            "explanation": "As Cruzadas duraram séculos e, apesar das falhas militares, reabriram as rotas comerciais do Mar Mediterrâneo."
+        },
+        {
+            "question": "A crise do século XIV que assolou a Europa matando cerca de um terço da população foi causada pela:",
+            "options": [
+                "Primeira Guerra Mundial",
+                "Guerra Fria",
+                "Peste Negra (Peste Bubônica)",
+                "Guerra dos Cem Anos"
+            ],
+            "answer": "Peste Negra (Peste Bubônica)",
+            "explanation": "Transmitida por pulgas de ratos, a pandemia ajudou a desestruturar o sistema feudal devido à escassez de mão de obra."
+        },
+        {
+            "question": "Qual império preservou e expandiu o conhecimento greco-romano durante a Idade Média europeia, tendo Constantinopla como capital?",
+            "options": [
+                "Império Persa",
+                "Império Asteca",
+                "Império Bizantino (Romano do Oriente)",
+                "Império Carolíngio"
+            ],
+            "answer": "Império Bizantino (Romano do Oriente)",
+            "explanation": "Enquanto Roma caía, a parte leste (Bizâncio) prosperou por mais mil anos, até a invasão turco-otomana em 1453."
+        },
+        {
+            "question": "O Código de Hamurabi (Mesopotâmia) é um dos códigos de leis mais antigos conhecidos. Ele baseava-se na Lei de Talião, famosa pela frase:",
+            "options": [
+                "Todos são iguais perante a lei",
+                "Olho por olho, dente por dente",
+                "Penso, logo existo",
+                "Amai ao próximo como a ti mesmo"
+            ],
+            "answer": "Olho por olho, dente por dente",
+            "explanation": "A Lei de Talião determinava que a punição do criminoso seria proporcional (idêntica) ao dano causado à vítima."
+        },
+        {
+            "question": "A escrita desenvolvida pelos egípcios antigos, muito vista em pirâmides e papiros, é chamada de:",
+            "options": [
+                "Cuneiforme",
+                "Alfabeto Fenício",
+                "Hieróglifos",
+                "Latim"
+            ],
+            "answer": "Hieróglifos",
+            "explanation": "Hieróglifos eram símbolos sagrados usados pelos escribas e sacerdotes egípcios."
+        },
+        {
+            "question": "A crença e culto a vários deuses, comum na Grécia, Roma e Egito Antigo, recebe o nome de:",
+            "options": [
+                "Monoteísmo",
+                "Ateísmo",
+                "Politeísmo",
+                "Agnosticismo"
+            ],
+            "answer": "Politeísmo",
+            "explanation": "As sociedades da antiguidade clássica e oriental, exceto os hebreus, cultuavam múltiplos deuses (ex: Zeus, Poseidon, Anúbis)."
+        },
+        {
+            "question": "O Renascimento Cultural, que começou na Itália no século XIV, tinha como principal característica o Antropocentrismo. O que isso significa?",
+            "options": [
+                "A Terra como centro do universo.",
+                "Deus no centro de todas as explicações (Teocentrismo).",
+                "O Homem no centro do universo, valorizando a razão humana.",
+                "A rejeição de toda a ciência."
+            ],
+            "answer": "O Homem no centro do universo, valorizando a razão humana.",
+            "explanation": "Os renascentistas resgataram a cultura clássica e colocaram o ser humano e a ciência como focos de estudo."
+        },
+        {
+            "question": "A Reforma Protestante iniciou-se em 1517 quando um monge publicou 95 teses criticando a venda de indulgências pela Igreja Católica. Quem foi ele?",
+            "options": [
+                "João Calvino",
+                "Henrique VIII",
+                "Santo Agostinho",
+                "Martinho Lutero"
+            ],
+            "answer": "Martinho Lutero",
+            "explanation": "Lutero rompeu com Roma, iniciando o movimento protestante e traduzindo a Bíblia para o alemão."
+        },
+        {
+            "question": "A Revolução Francesa (1789) derrubou a Monarquia Absolutista guiada por ideais Iluministas. Qual era o seu lema famoso?",
+            "options": [
+                "Ordem e Progresso",
+                "Liberdade, Igualdade, Fraternidade",
+                "Deus, Pátria, Família",
+                "Pão, Paz e Terra"
+            ],
+            "answer": "Liberdade, Igualdade, Fraternidade",
+            "explanation": "O lema resumia as demandas da burguesia e do povo por direitos civis e fim dos privilégios da nobreza."
+        },
+        {
+            "question": "A Revolução Industrial, iniciada na Inglaterra no século XVIII, mudou o mundo ao substituir o trabalho artesanal por máquinas. Qual foi a principal fonte de energia inicial?",
+            "options": [
+                "Energia Nuclear",
+                "Petróleo e Eletricidade",
+                "Carvão Mineral (Máquinas a vapor)",
+                "Energia Eólica"
+            ],
+            "answer": "Carvão Mineral (Máquinas a vapor)",
+            "explanation": "A máquina a vapor e o carvão mineral foram os pilares da 1ª Revolução Industrial."
+        },
+        {
+            "question": "Um dos estopins para o início da Primeira Guerra Mundial (1914) foi o assassinato do Arquiduque Francisco Ferdinando em:",
+            "options": [
+                "Sarajevo",
+                "Londres",
+                "Paris",
+                "Moscou"
+            ],
+            "answer": "Sarajevo",
+            "explanation": "O assassinato ativou a teia de alianças militares, lançando as grandes potências europeias na guerra de trincheiras."
+        },
+        {
+            "question": "Qual tratado encerrou oficialmente a Primeira Guerra Mundial, impondo duras penas, multas e perdas territoriais à Alemanha?",
+            "options": [
+                "Tratado de Tordesilhas",
+                "Tratado de Versalhes",
+                "Pacto de Varsóvia",
+                "Conferência de Yalta"
+            ],
+            "answer": "Tratado de Versalhes",
+            "explanation": "As humilhações do Tratado de Versalhes são consideradas uma das sementes do nazismo e da Segunda Guerra Mundial."
+        },
+        {
+            "question": "A Crise de 1929, que gerou desemprego mundial, teve seu epicentro nos Estados Unidos devido à:",
+            "options": [
+                "Morte do presidente Lincoln.",
+                "Quebra da Bolsa de Valores de Nova York.",
+                "Guerra contra o Japão.",
+                "Invasão de extraterrestres no rádio."
+            ],
+            "answer": "Quebra da Bolsa de Valores de Nova York.",
+            "explanation": "A superprodução industrial e a especulação financeira levaram ao colapso ('Crash') da bolsa."
+        },
+        {
+            "question": "O regime totalitário instalado na Alemanha sob a liderança de Adolf Hitler, caracterizado pelo antissemitismo e nacionalismo extremo, foi o:",
+            "options": [
+                "Fascismo",
+                "Anarquismo",
+                "Nazismo",
+                "Comunismo"
+            ],
+            "answer": "Nazismo",
+            "explanation": "O Nazismo (Partido Nacional-Socialista) defendeu a supremacia ariana e provocou o Holocausto."
+        },
+        {
+            "question": "A Segunda Guerra Mundial (1939-1945) terminou no Pacífico após os Estados Unidos lançarem bombas atômicas em duas cidades japonesas. Quais foram?",
+            "options": [
+                "Tóquio e Kyoto",
+                "Hiroshima e Nagasaki",
+                "Fukushima e Osaka",
+                "Seul e Pequim"
+            ],
+            "answer": "Hiroshima e Nagasaki",
+            "explanation": "Os bombardeios forçaram a rendição incondicional do Império Japonês em 1945."
+        },
+        {
+            "question": "A 'Guerra Fria' foi um período de tensão global onde duas superpotências não se atacaram diretamente, mas competiram por áreas de influência. Quem eram?",
+            "options": [
+                "Inglaterra e França",
+                "EUA (Capitalismo) e URSS (Socialismo)",
+                "China e Japão",
+                "Alemanha Ocidental e Alemanha Oriental"
+            ],
+            "answer": "EUA (Capitalismo) e URSS (Socialismo)",
+            "explanation": "O mundo bipolarizou-se entre o bloco capitalista liderado por Washington e o comunista por Moscou."
+        },
+        {
+            "question": "A corrida espacial foi um dos símbolos da Guerra Fria. Qual foi a conquista histórica dos EUA em 1969?",
+            "options": [
+                "Lançar o primeiro satélite artificial (Sputnik).",
+                "Enviar o primeiro homem ao espaço (Yuri Gagarin).",
+                "Pousar os primeiros humanos na Lua (Apollo 11).",
+                "Criar a Estação Espacial Internacional."
+            ],
+            "answer": "Pousar os primeiros humanos na Lua (Apollo 11).",
+            "explanation": "Neil Armstrong e Buzz Aldrin foram os primeiros a caminhar no solo lunar."
+        },
+        {
+            "question": "O 'Apartheid' foi um regime legalizado de segregação racial severa, focado na minoria branca governando a maioria negra. Em qual país isso ocorreu até os anos 90?",
+            "options": [
+                "Estados Unidos",
+                "África do Sul",
+                "Brasil",
+                "Alemanha"
+            ],
+            "answer": "África do Sul",
+            "explanation": "O Apartheid foi abolido após forte pressão internacional e luta interna liderada por Nelson Mandela."
+        },
+        {
+            "question": "A queda de qual monumento, em 1989, simbolizou o fim da Guerra Fria e levou à reunificação da Alemanha?",
+            "options": [
+                "Estátua da Liberdade",
+                "Torre Eiffel",
+                "Muro de Berlim",
+                "Palácio de Inverno"
+            ],
+            "answer": "Muro de Berlim",
+            "explanation": "O Muro dividiu Berlim por quase 30 anos e sua queda representou a ruína do bloco soviético no leste europeu."
+        },
+        {
+            "question": "A Revolução Russa de 1917 derrubou o regime dos Czares e instaurou o primeiro governo socialista do mundo. Quem foi o principal líder dos Bolcheviques?",
+            "options": [
+                "Joseph Stalin",
+                "Vladimir Lênin",
+                "Karl Marx",
+                "Leon Trotsky"
+            ],
+            "answer": "Vladimir Lênin",
+            "explanation": "Lênin adaptou as ideias de Marx à realidade russa e liderou a revolução proletária."
+        },
+        {
+            "question": "O Mercantilismo foi a política econômica dos Estados Absolutistas durante a Idade Moderna. Qual era o seu princípio do 'Metalismo'?",
+            "options": [
+                "Valorização da agricultura como única riqueza.",
+                "Abolição de todas as moedas, usando apenas troca.",
+                "Acúmulo de metais preciosos (ouro e prata) para medir a riqueza da nação.",
+                "Importação de metais estrangeiros em detrimento das exportações."
+            ],
+            "answer": "Acúmulo de metais preciosos (ouro e prata) para medir a riqueza da nação.",
+            "explanation": "No mercantilismo, quanto mais ouro um Estado acumulava na balança comercial, mais poderoso ele era."
+        },
+        {
+            "question": "O Iluminismo inspirou a independência de diversas colônias. Em 1776, qual nação declarou independência, servindo de modelo revolucionário no continente americano?",
+            "options": [
+                "Brasil",
+                "Haiti",
+                "Estados Unidos da América (As Treze Colônias)",
+                "México"
+            ],
+            "answer": "Estados Unidos da América (As Treze Colônias)",
+            "explanation": "Os EUA romperam com a Inglaterra defendendo ideais de liberdade, inspirando outros países."
+        },
+        {
+            "question": "Mahatma Gandhi liderou o processo de independência do seu país em relação ao Império Britânico após a 2ª Guerra Mundial. Seu método de luta baseava-se:",
+            "options": [
+                "No uso de armas nucleares.",
+                "Na guerra de guerrilhas nas selvas.",
+                "Na resistência armada com exército profissional.",
+                "Na desobediência civil e não-violência (Satyagraha)."
+            ],
+            "answer": "Na desobediência civil e não-violência (Satyagraha).",
+            "explanation": "Gandhi defendia greves, boicotes e resistência pacífica, o que libertou a Índia."
+        },
+        {
+            "question": "A Crise dos Mísseis de 1962 quase causou a Terceira Guerra Mundial devido à instalação de mísseis soviéticos em qual país latino-americano?",
+            "options": [
+                "Brasil",
+                "Argentina",
+                "Cuba",
+                "México"
+            ],
+            "answer": "Cuba",
+            "explanation": "A URSS instalou bases nucleares em Cuba (aliada comunista), gerando pânico nos EUA."
+        },
+        {
+            "question": "Em 2001, o mundo assistiu a um evento que mudou a geopolítica moderna: o ataque terrorista promovido pela Al-Qaeda. Qual foi o alvo principal nos EUA?",
+            "options": [
+                "Pentágono e Capitólio",
+                "As Torres Gêmeas (World Trade Center)",
+                "Estátua da Liberdade",
+                "Casa Branca"
+            ],
+            "answer": "As Torres Gêmeas (World Trade Center)",
+            "explanation": "Os ataques de 11 de setembro desencadearam a 'Guerra ao Terror' liderada pelos EUA no Oriente Médio."
+        },
+        {
+            "question": "A Organização das Nações Unidas (ONU) foi criada em 1945, com qual principal objetivo?",
+            "options": [
+                "Conquistar o espaço.",
+                "Expandir o domínio militar europeu.",
+                "Promover a paz mundial e prevenir futuros conflitos armados internacionais.",
+                "Garantir o crescimento do mercado financeiro global."
+            ],
+            "answer": "Promover a paz mundial e prevenir futuros conflitos armados internacionais.",
+            "explanation": "A ONU substituiu a Liga das Nações após a 2ª Guerra Mundial para evitar que barbáries semelhantes se repetissem."
+        }
+    ]
+}

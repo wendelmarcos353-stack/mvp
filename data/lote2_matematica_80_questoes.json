@@ -1,0 +1,994 @@
+{
+    "matematica": [
+        {
+            "question": "Um produtor de gesso em Trindade, no polo gesseiro do Araripe, vende um lote por R$ 5.000. Se ele oferecer um desconto de 15% para pagamento à vista, qual será o valor pago?",
+            "options": [
+                "R$ 4.250",
+                "R$ 4.500",
+                "R$ 4.750",
+                "R$ 3.850"
+            ],
+            "answer": "R$ 4.250",
+            "explanation": "Calculamos 15% de 5000 = 750. Subtraindo do total: 5000 - 750 = R$ 4.250."
+        },
+        {
+            "question": "A tarifa de energia elétrica sofreu um reajuste de 8%. Se a conta de um morador era de R$ 150,00, qual será o novo valor?",
+            "options": [
+                "R$ 158,00",
+                "R$ 160,00",
+                "R$ 162,00",
+                "R$ 165,00"
+            ],
+            "answer": "R$ 162,00",
+            "explanation": "8% de 150 é 12. Somando ao valor original: 150 + 12 = R$ 162,00."
+        },
+        {
+            "question": "Uma loja em Caruaru compra uma calça por R$ 40 e deseja lucrar 50% sobre o preço de custo. Por quanto ela deve ser vendida?",
+            "options": [
+                "R$ 50",
+                "R$ 60",
+                "R$ 70",
+                "R$ 80"
+            ],
+            "answer": "R$ 60",
+            "explanation": "50% de 40 é 20. O preço de venda deve ser 40 + 20 = R$ 60."
+        },
+        {
+            "question": "Um capital de R$ 2.000 foi investido a juros simples de 3% ao mês. Qual o montante gerado após 5 meses?",
+            "options": [
+                "R$ 2.300",
+                "R$ 2.500",
+                "R$ 3.500",
+                "R$ 2.150"
+            ],
+            "answer": "R$ 2.300",
+            "explanation": "J = C * i * t = 2000 * 0,03 * 5 = 300. Montante = 2000 + 300 = R$ 2.300."
+        },
+        {
+            "question": "Se um celular sofre dois descontos sucessivos de 10%, qual é o desconto total equivalente em relação ao preço inicial?",
+            "options": [
+                "20%",
+                "19%",
+                "18%",
+                "21%"
+            ],
+            "answer": "19%",
+            "explanation": "100 * 0,9 = 90. 90 * 0,9 = 81. A redução foi de 100 para 81, ou seja, 19%."
+        },
+        {
+            "question": "Qual é o valor dos juros produzidos por um empréstimo de R$ 5.000 a uma taxa de juros simples de 1% ao mês durante 1 ano (12 meses)?",
+            "options": [
+                "R$ 500",
+                "R$ 600",
+                "R$ 1.200",
+                "R$ 50"
+            ],
+            "answer": "R$ 600",
+            "explanation": "J = C * i * t = 5000 * 0.01 * 12 = 600."
+        },
+        {
+            "question": "Se 25% dos 40 alunos de uma turma moram em Exu, quantos alunos dessa turma não moram nessa cidade?",
+            "options": [
+                "10 alunos",
+                "20 alunos",
+                "30 alunos",
+                "35 alunos"
+            ],
+            "answer": "30 alunos",
+            "explanation": "25% de 40 = 10 (moram). Logo, 40 - 10 = 30 não moram lá."
+        },
+        {
+            "question": "Um comerciante comprou um produto por R$ 120 e vendeu por R$ 150. Qual foi o percentual de lucro sobre o preço de custo?",
+            "options": [
+                "20%",
+                "25%",
+                "30%",
+                "15%"
+            ],
+            "answer": "25%",
+            "explanation": "Lucro = 150 - 120 = 30. A razão é 30/120 = 1/4 = 25%."
+        },
+        {
+            "question": "No regime de juros compostos, um capital de R$ 1.000 aplicado a 10% ao mês durante 2 meses gerará qual montante?",
+            "options": [
+                "R$ 1.200",
+                "R$ 1.210",
+                "R$ 1.100",
+                "R$ 1.300"
+            ],
+            "answer": "R$ 1.210",
+            "explanation": "M = C(1+i)^t => 1000*(1,1)^2 => 1000*1,21 = R$ 1.210."
+        },
+        {
+            "question": "A inflação de um mês foi de 5% e no mês seguinte foi de 2%. Qual a inflação acumulada do bimestre?",
+            "options": [
+                "7%",
+                "7,1%",
+                "7,5%",
+                "10%"
+            ],
+            "answer": "7,1%",
+            "explanation": "(1 + 0,05) * (1 + 0,02) = 1,05 * 1,02 = 1,071. Ou seja, 7,1%."
+        },
+        {
+            "question": "Três operários constroem um muro em 10 dias. Quantos operários serão necessários para construir o mesmo muro em 6 dias?",
+            "options": [
+                "4 operários",
+                "5 operários",
+                "6 operários",
+                "8 operários"
+            ],
+            "answer": "5 operários",
+            "explanation": "Grandezas inversamente proporcionais: 3 * 10 = X * 6 => 30 = 6X => X = 5."
+        },
+        {
+            "question": "Um carro consome 10 litros de gasolina para percorrer 120 km. Quantos litros serão necessários para percorrer 480 km?",
+            "options": [
+                "20 litros",
+                "30 litros",
+                "40 litros",
+                "50 litros"
+            ],
+            "answer": "40 litros",
+            "explanation": "Grandezas diretamente proporcionais. Como a distância quadruplicou (480/120=4), o consumo também quadruplica: 10 * 4 = 40."
+        },
+        {
+            "question": "Divida R$ 600 em partes diretamente proporcionais a 2 e 3.",
+            "options": [
+                "R$ 200 e R$ 400",
+                "R$ 240 e R$ 360",
+                "R$ 300 e R$ 300",
+                "R$ 150 e R$ 450"
+            ],
+            "answer": "R$ 240 e R$ 360",
+            "explanation": "Soma das partes = 5. A constante é 600 / 5 = 120. Logo, 2*120=240 e 3*120=360."
+        },
+        {
+            "question": "Para fazer um bolo para 4 pessoas, usam-se 2 ovos. Para fazer o mesmo bolo para 10 pessoas, quantos ovos serão usados?",
+            "options": [
+                "4 ovos",
+                "5 ovos",
+                "6 ovos",
+                "8 ovos"
+            ],
+            "answer": "5 ovos",
+            "explanation": "Regra de três: 4 pessoas - 2 ovos; 10 pessoas - X ovos. 4X = 20 => X = 5."
+        },
+        {
+            "question": "Uma torneira enche uma caixa em 4 horas. Duas torneiras iguais a essa encherão a mesma caixa em quanto tempo?",
+            "options": [
+                "2 horas",
+                "4 horas",
+                "6 horas",
+                "8 horas"
+            ],
+            "answer": "2 horas",
+            "explanation": "Se dobra a vazão de água, o tempo cai pela metade."
+        },
+        {
+            "question": "Uma gráfica imprime 3000 apostilas em 3 dias usando 2 máquinas. Usando 4 máquinas iguais, quantos dias levará para imprimir a mesma quantidade?",
+            "options": [
+                "1 dia",
+                "1,5 dias",
+                "2 dias",
+                "4 dias"
+            ],
+            "answer": "1,5 dias",
+            "explanation": "Dobrando o número de máquinas (de 2 para 4), o tempo cai pela metade (de 3 para 1,5 dias)."
+        },
+        {
+            "question": "A razão entre a idade de pai e filho é 3/1. Se a soma das idades é 48, qual a idade do pai?",
+            "options": [
+                "32",
+                "34",
+                "36",
+                "38"
+            ],
+            "answer": "36",
+            "explanation": "Idades 3x e x. 4x = 48 => x = 12. O pai tem 3*12 = 36 anos."
+        },
+        {
+            "question": "A velocidade média de um trem é de 80 km/h e ele faz a viagem em 3 horas. Se fosse a 120 km/h, em quanto tempo faria o percurso?",
+            "options": [
+                "1 hora",
+                "1,5 horas",
+                "2 horas",
+                "2,5 horas"
+            ],
+            "answer": "2 horas",
+            "explanation": "Inversamente proporcionais. Distância = 80 * 3 = 240 km. Tempo novo = 240 / 120 = 2 horas."
+        },
+        {
+            "question": "Uma equipe de 10 alunos demora 5 dias para criar um site. Se a equipe tiver apenas 5 alunos trabalhando no mesmo ritmo, o site ficará pronto em:",
+            "options": [
+                "2,5 dias",
+                "5 dias",
+                "7,5 dias",
+                "10 dias"
+            ],
+            "answer": "10 dias",
+            "explanation": "Se o número de trabalhadores cai pela metade, o tempo de trabalho dobra (inversamente proporcionais)."
+        },
+        {
+            "question": "A proporção áurea é famosa na arte e natureza. O valor aproximado do Número de Ouro (Phi) é:",
+            "options": [
+                "1,41",
+                "1,61",
+                "3,14",
+                "2,71"
+            ],
+            "answer": "1,61",
+            "explanation": "O número de ouro é um número irracional que vale aproximadamente 1,618."
+        },
+        {
+            "question": "Qual é a área de um terreno retangular que mede 15m de frente (largura) por 30m de fundo (comprimento)?",
+            "options": [
+                "45 m²",
+                "90 m²",
+                "450 m²",
+                "900 m²"
+            ],
+            "answer": "450 m²",
+            "explanation": "Área do retângulo = base x altura = 15 * 30 = 450 m²."
+        },
+        {
+            "question": "Uma praça em Bodocó tem o formato circular com raio de 10 metros. Qual o comprimento aproximado do contorno dessa praça? (Use Pi = 3,14)",
+            "options": [
+                "31,4 m",
+                "62,8 m",
+                "314 m",
+                "100 m"
+            ],
+            "answer": "62,8 m",
+            "explanation": "Perímetro = 2 * Pi * r = 2 * 3,14 * 10 = 62,8 m."
+        },
+        {
+            "question": "Um triângulo retângulo possui catetos medindo 6 cm e 8 cm. Qual a medida da sua hipotenusa?",
+            "options": [
+                "10 cm",
+                "12 cm",
+                "14 cm",
+                "100 cm"
+            ],
+            "answer": "10 cm",
+            "explanation": "Pelo Teorema de Pitágoras: h² = 6² + 8² => h² = 36 + 64 => h² = 100 => h = 10."
+        },
+        {
+            "question": "A área de um losango cujas diagonais medem 10 cm e 12 cm é:",
+            "options": [
+                "60 cm²",
+                "120 cm²",
+                "30 cm²",
+                "44 cm²"
+            ],
+            "answer": "60 cm²",
+            "explanation": "Área = (D * d) / 2 = (12 * 10) / 2 = 120 / 2 = 60 cm²."
+        },
+        {
+            "question": "O perímetro de um hexágono regular de lado 5 cm é:",
+            "options": [
+                "25 cm",
+                "30 cm",
+                "35 cm",
+                "40 cm"
+            ],
+            "answer": "30 cm",
+            "explanation": "O hexágono regular tem 6 lados iguais. Perímetro = 6 * 5 = 30 cm."
+        },
+        {
+            "question": "A soma dos ângulos internos de um triângulo qualquer é sempre:",
+            "options": [
+                "90 graus",
+                "180 graus",
+                "270 graus",
+                "360 graus"
+            ],
+            "answer": "180 graus",
+            "explanation": "Teorema fundamental da geometria: a soma dos ângulos internos de todo triângulo plano é 180º."
+        },
+        {
+            "question": "Um quadrado tem área de 81 m². Qual é a medida do seu lado?",
+            "options": [
+                "7 m",
+                "8 m",
+                "9 m",
+                "10 m"
+            ],
+            "answer": "9 m",
+            "explanation": "A área é l². Logo, a raiz quadrada de 81 é 9 m."
+        },
+        {
+            "question": "Qual a medida da diagonal de um quadrado cujo lado mede 5 cm?",
+            "options": [
+                "5√2 cm",
+                "5√3 cm",
+                "10 cm",
+                "25 cm"
+            ],
+            "answer": "5√2 cm",
+            "explanation": "A fórmula da diagonal do quadrado é d = lado * √2."
+        },
+        {
+            "question": "Um trapézio tem base maior 10 cm, base menor 6 cm e altura 4 cm. Sua área é:",
+            "options": [
+                "32 cm²",
+                "64 cm²",
+                "16 cm²",
+                "40 cm²"
+            ],
+            "answer": "32 cm²",
+            "explanation": "Área = ((B + b) * h) / 2 = ((10 + 6) * 4) / 2 = (16 * 4) / 2 = 64 / 2 = 32 cm²."
+        },
+        {
+            "question": "Quantos graus tem o ângulo interno de um octógono regular (8 lados)?",
+            "options": [
+                "120º",
+                "135º",
+                "144º",
+                "150º"
+            ],
+            "answer": "135º",
+            "explanation": "Soma = (8-2)*180 = 1080. Cada ângulo = 1080 / 8 = 135º."
+        },
+        {
+            "question": "Uma cisterna para armazenar água das chuvas no sertão tem formato de um cubo com 2 metros de aresta. Quantos litros de água cabem nela?",
+            "options": [
+                "4.000 litros",
+                "8.000 litros",
+                "2.000 litros",
+                "16.000 litros"
+            ],
+            "answer": "8.000 litros",
+            "explanation": "Volume do cubo = 2 * 2 * 2 = 8 m³. Como 1 m³ = 1000 litros, temos 8.000 litros."
+        },
+        {
+            "question": "Um silo cilíndrico tem raio da base de 2 metros e altura de 5 metros. Qual o volume aproximado? (Use Pi = 3)",
+            "options": [
+                "30 m³",
+                "40 m³",
+                "50 m³",
+                "60 m³"
+            ],
+            "answer": "60 m³",
+            "explanation": "V = Pi * r² * h = 3 * (2²) * 5 = 3 * 4 * 5 = 60 m³."
+        },
+        {
+            "question": "Qual a área total da superfície de um cubo de aresta 3 cm?",
+            "options": [
+                "27 cm²",
+                "36 cm²",
+                "54 cm²",
+                "81 cm²"
+            ],
+            "answer": "54 cm²",
+            "explanation": "O cubo tem 6 faces quadradas. Área de 1 face = 3*3 = 9. Área total = 6 * 9 = 54 cm²."
+        },
+        {
+            "question": "Um aquário no formato de paralelepípedo tem dimensões 40 cm x 30 cm x 20 cm. Qual o seu volume em litros?",
+            "options": [
+                "12 litros",
+                "24 litros",
+                "120 litros",
+                "240 litros"
+            ],
+            "answer": "24 litros",
+            "explanation": "Volume = 40*30*20 = 24000 cm³. Sabendo que 1000 cm³ = 1 litro, 24000 / 1000 = 24 litros."
+        },
+        {
+            "question": "O volume de uma pirâmide cuja área da base é 12 cm² e altura é 5 cm é:",
+            "options": [
+                "20 cm³",
+                "30 cm³",
+                "60 cm³",
+                "180 cm³"
+            ],
+            "answer": "20 cm³",
+            "explanation": "O volume da pirâmide é V = (Área da Base * altura) / 3. V = (12 * 5) / 3 = 60 / 3 = 20 cm³."
+        },
+        {
+            "question": "Se o raio de uma esfera for dobrado, seu volume ficará multiplicado por:",
+            "options": [
+                "2",
+                "4",
+                "6",
+                "8"
+            ],
+            "answer": "8",
+            "explanation": "O volume da esfera (4/3 * Pi * R³) depende do raio ao cubo (R³). 2³ = 8."
+        },
+        {
+            "question": "Qual é a fórmula do volume do cone?",
+            "options": [
+                "Pi * r² * h",
+                "(Pi * r² * h)/3",
+                "4/3 * Pi * r³",
+                "2 * Pi * r * h"
+            ],
+            "answer": "(Pi * r² * h)/3",
+            "explanation": "O volume do cone é exatamente um terço do volume do cilindro com mesma base e altura."
+        },
+        {
+            "question": "Quantas arestas, vértices e faces tem, respectivamente, um cubo?",
+            "options": [
+                "12, 8, 6",
+                "10, 6, 8",
+                "8, 12, 6",
+                "6, 8, 12"
+            ],
+            "answer": "12, 8, 6",
+            "explanation": "Um cubo possui 12 arestas (linhas), 8 vértices (pontas) e 6 faces (lados quadrados)."
+        },
+        {
+            "question": "Um cilindro equilibrado equilátero é aquele cuja altura é igual:",
+            "options": [
+                "Ao raio.",
+                "Ao diâmetro da base.",
+                "A Pi.",
+                "Ao comprimento da circunferência."
+            ],
+            "answer": "Ao diâmetro da base.",
+            "explanation": "No cilindro equilátero, a seção meridiana é um quadrado, ou seja, h = 2r."
+        },
+        {
+            "question": "O recipiente perfeito que otimiza a quantidade de material gasto para armazenar o maior volume possível é a:",
+            "options": [
+                "Caixa retangular",
+                "Esfera",
+                "Cone",
+                "Cilindro"
+            ],
+            "answer": "Esfera",
+            "explanation": "A esfera é a forma geométrica que possui a menor área de superfície para um determinado volume."
+        },
+        {
+            "question": "Na função do 1º grau f(x) = 3x - 12, qual é o zero da função (valor de x quando f(x) = 0)?",
+            "options": [
+                "-4",
+                "4",
+                "12",
+                "-12"
+            ],
+            "answer": "4",
+            "explanation": "3x - 12 = 0 => 3x = 12 => x = 4."
+        },
+        {
+            "question": "Uma viagem de Uber no Recife cobra um valor fixo de R$ 5 (bandeirada) mais R$ 2,50 por km rodado. Qual a função matemática que representa o custo C em relação aos km rodados (x)?",
+            "options": [
+                "C(x) = 5x + 2,50",
+                "C(x) = 2,50x + 5",
+                "C(x) = 7,50x",
+                "C(x) = 2,50 + 5x"
+            ],
+            "answer": "C(x) = 2,50x + 5",
+            "explanation": "O valor variável multiplica o x (2,50*x) e soma-se o valor fixo (+5)."
+        },
+        {
+            "question": "O gráfico de uma função polinomial do 2º grau (ex: f(x) = ax² + bx + c) é representado geometricamente por uma:",
+            "options": [
+                "Reta",
+                "Hipérbole",
+                "Parábola",
+                "Elipse"
+            ],
+            "answer": "Parábola",
+            "explanation": "Funções quadráticas geram parábolas com concavidade para cima (se a > 0) ou para baixo (se a < 0)."
+        },
+        {
+            "question": "Na equação do 2º grau x² - 5x + 6 = 0, as raízes são:",
+            "options": [
+                "1 e 6",
+                "-2 e -3",
+                "2 e 3",
+                "0 e 5"
+            ],
+            "answer": "2 e 3",
+            "explanation": "Pela soma (S=-b/a = 5) e produto (P=c/a = 6), os números que somados dão 5 e multiplicados dão 6 são 2 e 3."
+        },
+        {
+            "question": "O ponto de interseção da reta f(x) = -2x + 8 com o eixo Y ocorre quando Y vale:",
+            "options": [
+                "0",
+                "-2",
+                "4",
+                "8"
+            ],
+            "answer": "8",
+            "explanation": "A interseção com o eixo Y ocorre quando x=0. f(0) = -2(0) + 8 = 8. O termo independente 'c' indica esse ponto."
+        },
+        {
+            "question": "Se o discriminante (Delta) de uma equação do 2º grau for negativo (Delta < 0), o que podemos afirmar sobre as raízes reais?",
+            "options": [
+                "Existem duas raízes reais iguais.",
+                "Existem duas raízes reais distintas.",
+                "Não existem raízes reais.",
+                "A raiz será sempre zero."
+            ],
+            "answer": "Não existem raízes reais.",
+            "explanation": "Quando Delta < 0, a equação não possui solução no conjunto dos números reais."
+        },
+        {
+            "question": "O lucro de uma fábrica é dado por L(x) = -x² + 20x, onde x é a quantidade de unidades vendidas. Qual o número de unidades para o lucro ser MÁXIMO?",
+            "options": [
+                "10",
+                "20",
+                "5",
+                "15"
+            ],
+            "answer": "10",
+            "explanation": "O vértice da parábola indica o máximo. Xv = -b / (2a) = -20 / (2 * -1) = -20 / -2 = 10."
+        },
+        {
+            "question": "Sabendo que f(x) = 5x - 3, determine f(2).",
+            "options": [
+                "7",
+                "10",
+                "13",
+                "3"
+            ],
+            "answer": "7",
+            "explanation": "Substituindo o x por 2: f(2) = 5*(2) - 3 = 10 - 3 = 7."
+        },
+        {
+            "question": "Uma reta é crescente quando o coeficiente angular (a) da função f(x) = ax + b for:",
+            "options": [
+                "Igual a zero",
+                "Positivo (a > 0)",
+                "Negativo (a < 0)",
+                "Igual a b"
+            ],
+            "answer": "Positivo (a > 0)",
+            "explanation": "O sinal de 'a' dita a inclinação. Sendo a > 0, a reta é crescente."
+        },
+        {
+            "question": "A expressão algébrica (x + 3)² é igual a:",
+            "options": [
+                "x² + 9",
+                "x² + 3x + 9",
+                "x² + 6x + 9",
+                "2x + 6"
+            ],
+            "answer": "x² + 6x + 9",
+            "explanation": "Produto notável (quadrado da soma): quadrado do 1º + duas vezes o 1º pelo 2º + quadrado do 2º."
+        },
+        {
+            "question": "A distância real entre Recife e uma cidade do interior é de 300 km. Em um mapa com escala 1:1.000.000, essa distância em centímetros é:",
+            "options": [
+                "3 cm",
+                "30 cm",
+                "300 cm",
+                "0,3 cm"
+            ],
+            "answer": "30 cm",
+            "explanation": "300 km = 30.000.000 cm. Dividindo pela escala: 30.000.000 / 1.000.000 = 30 cm."
+        },
+        {
+            "question": "Uma maquete de um edifício foi construída na escala de 1:50. Se a maquete tem 1 metro de altura, a altura do prédio real é:",
+            "options": [
+                "5 metros",
+                "10 metros",
+                "50 metros",
+                "100 metros"
+            ],
+            "answer": "50 metros",
+            "explanation": "1m na maquete equivale a 50m no mundo real, multiplicando pela escala."
+        },
+        {
+            "question": "A escala de uma planta é 1:200. Uma parede mede 5 cm no desenho. O tamanho real é:",
+            "options": [
+                "1 metro",
+                "5 metros",
+                "10 metros",
+                "20 metros"
+            ],
+            "answer": "10 metros",
+            "explanation": "5 cm * 200 = 1000 cm. Convertendo para metros, 1000 / 100 = 10 metros."
+        },
+        {
+            "question": "Se 3/4 de um tanque de gasolina enchem 45 litros, qual é a capacidade total do tanque?",
+            "options": [
+                "50 litros",
+                "55 litros",
+                "60 litros",
+                "65 litros"
+            ],
+            "answer": "60 litros",
+            "explanation": "Se 3 partes são 45, cada parte é 15. O total (4 partes) é 4 * 15 = 60 litros."
+        },
+        {
+            "question": "Em notação científica, o número 0,00045 é escrito como:",
+            "options": [
+                "4,5 x 10³",
+                "4,5 x 10⁻³",
+                "4,5 x 10⁻⁴",
+                "4,5 x 10⁴"
+            ],
+            "answer": "4,5 x 10⁻⁴",
+            "explanation": "Andamos a vírgula 4 casas para a direita, deixando o expoente negativo."
+        },
+        {
+            "question": "O que representa uma escala gráfica em um mapa?",
+            "options": [
+                "O tamanho do papel impresso.",
+                "A relação visual através de uma reta graduada entre distâncias do mapa e reais.",
+                "As cores das montanhas.",
+                "A latitude da cidade."
+            ],
+            "answer": "A relação visual através de uma reta graduada entre distâncias do mapa e reais.",
+            "explanation": "É o segmento de reta que mostra diretamente quanto cada pedaço do papel vale no chão."
+        },
+        {
+            "question": "Velocidade média é a razão entre:",
+            "options": [
+                "Tempo e Força.",
+                "Massa e Volume.",
+                "Distância percorrida e Tempo gasto.",
+                "Distância percorrida e Aceleração."
+            ],
+            "answer": "Distância percorrida e Tempo gasto.",
+            "explanation": "Vm = delta S / delta T."
+        },
+        {
+            "question": "Densidade demográfica é o cálculo feito dividindo-se o número de habitantes pela:",
+            "options": [
+                "Renda per capita.",
+                "Área do território ocupado.",
+                "Quantidade de casas.",
+                "Quantidade de indústrias."
+            ],
+            "answer": "Área do território ocupado.",
+            "explanation": "Indica quantos habitantes há em média por quilômetro quadrado (hab/km²)."
+        },
+        {
+            "question": "Ao ler 'Velocidade da internet: 100 Mbps', a sigla 'M' (Mega) significa um multiplicador de:",
+            "options": [
+                "Mil (10³)",
+                "Milhão (10⁶)",
+                "Bilhão (10⁹)",
+                "Trilhão (10¹²)"
+            ],
+            "answer": "Milhão (10⁶)",
+            "explanation": "Mega equivale a 1.000.000 (um milhão)."
+        },
+        {
+            "question": "Se 1 kg de queijo coalho custa R$ 45 em Bodocó, 200 gramas desse queijo custarão:",
+            "options": [
+                "R$ 4,50",
+                "R$ 9,00",
+                "R$ 15,00",
+                "R$ 22,50"
+            ],
+            "answer": "R$ 9,00",
+            "explanation": "200g é a quinta parte de 1000g (1 kg). Dividindo 45 / 5 = R$ 9,00."
+        },
+        {
+            "question": "Um estudante tirou notas 6, 7 e 8 nos três primeiros bimestres. Para que a média aritmética anual (4 bimestres) seja exata 7, quanto ele deve tirar no 4º bimestre?",
+            "options": [
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "answer": "7",
+            "explanation": "Soma atual = 21. A média 7 precisa de 28 pontos totais (7x4). 28 - 21 = 7."
+        },
+        {
+            "question": "Dada a lista de idades: 14, 15, 15, 16, 17. Qual é a Mediana?",
+            "options": [
+                "14",
+                "15",
+                "15,5",
+                "16"
+            ],
+            "answer": "15",
+            "explanation": "A mediana é o termo central em uma lista ordenada. O 3º número é 15."
+        },
+        {
+            "question": "A 'Moda' em um conjunto de dados estatísticos representa:",
+            "options": [
+                "O valor médio de todos os dados.",
+                "A diferença entre o maior e menor valor.",
+                "O valor que aparece com maior frequência (que mais repete).",
+                "O valor central da amostra."
+            ],
+            "answer": "O valor que aparece com maior frequência (que mais repete).",
+            "explanation": "Moda é, literal e estatisticamente, aquilo que está 'em alta' ou que aparece mais vezes."
+        },
+        {
+            "question": "Qual a probabilidade de obter o número 4 ao lançar um dado convencional não viciado de 6 faces?",
+            "options": [
+                "1/4",
+                "1/2",
+                "1/6",
+                "1/5"
+            ],
+            "answer": "1/6",
+            "explanation": "Há 1 evento favorável (a face 4) de 6 eventos possíveis no total."
+        },
+        {
+            "question": "No lançamento de duas moedas justas, qual a chance de dar 'Cara' em ambas?",
+            "options": [
+                "50%",
+                "25%",
+                "75%",
+                "33%"
+            ],
+            "answer": "25%",
+            "explanation": "As combinações são: (Ca,Ca), (Ca,Co), (Co,Ca), (Co,Co). Apenas 1 em 4. 1/4 = 25%."
+        },
+        {
+            "question": "Uma urna tem 3 bolas vermelhas, 2 verdes e 5 azuis. Tirando uma bola ao acaso, a probabilidade de NÃO ser azul é:",
+            "options": [
+                "20%",
+                "30%",
+                "50%",
+                "80%"
+            ],
+            "answer": "50%",
+            "explanation": "Total de bolas = 10. As não-azuis são vermelhas(3) + verdes(2) = 5. Chance = 5/10 = 50%."
+        },
+        {
+            "question": "Ao analisar um gráfico de setores (gráfico de pizza), uma fatia correspondente a 25% tem um ângulo interno de:",
+            "options": [
+                "25 graus",
+                "45 graus",
+                "90 graus",
+                "180 graus"
+            ],
+            "answer": "90 graus",
+            "explanation": "25% é o mesmo que um quarto. 1/4 de 360º = 90º (um ângulo reto)."
+        },
+        {
+            "question": "A Variância e o Desvio Padrão são medidas estatísticas de:",
+            "options": [
+                "Tendência Central.",
+                "Dispersão.",
+                "Correlação.",
+                "Probabilidade Absoluta."
+            ],
+            "answer": "Dispersão.",
+            "explanation": "Eles medem o quão distantes os dados estão da média central."
+        },
+        {
+            "question": "Se a média de um grupo de 10 pessoas é 30 anos e uma pessoa de 52 anos entra no grupo, a nova média passa a ser:",
+            "options": [
+                "30",
+                "31",
+                "32",
+                "33"
+            ],
+            "answer": "32",
+            "explanation": "Soma original = 300. Com a nova pessoa = 352. Agora são 11 pessoas. 352 / 11 = 32 anos."
+        },
+        {
+            "question": "Probabilidade de evento certo é sempre igual a:",
+            "options": [
+                "0%",
+                "50%",
+                "99%",
+                "100% ou 1"
+            ],
+            "answer": "100% ou 1",
+            "explanation": "Quando temos certeza que um evento irá ocorrer, sua probabilidade é total (1 inteiro ou 100%)."
+        },
+        {
+            "question": "No triângulo retângulo, a relação 'Cateto Oposto / Hipotenusa' define o:",
+            "options": [
+                "Seno",
+                "Cosseno",
+                "Tangente",
+                "Secante"
+            ],
+            "answer": "Seno",
+            "explanation": "SOH: Seno = Oposto / Hipotenusa."
+        },
+        {
+            "question": "A Tangente de um ângulo de 45º é:",
+            "options": [
+                "0",
+                "0,5",
+                "1",
+                "Raiz de 3"
+            ],
+            "answer": "1",
+            "explanation": "Em 45º, os catetos oposto e adjacente são iguais, logo a divisão dá 1."
+        },
+        {
+            "question": "A Relação Fundamental da Trigonometria afirma que para qualquer ângulo x:",
+            "options": [
+                "sen(x) + cos(x) = 1",
+                "sen²(x) + cos²(x) = 1",
+                "sen(x) / cos(x) = 1",
+                "sen²(x) - cos²(x) = 1"
+            ],
+            "answer": "sen²(x) + cos²(x) = 1",
+            "explanation": "É derivada diretamente do Teorema de Pitágoras no ciclo trigonométrico de raio 1."
+        },
+        {
+            "question": "O Cosseno de 60 graus vale:",
+            "options": [
+                "1/2",
+                "Raiz de 2 / 2",
+                "Raiz de 3 / 2",
+                "1"
+            ],
+            "answer": "1/2",
+            "explanation": "Pela tabela dos ângulos notáveis, cos(60º) = 0,5 ou 1/2."
+        },
+        {
+            "question": "Se um avião decola fazendo um ângulo de 30º com o solo, após percorrer 2.000 metros no ar, qual é a sua altura em relação ao chão? (Considere sen 30º = 0,5)",
+            "options": [
+                "500 metros",
+                "1.000 metros",
+                "1.500 metros",
+                "2.000 metros"
+            ],
+            "answer": "1.000 metros",
+            "explanation": "Altura = cateto oposto. Sen(30º) = h / 2000 => 0,5 = h / 2000 => h = 1000m."
+        },
+        {
+            "question": "Um prédio projeta uma sombra de 15 m quando os raios solares formam um ângulo de 45º com o solo. Qual a altura do prédio? (Lembre-se que tg 45º = 1)",
+            "options": [
+                "10 m",
+                "15 m",
+                "20 m",
+                "30 m"
+            ],
+            "answer": "15 m",
+            "explanation": "Tg(45º) = Altura / Sombra => 1 = h / 15 => h = 15 m."
+        },
+        {
+            "question": "Um círculo completo (circunferência) corresponde a quantos radianos?",
+            "options": [
+                "Pi radianos",
+                "1,5 Pi radianos",
+                "2 Pi radianos",
+                "4 Pi radianos"
+            ],
+            "answer": "2 Pi radianos",
+            "explanation": "360 graus = 2*Pi radianos."
+        },
+        {
+            "question": "Em um triângulo qualquer, a Lei dos Senos relaciona:",
+            "options": [
+                "Lado e o seno do seu respectivo ângulo oposto.",
+                "O quadrado dos catetos.",
+                "O produto das diagonais.",
+                "As tangentes dos três ângulos."
+            ],
+            "answer": "Lado e o seno do seu respectivo ângulo oposto.",
+            "explanation": "A lei determina que a/sen(A) = b/sen(B) = c/sen(C)."
+        },
+        {
+            "question": "Se o Seno de um ângulo é 0,6 e o Cosseno do mesmo ângulo é 0,8, quanto vale sua Tangente?",
+            "options": [
+                "0,2",
+                "0,48",
+                "0,75",
+                "1,4"
+            ],
+            "answer": "0,75",
+            "explanation": "Tangente = Seno / Cosseno = 0,6 / 0,8 = 6 / 8 = 3/4 = 0,75."
+        },
+        {
+            "question": "Num triângulo retângulo, a hipotenusa mede 10 e o cateto oposto ao ângulo alfa mede 5. Qual o valor do ângulo alfa?",
+            "options": [
+                "30 graus",
+                "45 graus",
+                "60 graus",
+                "90 graus"
+            ],
+            "answer": "30 graus",
+            "explanation": "Sen(alfa) = 5/10 = 0,5. O ângulo cujo seno é 0,5 é 30º."
+        },
+        {
+            "question": "Numa Progressão Aritmética (PA), a sequência é (3, 7, 11, ...). Qual é a razão dessa PA?",
+            "options": [
+                "3",
+                "4",
+                "7",
+                "21"
+            ],
+            "answer": "4",
+            "explanation": "A razão é a diferença entre um termo e o anterior: 7 - 3 = 4."
+        },
+        {
+            "question": "Qual é o 10º termo da PA (2, 4, 6, 8...)?",
+            "options": [
+                "10",
+                "18",
+                "20",
+                "22"
+            ],
+            "answer": "20",
+            "explanation": "Fórmula: a10 = a1 + (n-1)*R = 2 + (9)*2 = 2 + 18 = 20."
+        },
+        {
+            "question": "Numa Progressão Geométrica (PG), a sequência é (2, 6, 18...). Qual é o 4º termo?",
+            "options": [
+                "24",
+                "36",
+                "54",
+                "72"
+            ],
+            "answer": "54",
+            "explanation": "A razão q é 3. O próximo termo é 18 * 3 = 54."
+        },
+        {
+            "question": "Uma bactéria se duplica a cada hora. Se começarmos com 1 bactéria, quantas teremos após 5 horas? (Isso forma uma PG)",
+            "options": [
+                "10",
+                "16",
+                "32",
+                "64"
+            ],
+            "answer": "32",
+            "explanation": "Sequência de horas: t0=1, t1=2, t2=4, t3=8, t4=16, t5=32."
+        },
+        {
+            "question": "O que indica o cálculo de um Fatorial, como o 4! ?",
+            "options": [
+                "4 + 3 + 2 + 1",
+                "4 * 4 * 4 * 4",
+                "4 * 3 * 2 * 1",
+                "4 / 2"
+            ],
+            "answer": "4 * 3 * 2 * 1",
+            "explanation": "Fatorial é a multiplicação do número natural pelos seus antecessores até o 1. (4! = 24)."
+        },
+        {
+            "question": "Quantos anagramas possui a palavra 'EXU'?",
+            "options": [
+                "3",
+                "6",
+                "9",
+                "12"
+            ],
+            "answer": "6",
+            "explanation": "Como tem 3 letras diferentes, o cálculo é Permutação de 3: P3 = 3! = 3 * 2 * 1 = 6."
+        },
+        {
+            "question": "Deseja-se montar uma comissão de 2 pessoas a partir de um grupo de 5 amigos. Como a ordem não importa, usamos a fórmula de:",
+            "options": [
+                "Arranjo simples",
+                "Permutação",
+                "Combinação simples",
+                "Probabilidade condicional"
+            ],
+            "answer": "Combinação simples",
+            "explanation": "Quando a ordem de escolha não altera o resultado (grupo AB é o mesmo que BA), usamos a Combinação."
+        },
+        {
+            "question": "Quantas senhas de 3 algarismos DISTINTOS podem ser formadas com os números 1, 2, 3 e 4?",
+            "options": [
+                "12",
+                "24",
+                "64",
+                "120"
+            ],
+            "answer": "24",
+            "explanation": "Como a ordem importa (senha) e não pode repetir: 4 (opções na 1ª) * 3 (na 2ª) * 2 (na 3ª) = 24."
+        },
+        {
+            "question": "A soma dos 10 primeiros números inteiros positivos (1+2+3...+10) é uma soma de PA e resulta em:",
+            "options": [
+                "45",
+                "50",
+                "55",
+                "100"
+            ],
+            "answer": "55",
+            "explanation": "Sn = (a1 + an)*n / 2 = (1 + 10)*10 / 2 = 11*5 = 55."
+        },
+        {
+            "question": "Se você tem 3 camisas e 2 calças, de quantas maneiras diferentes (combinações) pode se vestir? (Princípio Fundamental da Contagem)",
+            "options": [
+                "3",
+                "5",
+                "6",
+                "9"
+            ],
+            "answer": "6",
+            "explanation": "Multiplicam-se as possibilidades: 3 * 2 = 6 formas distintas."
+        }
+    ]
+}

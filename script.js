@@ -1,434 +1,14 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const quizData = {
-    matematica: [
-      {
-        question: "Quanto é 7 x 8?",
-        options: ["54", "56", "64", "49"],
-        answer: "56",
-        explanation: "Pela tabuada, 7 multiplicado por 8 resulta em 56."
-      },
-      {
-        question: "Qual é a raiz quadrada de 144?",
-        options: ["10", "11", "12", "14"],
-        answer: "12",
-        explanation: "12 x 12 = 144, portanto a raiz quadrada de 144 é 12."
-      },
-      {
-        question:
-          "Se um triângulo tem lados medindo 3, 4 e 5, qual é o seu perímetro?",
-        options: ["10", "12", "15", "9"],
-        answer: "12",
-        explanation: "O perímetro é a soma de todos os lados: 3 + 4 + 5 = 12."
-      },
-      {
-        question: "Quanto é 25% de 200?",
-        options: ["25", "40", "50", "75"],
-        answer: "50",
-        explanation: "25% equivale à quarta parte do valor (200 / 4 = 50)."
-      },
-      {
-        question: "Qual é o valor de x na equação: 2x + 6 = 14?",
-        options: ["x = 2", "x = 4", "x = 8", "x = 10"],
-        answer: "x = 4",
-        explanation: "2x = 14 - 6 => 2x = 8 => x = 4."
-      }
-    ],
-    portugues: [
-      {
-        question:
-          "Qual das alternativas abaixo contém apenas palavras oxítonas?",
-        options: [
-          "Café, sofá, cajá",
-          "Lâmpada, mesa, cadeira",
-          "Árvore, lápis, fácil",
-          "Livro, caderno, caneta"
-        ],
-        answer: "Café, sofá, cajá",
-        explanation:
-          "Palavras oxítonas têm a última sílaba como a sílaba tônica."
-      },
-      {
-        question: "O que é um antônimo?",
-        options: [
-          "Palavras com o mesmo significado",
-          "Palavras com significados opostos",
-          "Palavras que soam igual",
-          "O sujeito da oração"
-        ],
-        answer: "Palavras com significados opostos",
-        explanation:
-          "Antônimos são palavras com sentidos contrários (ex: claro e escuro)."
-      },
-      {
-        question:
-          "Assinale a alternativa em que a crase foi empregada corretamente:",
-        options: [
-          "Fui à praia ontem.",
-          "Entreguei o caderno à você.",
-          "Comprei o livro à prazo.",
-          "Cheguei à tarde."
-        ],
-        answer: "Fui à praia ontem.",
-        explanation:
-          "Ocorre crase antes de substantivos femininos que exigem a preposição 'a'."
-      },
-      {
-        question:
-          "Qual figura de linguagem está presente em: 'O vento sussurrava segredos na noite'?",
-        options: [
-          "Metáfora",
-          "Personificação (Prosopopeia)",
-          "Hipérbole",
-          "Antítese"
-        ],
-        answer: "Personificação (Prosopopeia)",
-        explanation:
-          "Atribuir ações humanas (sussurrar) a seres inanimados (vento) é personificação."
-      },
-      {
-        question: "Qual é a classe gramatical da palavra 'rapidamente'?",
-        options: ["Substantivo", "Adjetivo", "Verbo", "Advérbio"],
-        answer: "Advérbio",
-        explanation:
-          "Palavras terminadas em '-mente' que indicam modo são advérbios."
-      }
-    ],
-    quimica: [
-      {
-        question:
-          "Qual é o principal gás responsável pelo Efeito Estufa natural na Terra?",
-        options: [
-          "Oxigênio",
-          "Nitrogênio",
-          "Dióxido de Carbono (CO2)",
-          "Hélio"
-        ],
-        answer: "Dióxido de Carbono (CO2)",
-        explanation:
-          "O CO2 retém a radiação infravermelha, mantendo a Terra aquecida."
-      },
-      {
-        question: "Qual é a unidade básica da vida em todos os organismos?",
-        options: ["Átomo", "Célula", "Tecido", "Molécula"],
-        answer: "Célula",
-        explanation:
-          "A célula é a menor unidade estrutural e funcional dos seres vivos."
-      },
-      {
-        question:
-          "Um átomo neutro de Cloro possui Z = 17 e A = 35. Qual é a quantidade de prótons, nêutrons e elétrons?",
-        options: [
-          "17 prótons, 18 nêutrons e 17 elétrons",
-          "17 prótons, 35 nêutrons e 17 elétrons",
-          "35 prótons, 17 nêutrons e 35 elétrons",
-          "18 prótons, 17 nêutrons e 18 elétrons"
-        ],
-        answer: "17 prótons, 18 nêutrons e 17 elétrons",
-        explanation:
-          "Prótons = Z (17); Elétrons em átomo neutro = Z (17); Nêutrons = A - Z (35 - 17 = 18)."
-      },
-      {
-        question:
-          "Qual é o órgão responsável por bombear o sangue pelo corpo humano?",
-        options: ["Pulmão", "Cérebro", "Coração", "Fígado"],
-        answer: "Coração",
-        explanation:
-          "O coração é o órgão muscular encarregado do bombeamento sanguíneo."
-      },
-      {
-        question:
-          "O cloreto de sódio (NaCl) é formado por qual tipo de ligação química?",
-        options: [
-          "Ligação iônica com transferência de elétrons",
-          "Ligação metálica com formação de elétrons livres",
-          "Ligação de hidrogênio com atração entre dipolos permanentes",
-          "Ligação covalente com compartilhamento de pares eletrônicos"
-        ],
-        answer: "Ligação iônica com transferência de elétrons",
-        explanation:
-          "Ocorre transferência de elétrons entre um metal (Na) e um não-metal (Cl)."
-      }
-    ],
-    historia: [
-      {
-        question: "Em que ano ocorreu a Proclamação da República no Brasil?",
-        options: ["1822", "1889", "1500", "1930"],
-        answer: "1889",
-        explanation:
-          "Ocorreu em 15 de novembro de 1889, liderada pelo Marechal Deodoro da Fonseca."
-      },
-      {
-        question:
-          "Qual civilização antiga construiu as famosas Pirâmides de Gizé?",
-        options: ["Grega", "Romana", "Egípcia", "Maia"],
-        answer: "Egípcia",
-        explanation:
-          "Construídas durante o Antigo Império Egípcio como monumentos funerários."
-      },
-      {
-        question:
-          "Quem foi o líder indiano famoso por sua luta pacífica pela independência do país?",
-        options: [
-          "Nelson Mandela",
-          "Che Guevara",
-          "Mahatma Gandhi",
-          "Martin Luther King"
-        ],
-        answer: "Mahatma Gandhi",
-        explanation:
-          "Gandhi utilizou a estratégia da resistência não-violenta e desobediência civil."
-      },
-      {
-        question: "Qual evento marcou o início da Idade Contemporânea em 1789?",
-        options: [
-          "A Queda do Império Romano",
-          "A Revolução Francesa",
-          "O Descobrimento do Brasil",
-          "A Primeira Guerra Mundial"
-        ],
-        answer: "A Revolução Francesa",
-        explanation:
-          "A Revolução Francesa pôs fim ao Absolutismo e iniciou a Idade Contemporânea."
-      },
-      {
-        question: "Quem foi o primeiro imperador do Brasil?",
-        options: [
-          "Dom Pedro I",
-          "Dom Pedro II",
-          "Tiradentes",
-          "Marechal Deodoro da Fonseca"
-        ],
-        answer: "Dom Pedro I",
-        explanation:
-          "Dom Pedro I proclamou a Independência em 1822 e tornou-se o primeiro imperador."
-      }
-    ],
-    filosofia: [
-      {
-        question:
-          "Qual filósofo grego é famoso pela frase 'Só sei que nada sei'?",
-        options: ["Aristóteles", "Sócrates", "Platão", "Pitágoras"],
-        answer: "Sócrates",
-        explanation:
-          "Frase célebre de Sócrates que destaca o ponto de partida para a busca da sabedoria."
-      },
-      {
-        question:
-          "No famoso 'Mito da Caverna' de Platão, o que representam as sombras?",
-        options: [
-          "A verdade absoluta sobre o mundo",
-          "A ilusão e as aparências do mundo sensível",
-          "O conhecimento científico avançado",
-          "A sabedoria dos deuses gregos"
-        ],
-        answer: "A ilusão e as aparências do mundo sensível",
-        explanation:
-          "As sombras representam o conhecimento falso obtido apenas pelos sentidos."
-      },
-      {
-        question: "Para Aristóteles, qual é a busca central da vida ética?",
-        options: [
-          "A riqueza material",
-          "A busca pelo poder",
-          "A felicidade (Eudaimonia)",
-          "O isolamento do mundo"
-        ],
-        answer: "A felicidade (Eudaimonia)",
-        explanation:
-          "Para Aristóteles, a Eudaimonia (felicidade plena) é o objetivo supremo do ser humano."
-      },
-      {
-        question:
-          "Qual frase célebre de René Descartes resume sua primeira certeza existencial?",
-        options: [
-          "O homem é o lobo do homem.",
-          "Penso, logo existo.",
-          "Deus está morto.",
-          "O conhecimento é poder."
-        ],
-        answer: "Penso, logo existo.",
-        explanation:
-          "Conclusão de Descartes de que o ato de duvidar e pensar comprova a própria existência."
-      },
-      {
-        question:
-          "Segundo Thomas Hobbes, como seria a vida humana no 'Estado de Natureza'?",
-        options: [
-          "Um estado de paz perfeita e harmonia comunitária",
-          "Uma constante situação de guerra e insegurança",
-          "Um período de grande avanço tecnológico",
-          "Uma vida dedicada inteiramente à arte e ao estudo"
-        ],
-        answer: "Uma constante situação de guerra e insegurança",
-        explanation:
-          "Hobbes defendia que sem leis ou um Estado forte, os seres humanos viveriam em guerra contínua."
-      }
-    ],
-    sociologia: [
-      {
-        question:
-          "Qual sociólogo clássico desenvolveu o conceito de 'Fato Social'?",
-        options: ["Karl Marx", "Émile Durkheim", "Max Weber", "Auguste Comte"],
-        answer: "Émile Durkheim",
-        explanation:
-          "Durkheim definiu Fatos Sociais como regras e padrões sociais que exercem força sobre os indivíduos."
-      },
-      {
-        question:
-          "Para Karl Marx, qual é o principal motor de transformação histórica?",
-        options: [
-          "A luta de classes",
-          "O avanço tecnológico isolado",
-          "As crenças religiosas",
-          "O consenso entre governantes e governados"
-        ],
-        answer: "A luta de classes",
-        explanation:
-          "Marx defendia que os conflitos entre classes sociais impulsionam as mudanças na história."
-      },
-      {
-        question:
-          "Max Weber propôs o conceito de 'Ação Social'. O que define uma Ação Social?",
-        options: [
-          "Qualquer comportamento biológico feito por um ser humano",
-          "Uma ação individual que leva em consideração o sentido e o comportamento de outros indivíduos",
-          "Apenas ações promovidas pelo governo ou pelo Estado",
-          "Um movimento revolucionário organizado pela classe trabalhadora"
-        ],
-        answer:
-          "Uma ação individual que leva em consideração o sentido e o comportamento de outros indivíduos",
-        explanation:
-          "Ação Social é a conduta em que o indivíduo atribui um sentido orientado pela ação dos outros."
-      },
-      {
-        question: "O conceito de 'Cultura' na sociologia refere-se a:",
-        options: [
-          "Apenas às belas-artes, como música clássica e teatro",
-          "A quantidade de anos de escolaridade de uma pessoa",
-          "Ao conjunto de hábitos, costumes, crenças, valores e tradições aprendidos e compartilhados em sociedade",
-          "À capacidade nata e biológica de falar idiomas"
-        ],
-        answer:
-          "Ao conjunto de hábitos, costumes, crenças, valores e tradições aprendidos e compartilhados em sociedade",
-        explanation:
-          "Cultura abrange todo o conhecimento e hábitos produzidos e transmitidos socialmente."
-      },
-      {
-        question: "O que caracteriza a 'Estratificação Social' nas sociedades?",
-        options: [
-          "A divisão exata e igualitária de riquezas entre todos os cidadãos",
-          "A disposição dos indivíduos em camadas ou grupos sociais hierarquizados com base em fatores como renda, poder e prestígio",
-          "A migração voluntária de pessoas entre diferentes países",
-          "O isolamento total de culturas locais em relação ao resto do mundo"
-        ],
-        answer:
-          "A disposição dos indivíduos em camadas ou grupos sociais hierarquizados com base em fatores como renda, poder e prestígio",
-        explanation:
-          "Refere-se à organização da sociedade em camadas com acessos desiguais a recursos."
-      }
-    ],
-    fisica: [
-      {
-        question:
-          "Qual das Leis de Newton afirma que 'para toda ação há uma reação de igual intensidade e sentido oposto'?",
-        options: [
-          "Primeira Lei (Inércia)",
-          "Segunda Lei (Dinâmica)",
-          "Terceira Lei (Ação e Reação)",
-          "Lei da Gravitação Universal"
-        ],
-        answer: "Terceira Lei (Ação e Reação)",
-        explanation:
-          "A Terceira Lei estabelece que forças funcionam sempre em pares de ação e reação."
-      },
-      {
-        question:
-          "Um carro percorre 150 km em 2 horas. Qual a sua velocidade média?",
-        options: ["50 km/h", "75 km/h", "100 km/h", "150 km/h"],
-        answer: "75 km/h",
-        explanation:
-          "Velocidade média = Distância / Tempo (150 km / 2 h = 75 km/h)."
-      },
-      {
-        question:
-          "Qual o fenômeno óptico responsável pelo desvio da luz ao mudar de meio transparente?",
-        options: ["Reflexão", "Refração", "Difração", "Polarização"],
-        answer: "Refração",
-        explanation:
-          "A refração é a mudança na direção e velocidade da luz ao passar de um meio para outro."
-      },
-      {
-        question:
-          "A energia transferida entre corpos devido à diferença de temperatura é:",
-        options: ["Trabalho", "Calor", "Pressão", "Entropia"],
-        answer: "Calor",
-        explanation:
-          "Calor é a energia térmica em trânsito motivada pela diferença de temperatura."
-      },
-      {
-        question:
-          "Segundo a Primeira Lei da Termodinâmica, a energia não pode ser criada nem destruída, apenas:",
-        options: [
-          "Aniquilada",
-          "Multiplicada",
-          "Transformada ou transferida",
-          "Armazenada sem perdas infinitamente"
-        ],
-        answer: "Transformada ou transferida",
-        explanation: "Princípio fundamental da conservação de energia."
-      }
-    ],
-    geografia: [
-      {
-        question:
-          "Qual linha imaginária divide a Terra nos hemisférios Norte e Sul?",
-        options: [
-          "Trópico de Câncer",
-          "Trópico de Capricórnio",
-          "Linha do Equador",
-          "Meridiano de Greenwich"
-        ],
-        answer: "Linha do Equador",
-        explanation:
-          "A Linha do Equador é o marco inicial (latitude 0°) do planeta."
-      },
-      {
-        question:
-          "O movimento da Terra em torno do seu próprio eixo, gerando dias e noites, é a:",
-        options: ["Transladação", "Rotação", "Precessão", "Nutação"],
-        answer: "Rotação",
-        explanation:
-          "O movimento de rotação completa dura aproximadamente 24 horas."
-      },
-      {
-        question: "A camada rígida da Terra dividida em placas tectônicas é a:",
-        options: ["Litosfera", "Astenosfera", "Núcleo interno", "Hidrosfera"],
-        answer: "Litosfera",
-        explanation:
-          "Composta pela crosta e pela porção superior do manto terrestre."
-      },
-      {
-        question:
-          "Qual bioma brasileiro apresenta clima semiárido e vegetação adaptada à seca?",
-        options: ["Mata Atlântica", "Caatinga", "Pampa", "Floresta Amazônica"],
-        answer: "Caatinga",
-        explanation:
-          "Bioma exclusivamente brasileiro com plantas xerófilas (adaptadas à falta d'água)."
-      },
-      {
-        question:
-          "O deslocamento espacial de populações de um local para outro é a:",
-        options: [
-          "Urbanização",
-          "Êxodo rural",
-          "Migração",
-          "Transição demográfica"
-        ],
-        answer: "Migração",
-        explanation:
-          "Termo genérico para a mobilidade espacial de grupos populacionais."
-      }
-    ]
+  // Mapeamento dos arquivos JSON gerados
+  const arquivosDasDisciplinas = {
+    portugues: './data/lote1_portugues_80_questoes.json',
+    matematica: './data/lote2_matematica_80_questoes.json',
+    historia: './data/lote3_historia_80_questoes.json',
+    geografia: './data/lote4_geografia_80_questoes.json',
+    fisica: './data/lote5_fisica_80_questoes.json',
+    quimica: './data/lote6_quimica_80_questoes.json',
+    sociologia: './data/lote7_sociologia_80_questoes.json',
+    filosofia: './data/lote8_filosofia_80_questoes.json'
   };
 
   let currentSubject = null;
@@ -452,10 +32,7 @@ document.addEventListener("DOMContentLoaded", () => {
     document.body.classList.toggle("dark-mode");
     const darkModeActive = document.body.classList.contains("dark-mode");
     btnThemeToggle.textContent = darkModeActive ? "☀️" : "🌙";
-    localStorage.setItem(
-      "tech_bonder_theme",
-      darkModeActive ? "dark" : "light"
-    );
+    localStorage.setItem("tech_bonder_theme", darkModeActive ? "dark" : "light");
   });
 
   // Efeitos sonoros via Web Audio API
@@ -570,30 +147,74 @@ document.addEventListener("DOMContentLoaded", () => {
       explanationBox.style.display = "block";
     }
 
-    btnNext.textContent =
-      currentQuestionIndex < currentQuestions.length - 1
-        ? "Próxima Pergunta"
-        : "Ver Resultado";
+    btnNext.textContent = currentQuestionIndex < currentQuestions.length - 1 ? "Próxima Pergunta" : "Ver Resultado";
     btnNext.style.display = "block";
   }
 
-  function startQuiz(subjectKey) {
+  // --- NOVA FUNÇÃO ASSÍNCRONA PARA BUSCAR O JSON E GERENCIAR MEMÓRIA ---
+  async function startQuiz(subjectKey) {
     currentSubject = subjectKey;
-    currentQuestions = quizData[subjectKey].map((q) => ({
-      question: q.question,
-      options: shuffleArray(q.options),
-      answer: q.answer,
-      explanation: q.explanation
-    }));
-
     currentQuestionIndex = 0;
     scoreCorrect = 0;
     scoreIncorrect = 0;
 
-    quizSubjectTitle.textContent =
-      subjectKey.charAt(0).toUpperCase() + subjectKey.slice(1);
+    quizSubjectTitle.textContent = subjectKey.charAt(0).toUpperCase() + subjectKey.slice(1);
     showScreen("quiz");
-    loadQuestion();
+
+    // Feedback visual de carregamento
+    questionText.textContent = "Carregando questões...";
+    optionsContainer.innerHTML = "";
+    btnNext.style.display = "none";
+    explanationBox.style.display = "none";
+    clearInterval(timerInterval);
+
+    try {
+      const caminhoJson = arquivosDasDisciplinas[subjectKey];
+      const resposta = await fetch(caminhoJson);
+      
+      if (!resposta.ok) {
+        throw new Error(`Erro HTTP: ${resposta.status}`);
+      }
+
+      const dados = await resposta.json();
+      const todasAsQuestoes = dados[subjectKey]; // Puxa as 80 do array
+
+      // Memória do localStorage
+      const chaveMemoria = `tech_bonder_vistas_${subjectKey}`;
+      let questoesVistas = JSON.parse(localStorage.getItem(chaveMemoria)) || [];
+
+      // Filtra as inéditas
+      let questoesIneditas = todasAsQuestoes.filter(q => !questoesVistas.includes(q.question));
+
+      // Se acabaram as perguntas inéditas (ou restarem menos de 5), reseta o ciclo
+      if (questoesIneditas.length < 5) {
+        console.log(`Banco de ${subjectKey} esgotado! Recomeçando ciclo...`);
+        questoesVistas = [];
+        questoesIneditas = todasAsQuestoes;
+      }
+
+      // Embaralha e separa 5
+      questoesIneditas = shuffleArray(questoesIneditas);
+      const questoesDestaRodada = questoesIneditas.slice(0, 5);
+
+      // Salva as novas 5 na memória para a próxima jogada
+      const textoDasNovasQuestoes = questoesDestaRodada.map(q => q.question);
+      localStorage.setItem(chaveMemoria, JSON.stringify([...questoesVistas, ...textoDasNovasQuestoes]));
+
+      // Formata a rodada atual embaralhando as opções também
+      currentQuestions = questoesDestaRodada.map((q) => ({
+        question: q.question,
+        options: shuffleArray(q.options),
+        answer: q.answer,
+        explanation: q.explanation
+      }));
+
+      loadQuestion();
+
+    } catch (erro) {
+      console.error("Erro ao carregar as questões:", erro);
+      questionText.textContent = "Erro ao carregar a disciplina. Verifique se os arquivos JSON estão na pasta '/data/' e se você está rodando o projeto através de um servidor local (Live Server).";
+    }
   }
 
   function loadQuestion() {
@@ -602,14 +223,10 @@ document.addEventListener("DOMContentLoaded", () => {
     explanationBox.style.display = "none";
 
     const currentQ = currentQuestions[currentQuestionIndex];
-
-    const progressPercent =
-      (currentQuestionIndex / currentQuestions.length) * 100;
+    const progressPercent = (currentQuestionIndex / currentQuestions.length) * 100;
     progressBar.style.width = `${progressPercent}%`;
 
-    questionCounter.textContent = `Pergunta ${currentQuestionIndex + 1} de ${
-      currentQuestions.length
-    }`;
+    questionCounter.textContent = `Pergunta ${currentQuestionIndex + 1} de ${currentQuestions.length}`;
     questionText.textContent = currentQ.question;
     optionsContainer.innerHTML = "";
 
@@ -653,10 +270,7 @@ document.addEventListener("DOMContentLoaded", () => {
       explanationBox.style.display = "block";
     }
 
-    btnNext.textContent =
-      currentQuestionIndex < currentQuestions.length - 1
-        ? "Próxima Pergunta"
-        : "Ver Resultado";
+    btnNext.textContent = currentQuestionIndex < currentQuestions.length - 1 ? "Próxima Pergunta" : "Ver Resultado";
     btnNext.style.display = "block";
   }
 
@@ -668,16 +282,13 @@ document.addEventListener("DOMContentLoaded", () => {
     const trophyElem = document.getElementById("trophy-icon");
 
     if (scoreCorrect === currentQuestions.length) {
-      feedbackMessage.textContent =
-        "Incrível! Você gabaritou todas as questões!";
+      feedbackMessage.textContent = "Incrível! Você gabaritou todas as questões!";
       trophyElem.textContent = "🏆";
     } else if (scoreCorrect >= currentQuestions.length / 2) {
-      feedbackMessage.textContent =
-        "Bom trabalho! Você teve um bom desempenho.";
+      feedbackMessage.textContent = "Bom trabalho! Você teve um bom desempenho.";
       trophyElem.textContent = "🌟";
     } else {
-      feedbackMessage.textContent =
-        "Continue praticando! Na próxima você consegue um resultado melhor.";
+      feedbackMessage.textContent = "Continue praticando! Na próxima você consegue um resultado melhor.";
       trophyElem.textContent = "📚";
     }
 
